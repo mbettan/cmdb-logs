@@ -1,0 +1,56 @@
+2018-01-05 16:36:08,388  INFO   [qtp613630562-6139] -  [ID= 312746593] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Datas From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Reason: Object is not identified to any object in UCMDB and is ignored
+2018-01-05 16:36:09,102  INFO   [qtp613630562-6139] -  [ID=1268222814] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Datas From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Reason: Object is not identified to any object in UCMDB and is ignored
+2018-01-05 16:36:09,788  INFO   [qtp613630562-6164] -  [ID=1230363493] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Datas From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Reason: Object is not identified to any object in UCMDB and is ignored
+2018-01-05 16:36:10,520  INFO   [qtp613630562-6164] -  [ID=1123728301] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Datas From Bulk:
+			{host_node@42a8f0b340f258cdaba68752545e9c5d}
+		Reason: Object is not identified to any object in UCMDB and is ignored
+2018-01-05 16:41:24,514  INFO   [qtp613630562-6183] -  [ID=2068917552] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@4681b0dc263fcd77847cf2808ac4a281}
+		Datas From Bulk:
+			{host_node@4681b0dc263fcd77847cf2808ac4a281}
+		Reason: Object is not identified to any object in UCMDB and is ignored
+2018-01-05 16:42:07,486  INFO   [qtp613630562-6183] -  [ID=2078584398] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@46c2e30158163e7296a3555d3377cf99}
+		Datas From Bulk:
+			{host_node@46c2e30158163e7296a3555d3377cf99}
+		Reason: Object is not identified to any object in UCMDB and is ignored
+2018-01-05 16:42:18,005  INFO   [qtp613630562-6183] -  [ID= 893707053] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@4a58a5a3f4e7c42c9e8ff5b5cb4119f0}
+		Datas From Bulk:
+			{host_node@4a58a5a3f4e7c42c9e8ff5b5cb4119f0}
+		Reason: Object is not identified to any object in UCMDB and is ignored
+2018-01-05 16:42:24,126  INFO   [qtp613630562-6164] -  [ID=1674276957] [Customer ID=1] 
+Ignored Data:
+		Datas Ignored From Bulk:
+			{host_node@45670dcb6b53a82ea27afc722fd36a5b}
+		Datas From Bulk:
+			{host_node@45670dcb6b53a82ea27afc722fd36a5b}
+		Reason: Object is not identified to any object in UCMDB and is ignored

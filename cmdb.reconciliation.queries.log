@@ -1,0 +1,879 @@
+2018-01-04 22:23:32,053  INFO   [qtp613630562-2025] - [ID= 724271809][TQL: Identification for [ci_collection]]                                        [time=  0.362] [Result: ]  
+2018-01-04 22:23:32,369  INFO   [qtp613630562-2025] - [ID= 166673522][TQL: Identification for [ci_collection]]                                        [time=  0.119] [Result: ]  
+2018-01-04 22:24:01,903  INFO   [qtp613630562-2025] - [ID=1641001744][TQL: Identification for [node]]                                                 [time=  0.717] [Result: ]  
+2018-01-04 22:24:02,006  INFO   [qtp613630562-2025] - [ID=1641001744][TQL: Identification for [ci_collection]]                                        [time=  0.092] [Result: (1:ci_collection:1) ]  
+2018-01-04 22:24:02,093  INFO   [qtp613630562-2025] - [ID= 302239697][Merge Ids]                                                                      [time=  0.073] Number of ids = 1 
+2018-01-04 22:24:02,300  INFO   [qtp613630562-2025] - [ID= 302239697][TQL: Identification for [node]]                                                 [time=  0.189] [Result: ]  
+2018-01-04 22:24:02,324  INFO   [qtp613630562-2025] - [ID= 302239697][TQL: Identification for [ci_collection]]                                        [time=  0.023] [Result: (1:ci_collection:1) ]  
+2018-01-04 22:24:14,387  INFO   [qtp613630562-2024] - [ID=1854196254][TQL: Identification for [person]]                                               [time=  0.136] [Result: ]  
+2018-01-04 22:24:14,548  INFO   [qtp613630562-2024] - [ID=1854196254][TQL: Identification for [organization]]                                         [time=  0.158] [Result: ]  
+2018-01-04 22:24:14,708  INFO   [qtp613630562-2024] - [ID=1854196254][TQL: Identification for [business_application]]                                 [time=  0.158] [Result: ]  
+2018-01-04 22:24:14,891  INFO   [qtp613630562-2024] - [ID=  90454039][TQL: Identification for [person]]                                               [time=  0.171] [Result: ]  
+2018-01-04 22:24:14,946  INFO   [qtp613630562-2024] - [ID=  90454039][TQL: Identification for [organization]]                                         [time=  0.054] [Result: ]  
+2018-01-04 22:24:15,063  INFO   [qtp613630562-2024] - [ID=  90454039][TQL: Identification for [business_application]]                                 [time=  0.108] [Result: ]  
+2018-01-04 22:24:16,021  INFO   [qtp613630562-2020] - [ID=1379749265][Merge Ids]                                                                      [time=  0.007] Number of ids = 1 
+2018-01-04 22:24:16,072  INFO   [qtp613630562-2020] - [ID=1379749265][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.050] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-04 22:24:16,141  INFO   [qtp613630562-2020] - [ID=1379749265][TQL: Identification for [node]]                                                 [time=  0.061] [Result: (1:node:1) ]  
+2018-01-04 22:24:16,176  INFO   [qtp613630562-2020] - [ID=1379749265][TQL: Identification for [person]]                                               [time=  0.029] [Result: (1:person:1) ]  
+2018-01-04 22:24:16,582  INFO   [qtp613630562-2020] - [ID=1379749265][TQL: Identification for [business_application]]                                 [time=  0.402] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-04 22:24:17,330  INFO   [qtp613630562-2020] - [ID=1379749265][TQL: Identification for [link]]                                                 [time=  0.746] [Result: ]  
+2018-01-04 22:24:17,337  INFO   [qtp613630562-2020] - [ID= 607172644][Merge Ids]                                                                      [time=  0.002] Number of ids = 1 
+2018-01-04 22:24:17,368  INFO   [qtp613630562-2020] - [ID= 607172644][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.030] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-04 22:24:17,372  INFO   [qtp613630562-2020] - [ID= 607172644][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-04 22:24:17,433  INFO   [qtp613630562-2020] - [ID= 607172644][TQL: Identification for [node]]                                                 [time=  0.059] [Result: (1:node:1) ]  
+2018-01-04 22:24:17,463  INFO   [qtp613630562-2020] - [ID= 607172644][TQL: Identification for [person]]                                               [time=  0.026] [Result: (1:person:1) ]  
+2018-01-04 22:24:17,470  INFO   [qtp613630562-2020] - [ID= 607172644][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-04 22:24:17,759  INFO   [qtp613630562-2020] - [ID= 607172644][TQL: Identification for [business_application]]                                 [time=  0.287] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-04 22:24:17,778  INFO   [qtp613630562-2020] - [ID= 607172644][Get Priorities]                                                                 [time=  0.013] Number of objects = 1 
+2018-01-04 22:24:17,886  INFO   [qtp613630562-2020] - [ID= 607172644][TQL: Identification for [link]]                                                 [time=  0.055] [Result: (3:link:1) ]  
+2018-01-04 22:25:34,296  INFO   [qtp613630562-2024] - [ID= 253116035][TQL: Identification for [node]]                                                 [time=  0.076] [Result: (1:node:1) ]  
+2018-01-04 22:25:34,306  INFO   [qtp613630562-2024] - [ID= 852021282][Merge Ids]                                                                      [time=  0.003] Number of ids = 1 
+2018-01-04 22:25:34,372  INFO   [qtp613630562-2024] - [ID= 852021282][TQL: Identification for [node]]                                                 [time=  0.065] [Result: (1:node:1) ]  
+2018-01-05 01:27:11,305  INFO   [qtp613630562-2709] - [ID= 247955989][TQL: Identification for [ci_collection]]                                        [time=  0.159] [Result: ]  
+2018-01-05 01:27:11,423  INFO   [qtp613630562-2709] - [ID=2017465045][TQL: Identification for [ci_collection]]                                        [time=  0.112] [Result: ]  
+2018-01-05 01:27:28,886  INFO   [qtp613630562-2709] - [ID=1028305752][TQL: Identification for [node]]                                                 [time=  0.493] [Result: ]  
+2018-01-05 01:27:28,935  INFO   [qtp613630562-2709] - [ID=1028305752][TQL: Identification for [ci_collection]]                                        [time=  0.046] [Result: (1:ci_collection:1) ]  
+2018-01-05 01:27:28,947  INFO   [qtp613630562-2709] - [ID= 751973832][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 01:27:29,135  INFO   [qtp613630562-2709] - [ID= 751973832][TQL: Identification for [node]]                                                 [time=  0.168] [Result: ]  
+2018-01-05 01:27:29,151  INFO   [qtp613630562-2709] - [ID= 751973832][TQL: Identification for [ci_collection]]                                        [time=  0.015] [Result: (1:ci_collection:1) ]  
+2018-01-05 01:27:42,404  INFO   [qtp613630562-2715] - [ID=1303027556][TQL: Identification for [person]]                                               [time=  0.151] [Result: (1:root:1) ]  
+2018-01-05 01:27:42,505  INFO   [qtp613630562-2715] - [ID=1303027556][TQL: Identification for [organization]]                                         [time=  0.099] [Result: (1:organization:1) ]  
+2018-01-05 01:27:42,560  INFO   [qtp613630562-2715] - [ID=1303027556][TQL: Identification for [business_application]]                                 [time=  0.054] [Result: ]  
+2018-01-05 01:27:42,575  INFO   [qtp613630562-2715] - [ID=1303027556][TQL: Identification for [link]]                                                 [time=  0.015] [Result: (3:link:1) ]  
+2018-01-05 01:27:42,641  INFO   [qtp613630562-2715] - [ID=  98220827][TQL: Identification for [person]]                                               [time=  0.063] [Result: (1:root:1) ]  
+2018-01-05 01:27:42,708  INFO   [qtp613630562-2715] - [ID=  98220827][TQL: Identification for [organization]]                                         [time=  0.066] [Result: (1:organization:1) ]  
+2018-01-05 01:27:42,716  INFO   [qtp613630562-2715] - [ID=  98220827][Get Priorities]                                                                 [time=  0.006] Number of objects = 2 
+2018-01-05 01:27:42,776  INFO   [qtp613630562-2715] - [ID=  98220827][TQL: Identification for [business_application]]                                 [time=  0.053] [Result: ]  
+2018-01-05 01:27:42,791  INFO   [qtp613630562-2715] - [ID=  98220827][TQL: Identification for [link]]                                                 [time=  0.013] [Result: (3:link:1) ]  
+2018-01-05 01:27:43,361  INFO   [qtp613630562-2715] - [ID= 788167612][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 01:27:43,394  INFO   [qtp613630562-2715] - [ID= 788167612][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.033] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 01:27:43,440  INFO   [qtp613630562-2715] - [ID= 788167612][TQL: Identification for [node]]                                                 [time=  0.042] [Result: (1:node:1) ]  
+2018-01-05 01:27:43,467  INFO   [qtp613630562-2715] - [ID= 788167612][TQL: Identification for [person]]                                               [time=  0.024] [Result: (1:person:1) ]  
+2018-01-05 01:27:43,798  INFO   [qtp613630562-2715] - [ID= 788167612][TQL: Identification for [business_application]]                                 [time=  0.330] [Result: (100:business_application:1) (1:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 01:27:43,805  INFO   [qtp613630562-2715] - [ID= 788167612][TQL: Identification for [link]]                                                 [time=  0.006] [Result: ]  
+2018-01-05 01:27:43,811  INFO   [qtp613630562-2715] - [ID=1130878035][Merge Ids]                                                                      [time=  0.002] Number of ids = 1 
+2018-01-05 01:27:43,837  INFO   [qtp613630562-2715] - [ID=1130878035][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.026] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 01:27:43,842  INFO   [qtp613630562-2715] - [ID=1130878035][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-05 01:27:43,892  INFO   [qtp613630562-2715] - [ID=1130878035][TQL: Identification for [node]]                                                 [time=  0.049] [Result: (1:node:1) ]  
+2018-01-05 01:27:43,957  INFO   [qtp613630562-2715] - [ID=1130878035][TQL: Identification for [person]]                                               [time=  0.062] [Result: (1:person:1) ]  
+2018-01-05 01:27:43,964  INFO   [qtp613630562-2715] - [ID=1130878035][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:27:44,247  INFO   [qtp613630562-2715] - [ID=1130878035][TQL: Identification for [business_application]]                                 [time=  0.282] [Result: (100:business_application:1) (1:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 01:27:44,257  INFO   [qtp613630562-2715] - [ID=1130878035][Get Priorities]                                                                 [time=  0.006] Number of objects = 1 
+2018-01-05 01:27:44,288  INFO   [qtp613630562-2715] - [ID=1130878035][TQL: Identification for [link]]                                                 [time=  0.026] [Result: (3:link:1) ]  
+2018-01-05 01:40:10,992  INFO   [qtp613630562-2774] - [ID=1845998306][Merge Ids]                                                                      [time=  0.008] Number of ids = 1 
+2018-01-05 01:40:11,084  INFO   [qtp613630562-2774] - [ID=1845998306][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.091] [Result: (1:node:1) ]  
+2018-01-05 01:40:11,816  INFO   [qtp613630562-2774] - [ID=1845998306][TQL: Identification for [node]]                                                 [time=  0.699] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 01:40:11,919  INFO   [qtp613630562-2774] - [ID=1845998306][TQL: Identification for [ip_address]]                                           [time=  0.100] [Result: ]  
+2018-01-05 01:40:11,935  INFO   [qtp613630562-2774] - [ID=1896009377][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:40:11,987  INFO   [qtp613630562-2774] - [ID=1896009377][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.052] [Result: (1:node:1) ]  
+2018-01-05 01:40:11,991  INFO   [qtp613630562-2774] - [ID=1896009377][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:40:12,440  INFO   [qtp613630562-2774] - [ID=1896009377][TQL: Identification for [node]]                                                 [time=  0.435] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 01:40:12,565  INFO   [qtp613630562-2774] - [ID=1896009377][TQL: Identification for [ip_address]]                                           [time=  0.118] [Result: ]  
+2018-01-05 01:40:12,585  INFO   [qtp613630562-2774] - [ID=1896009377][Get Priorities]                                                                 [time=  0.010] Number of objects = 1 
+2018-01-05 01:40:14,713  INFO   [qtp613630562-2783] - [ID= 162324283][Merge Ids]                                                                      [time=  0.006] Number of ids = 1 
+2018-01-05 01:40:14,752  INFO   [qtp613630562-2783] - [ID= 162324283][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.039] [Result: (1:ci_collection:1) ]  
+2018-01-05 01:40:14,952  INFO   [qtp613630562-2783] - [ID= 162324283][TQL: Identification for [ci_collection]]                                        [time=  0.199] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 01:40:14,958  INFO   [qtp613630562-2783] - [ID=1188563400][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:40:14,989  INFO   [qtp613630562-2783] - [ID=1188563400][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.031] [Result: (1:ci_collection:1) ]  
+2018-01-05 01:40:14,991  INFO   [qtp613630562-2783] - [ID=1188563400][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:40:15,153  INFO   [qtp613630562-2783] - [ID=1188563400][TQL: Identification for [ci_collection]]                                        [time=  0.161] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 01:40:15,164  INFO   [qtp613630562-2783] - [ID=1188563400][Get Priorities]                                                                 [time=  0.008] Number of objects = 1 
+2018-01-05 01:40:27,325  INFO   [qtp613630562-2783] - [ID=1133806056][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 01:40:27,364  INFO   [qtp613630562-2783] - [ID=1133806056][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.039] [Result: (1:ci_collection:1) ]  
+2018-01-05 01:40:27,601  INFO   [qtp613630562-2783] - [ID=1133806056][TQL: Identification for [ci_collection]]                                        [time=  0.236] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 01:40:27,606  INFO   [qtp613630562-2783] - [ID=1805124297][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 01:40:27,636  INFO   [qtp613630562-2783] - [ID=1805124297][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.029] [Result: (1:ci_collection:1) ]  
+2018-01-05 01:40:27,637  INFO   [qtp613630562-2783] - [ID=1805124297][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 01:40:27,793  INFO   [qtp613630562-2783] - [ID=1805124297][TQL: Identification for [ci_collection]]                                        [time=  0.155] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 01:40:27,802  INFO   [qtp613630562-2783] - [ID=1805124297][Get Priorities]                                                                 [time=  0.006] Number of objects = 1 
+2018-01-05 01:40:34,220  INFO   [qtp613630562-2774] - [ID=  22954160][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 01:40:34,312  INFO   [qtp613630562-2774] - [ID=  22954160][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.092] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 01:40:34,317  INFO   [qtp613630562-2774] - [ID=  22954160][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:40:34,348  INFO   [qtp613630562-2774] - [ID=  22954160][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.031] [Result: (1:ip_address:1) ]  
+2018-01-05 01:40:34,972  INFO   [qtp613630562-2774] - [ID=  22954160][TQL: Identification for [node]]                                                 [time=  0.611] [Result: (100:node:1) (2:node:1) (5:ip_address:1) (101:root:1) (6:containment:1) ]  
+2018-01-05 01:40:35,302  INFO   [qtp613630562-2774] - [ID=  22954160][TQL: Identification for [ip_address]]                                           [time=  0.320] [Result: (1:ip_address:1) (100:ip_address:1) (101:root:1) ]  
+2018-01-05 01:40:35,329  INFO   [qtp613630562-2774] - [ID=  22954160][TQL: Identification for [link]]                                                 [time=  0.025] [Result: (3:link:1) ]  
+2018-01-05 01:40:35,354  INFO   [qtp613630562-2774] - [ID=1009896329][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:40:35,442  INFO   [qtp613630562-2774] - [ID=1009896329][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.087] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 01:40:35,447  INFO   [qtp613630562-2774] - [ID=1009896329][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 01:40:35,476  INFO   [qtp613630562-2774] - [ID=1009896329][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.028] [Result: (1:ip_address:1) ]  
+2018-01-05 01:40:35,480  INFO   [qtp613630562-2774] - [ID=1009896329][Merge Ids]                                                                      [time=  0.003] Number of ids = 2 
+2018-01-05 01:40:36,144  INFO   [qtp613630562-2774] - [ID=1009896329][TQL: Identification for [node]]                                                 [time=  0.651] [Result: (100:node:1) (1:node:1) (2:node:1) (5:ip_address:1) (101:root:1) (11:ip_address:1) (6:containment:1) (12:containment:1) ]  
+2018-01-05 01:40:36,442  INFO   [qtp613630562-2774] - [ID=1009896329][TQL: Identification for [ip_address]]                                           [time=  0.291] [Result: (1:ip_address:1) (100:ip_address:1) (101:root:1) ]  
+2018-01-05 01:40:36,458  INFO   [qtp613630562-2774] - [ID=1009896329][Get Priorities]                                                                 [time=  0.007] Number of objects = 1 
+2018-01-05 01:40:36,490  INFO   [qtp613630562-2774] - [ID=1009896329][TQL: Identification for [link]]                                                 [time=  0.027] [Result: (3:link:1) ]  
+2018-01-05 01:40:36,947  INFO   [qtp613630562-2774] - [ID=   5053018][Merge Ids]                                                                      [time=  0.003] Number of ids = 1 
+2018-01-05 01:40:36,966  INFO   [qtp613630562-2774] - [ID=   5053018][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.019] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 01:40:36,991  INFO   [qtp613630562-2774] - [ID=   5053018][TQL: Identification for [node]]                                                 [time=  0.023] [Result: (1:node:1) ]  
+2018-01-05 01:40:37,008  INFO   [qtp613630562-2774] - [ID=   5053018][TQL: Identification for [person]]                                               [time=  0.015] [Result: (1:person:1) ]  
+2018-01-05 01:40:37,260  INFO   [qtp613630562-2774] - [ID=   5053018][TQL: Identification for [business_application]]                                 [time=  0.251] [Result: (100:business_application:1) (1:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 01:40:37,265  INFO   [qtp613630562-2774] - [ID=   5053018][TQL: Identification for [link]]                                                 [time=  0.004] [Result: ]  
+2018-01-05 01:40:37,267  INFO   [qtp613630562-2774] - [ID=1052040842][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 01:40:37,296  INFO   [qtp613630562-2774] - [ID=1052040842][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.029] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 01:40:37,300  INFO   [qtp613630562-2774] - [ID=1052040842][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-05 01:40:37,346  INFO   [qtp613630562-2774] - [ID=1052040842][TQL: Identification for [node]]                                                 [time=  0.045] [Result: (1:node:1) ]  
+2018-01-05 01:40:37,376  INFO   [qtp613630562-2774] - [ID=1052040842][TQL: Identification for [person]]                                               [time=  0.028] [Result: (1:person:1) ]  
+2018-01-05 01:40:37,380  INFO   [qtp613630562-2774] - [ID=1052040842][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 01:40:37,738  INFO   [qtp613630562-2774] - [ID=1052040842][TQL: Identification for [business_application]]                                 [time=  0.355] [Result: (100:business_application:1) (1:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 01:40:37,746  INFO   [qtp613630562-2774] - [ID=1052040842][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 01:40:37,798  INFO   [qtp613630562-2774] - [ID=1052040842][TQL: Identification for [link]]                                                 [time=  0.049] [Result: (3:link:2) ]  
+2018-01-05 13:07:28,652  INFO   [qtp613630562-5310] - [ID= 629967843][TQL: Identification for [ci_collection]]                                        [time=  0.216] [Result: ]  
+2018-01-05 13:07:28,790  INFO   [qtp613630562-5310] - [ID=1910867502][TQL: Identification for [ci_collection]]                                        [time=  0.133] [Result: ]  
+2018-01-05 13:07:46,555  INFO   [qtp613630562-5333] - [ID= 944426045][TQL: Identification for [node]]                                                 [time=  0.366] [Result: ]  
+2018-01-05 13:07:46,601  INFO   [qtp613630562-5333] - [ID= 944426045][TQL: Identification for [ci_collection]]                                        [time=  0.043] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:07:46,620  INFO   [qtp613630562-5333] - [ID= 968555200][Merge Ids]                                                                      [time=  0.012] Number of ids = 1 
+2018-01-05 13:07:46,830  INFO   [qtp613630562-5333] - [ID= 968555200][TQL: Identification for [node]]                                                 [time=  0.200] [Result: ]  
+2018-01-05 13:07:46,855  INFO   [qtp613630562-5333] - [ID= 968555200][TQL: Identification for [ci_collection]]                                        [time=  0.023] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:08:00,044  INFO   [qtp613630562-5333] - [ID=1731599456][TQL: Identification for [person]]                                               [time=  0.172] [Result: (1:root:1) ]  
+2018-01-05 13:08:00,148  INFO   [qtp613630562-5333] - [ID=1731599456][TQL: Identification for [organization]]                                         [time=  0.103] [Result: (1:organization:1) ]  
+2018-01-05 13:08:00,225  INFO   [qtp613630562-5333] - [ID=1731599456][TQL: Identification for [business_application]]                                 [time=  0.076] [Result: ]  
+2018-01-05 13:08:00,253  INFO   [qtp613630562-5333] - [ID=1731599456][TQL: Identification for [link]]                                                 [time=  0.027] [Result: (3:link:1) ]  
+2018-01-05 13:08:00,358  INFO   [qtp613630562-5333] - [ID= 579817474][TQL: Identification for [person]]                                               [time=  0.100] [Result: (1:root:1) ]  
+2018-01-05 13:08:00,476  INFO   [qtp613630562-5333] - [ID= 579817474][TQL: Identification for [organization]]                                         [time=  0.116] [Result: (1:organization:1) ]  
+2018-01-05 13:08:00,487  INFO   [qtp613630562-5333] - [ID= 579817474][Get Priorities]                                                                 [time=  0.007] Number of objects = 2 
+2018-01-05 13:08:00,623  INFO   [qtp613630562-5333] - [ID= 579817474][TQL: Identification for [business_application]]                                 [time=  0.130] [Result: ]  
+2018-01-05 13:08:00,657  INFO   [qtp613630562-5333] - [ID= 579817474][TQL: Identification for [link]]                                                 [time=  0.029] [Result: (3:link:1) ]  
+2018-01-05 13:08:01,352  INFO   [qtp613630562-5334] - [ID=1273123099][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 13:08:01,384  INFO   [qtp613630562-5334] - [ID=1273123099][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.031] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:08:01,447  INFO   [qtp613630562-5334] - [ID=1273123099][TQL: Identification for [node]]                                                 [time=  0.061] [Result: (1:node:1) ]  
+2018-01-05 13:08:01,477  INFO   [qtp613630562-5334] - [ID=1273123099][TQL: Identification for [person]]                                               [time=  0.028] [Result: (1:person:1) ]  
+2018-01-05 13:08:01,888  INFO   [qtp613630562-5334] - [ID=1273123099][TQL: Identification for [business_application]]                                 [time=  0.409] [Result: (1:business_application:1) (100:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 13:08:01,896  INFO   [qtp613630562-5334] - [ID=1273123099][TQL: Identification for [link]]                                                 [time=  0.006] [Result: ]  
+2018-01-05 13:08:01,901  INFO   [qtp613630562-5334] - [ID= 264109496][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:08:01,928  INFO   [qtp613630562-5334] - [ID= 264109496][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.027] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:08:01,932  INFO   [qtp613630562-5334] - [ID= 264109496][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-05 13:08:01,984  INFO   [qtp613630562-5334] - [ID= 264109496][TQL: Identification for [node]]                                                 [time=  0.051] [Result: (1:node:1) ]  
+2018-01-05 13:08:02,023  INFO   [qtp613630562-5334] - [ID= 264109496][TQL: Identification for [person]]                                               [time=  0.034] [Result: (1:person:1) ]  
+2018-01-05 13:08:02,029  INFO   [qtp613630562-5334] - [ID= 264109496][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:08:02,360  INFO   [qtp613630562-5334] - [ID= 264109496][TQL: Identification for [business_application]]                                 [time=  0.330] [Result: (1:business_application:1) (100:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 13:08:02,365  INFO   [qtp613630562-5334] - [ID= 264109496][Get Priorities]                                                                 [time=  0.003] Number of objects = 1 
+2018-01-05 13:08:02,390  INFO   [qtp613630562-5334] - [ID= 264109496][TQL: Identification for [link]]                                                 [time=  0.024] [Result: (3:link:1) ]  
+2018-01-05 13:20:04,217  INFO   [qtp613630562-5379] - [ID=1595678403][Merge Ids]                                                                      [time=  0.003] Number of ids = 1 
+2018-01-05 13:20:04,279  INFO   [qtp613630562-5379] - [ID=1595678403][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.062] [Result: (1:node:1) ]  
+2018-01-05 13:20:04,580  INFO   [qtp613630562-5379] - [ID=1595678403][TQL: Identification for [node]]                                                 [time=  0.295] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 13:20:04,669  INFO   [qtp613630562-5379] - [ID=1595678403][TQL: Identification for [ip_address]]                                           [time=  0.087] [Result: ]  
+2018-01-05 13:20:04,678  INFO   [qtp613630562-5379] - [ID=  32699064][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:20:04,721  INFO   [qtp613630562-5379] - [ID=  32699064][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.042] [Result: (1:node:1) ]  
+2018-01-05 13:20:04,722  INFO   [qtp613630562-5379] - [ID=  32699064][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:05,098  INFO   [qtp613630562-5379] - [ID=  32699064][TQL: Identification for [node]]                                                 [time=  0.370] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 13:20:05,199  INFO   [qtp613630562-5379] - [ID=  32699064][TQL: Identification for [ip_address]]                                           [time=  0.099] [Result: ]  
+2018-01-05 13:20:05,209  INFO   [qtp613630562-5379] - [ID=  32699064][Get Priorities]                                                                 [time=  0.007] Number of objects = 1 
+2018-01-05 13:20:07,391  INFO   [qtp613630562-5403] - [ID=1334388911][Merge Ids]                                                                      [time=  0.025] Number of ids = 1 
+2018-01-05 13:20:07,452  INFO   [qtp613630562-5403] - [ID=1334388911][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.061] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:20:07,677  INFO   [qtp613630562-5403] - [ID=1334388911][TQL: Identification for [ci_collection]]                                        [time=  0.224] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 13:20:07,682  INFO   [qtp613630562-5403] - [ID=2014562955][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:07,712  INFO   [qtp613630562-5403] - [ID=2014562955][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.030] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:20:07,714  INFO   [qtp613630562-5403] - [ID=2014562955][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:07,881  INFO   [qtp613630562-5403] - [ID=2014562955][TQL: Identification for [ci_collection]]                                        [time=  0.166] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 13:20:07,925  INFO   [qtp613630562-5403] - [ID=2014562955][Get Priorities]                                                                 [time=  0.041] Number of objects = 1 
+2018-01-05 13:20:17,900  INFO   [qtp613630562-5379] - [ID=1973904614][Merge Ids]                                                                      [time=  0.006] Number of ids = 1 
+2018-01-05 13:20:17,927  INFO   [qtp613630562-5379] - [ID=1973904614][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.026] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:20:18,121  INFO   [qtp613630562-5379] - [ID=1973904614][TQL: Identification for [ci_collection]]                                        [time=  0.193] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 13:20:18,126  INFO   [qtp613630562-5379] - [ID= 356348684][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:18,154  INFO   [qtp613630562-5379] - [ID= 356348684][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.028] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:20:18,156  INFO   [qtp613630562-5379] - [ID= 356348684][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:18,311  INFO   [qtp613630562-5379] - [ID= 356348684][TQL: Identification for [ci_collection]]                                        [time=  0.155] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 13:20:18,326  INFO   [qtp613630562-5379] - [ID= 356348684][Get Priorities]                                                                 [time=  0.013] Number of objects = 1 
+2018-01-05 13:20:24,417  INFO   [qtp613630562-5388] - [ID= 464509675][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 13:20:24,511  INFO   [qtp613630562-5388] - [ID= 464509675][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.094] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 13:20:24,516  INFO   [qtp613630562-5388] - [ID= 464509675][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:24,544  INFO   [qtp613630562-5388] - [ID= 464509675][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.028] [Result: (1:ip_address:1) ]  
+2018-01-05 13:20:25,001  INFO   [qtp613630562-5388] - [ID= 464509675][TQL: Identification for [node]]                                                 [time=  0.444] [Result: (2:node:1) (5:ip_address:1) (100:node:1) (101:root:1) (6:containment:1) ]  
+2018-01-05 13:20:25,328  INFO   [qtp613630562-5388] - [ID= 464509675][TQL: Identification for [ip_address]]                                           [time=  0.321] [Result: (1:ip_address:1) (100:ip_address:1) (101:root:1) ]  
+2018-01-05 13:20:25,359  INFO   [qtp613630562-5388] - [ID= 464509675][TQL: Identification for [link]]                                                 [time=  0.029] [Result: (3:link:1) ]  
+2018-01-05 13:20:25,389  INFO   [qtp613630562-5388] - [ID=1164500538][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:25,476  INFO   [qtp613630562-5388] - [ID=1164500538][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.087] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 13:20:25,481  INFO   [qtp613630562-5388] - [ID=1164500538][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:25,509  INFO   [qtp613630562-5388] - [ID=1164500538][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.028] [Result: (1:ip_address:1) ]  
+2018-01-05 13:20:25,513  INFO   [qtp613630562-5388] - [ID=1164500538][Merge Ids]                                                                      [time=  0.002] Number of ids = 2 
+2018-01-05 13:20:26,054  INFO   [qtp613630562-5388] - [ID=1164500538][TQL: Identification for [node]]                                                 [time=  0.528] [Result: (1:node:1) (11:ip_address:1) (2:node:1) (5:ip_address:1) (100:node:1) (101:root:1) (12:containment:1) (6:containment:1) ]  
+2018-01-05 13:20:26,386  INFO   [qtp613630562-5388] - [ID=1164500538][TQL: Identification for [ip_address]]                                           [time=  0.324] [Result: (1:ip_address:1) (100:ip_address:1) (101:root:1) ]  
+2018-01-05 13:20:26,399  INFO   [qtp613630562-5388] - [ID=1164500538][Get Priorities]                                                                 [time=  0.007] Number of objects = 1 
+2018-01-05 13:20:26,429  INFO   [qtp613630562-5388] - [ID=1164500538][TQL: Identification for [link]]                                                 [time=  0.025] [Result: (3:link:1) ]  
+2018-01-05 13:20:27,002  INFO   [qtp613630562-5413] - [ID=1632621271][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 13:20:27,035  INFO   [qtp613630562-5413] - [ID=1632621271][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.032] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:20:27,083  INFO   [qtp613630562-5413] - [ID=1632621271][TQL: Identification for [node]]                                                 [time=  0.045] [Result: (1:node:1) ]  
+2018-01-05 13:20:27,110  INFO   [qtp613630562-5413] - [ID=1632621271][TQL: Identification for [person]]                                               [time=  0.025] [Result: (1:person:1) ]  
+2018-01-05 13:20:27,489  INFO   [qtp613630562-5413] - [ID=1632621271][TQL: Identification for [business_application]]                                 [time=  0.376] [Result: (1:business_application:1) (100:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 13:20:27,495  INFO   [qtp613630562-5413] - [ID=1632621271][TQL: Identification for [link]]                                                 [time=  0.005] [Result: ]  
+2018-01-05 13:20:27,500  INFO   [qtp613630562-5413] - [ID=1439212877][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:20:27,538  INFO   [qtp613630562-5413] - [ID=1439212877][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.038] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:20:27,542  INFO   [qtp613630562-5413] - [ID=1439212877][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-05 13:20:27,597  INFO   [qtp613630562-5413] - [ID=1439212877][TQL: Identification for [node]]                                                 [time=  0.054] [Result: (1:node:1) ]  
+2018-01-05 13:20:27,641  INFO   [qtp613630562-5413] - [ID=1439212877][TQL: Identification for [person]]                                               [time=  0.042] [Result: (1:person:1) ]  
+2018-01-05 13:20:27,646  INFO   [qtp613630562-5413] - [ID=1439212877][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:20:27,941  INFO   [qtp613630562-5413] - [ID=1439212877][TQL: Identification for [business_application]]                                 [time=  0.294] [Result: (1:business_application:1) (100:business_application:1) (2:party:1) (101:root:1) (3:ownership:1) ]  
+2018-01-05 13:20:27,949  INFO   [qtp613630562-5413] - [ID=1439212877][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 13:20:27,997  INFO   [qtp613630562-5413] - [ID=1439212877][TQL: Identification for [link]]                                                 [time=  0.046] [Result: (3:link:2) ]  
+2018-01-05 13:35:47,490  INFO   [qtp613630562-5458] - [ID=1050018802][TQL: Identification for [ci_collection]]                                        [time=  0.142] [Result: ]  
+2018-01-05 13:35:47,605  INFO   [qtp613630562-5458] - [ID=1460756433][TQL: Identification for [ci_collection]]                                        [time=  0.111] [Result: ]  
+2018-01-05 13:36:05,654  INFO   [qtp613630562-5458] - [ID=1221063860][TQL: Identification for [node]]                                                 [time=  0.443] [Result: ]  
+2018-01-05 13:36:05,705  INFO   [qtp613630562-5458] - [ID=1221063860][TQL: Identification for [ci_collection]]                                        [time=  0.049] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:36:05,708  INFO   [qtp613630562-5458] - [ID= 352946389][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:36:05,863  INFO   [qtp613630562-5458] - [ID= 352946389][TQL: Identification for [node]]                                                 [time=  0.151] [Result: ]  
+2018-01-05 13:36:05,886  INFO   [qtp613630562-5458] - [ID= 352946389][TQL: Identification for [ci_collection]]                                        [time=  0.022] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:36:18,801  INFO   [qtp613630562-5458] - [ID=1718770244][TQL: Identification for [person]]                                               [time=  0.156] [Result: (1:root:1) ]  
+2018-01-05 13:36:18,987  INFO   [qtp613630562-5458] - [ID=1718770244][TQL: Identification for [organization]]                                         [time=  0.185] [Result: (1:organization:1) ]  
+2018-01-05 13:36:19,100  INFO   [qtp613630562-5458] - [ID=1718770244][TQL: Identification for [business_application]]                                 [time=  0.111] [Result: ]  
+2018-01-05 13:36:19,125  INFO   [qtp613630562-5458] - [ID=1718770244][TQL: Identification for [link]]                                                 [time=  0.024] [Result: (3:link:1) ]  
+2018-01-05 13:36:19,262  INFO   [qtp613630562-5458] - [ID=  71294922][TQL: Identification for [person]]                                               [time=  0.132] [Result: (1:root:1) ]  
+2018-01-05 13:36:19,399  INFO   [qtp613630562-5458] - [ID=  71294922][TQL: Identification for [organization]]                                         [time=  0.135] [Result: (1:organization:1) ]  
+2018-01-05 13:36:19,409  INFO   [qtp613630562-5458] - [ID=  71294922][Get Priorities]                                                                 [time=  0.007] Number of objects = 2 
+2018-01-05 13:36:19,537  INFO   [qtp613630562-5458] - [ID=  71294922][TQL: Identification for [business_application]]                                 [time=  0.123] [Result: ]  
+2018-01-05 13:36:19,569  INFO   [qtp613630562-5458] - [ID=  71294922][TQL: Identification for [link]]                                                 [time=  0.027] [Result: (3:link:1) ]  
+2018-01-05 13:36:20,285  INFO   [qtp613630562-5477] - [ID=  73348000][Merge Ids]                                                                      [time=  0.006] Number of ids = 1 
+2018-01-05 13:36:20,317  INFO   [qtp613630562-5477] - [ID=  73348000][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.032] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:36:20,362  INFO   [qtp613630562-5477] - [ID=  73348000][TQL: Identification for [node]]                                                 [time=  0.042] [Result: (1:node:1) ]  
+2018-01-05 13:36:20,390  INFO   [qtp613630562-5477] - [ID=  73348000][TQL: Identification for [person]]                                               [time=  0.026] [Result: (1:person:1) ]  
+2018-01-05 13:36:20,727  INFO   [qtp613630562-5477] - [ID=  73348000][TQL: Identification for [business_application]]                                 [time=  0.335] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:36:20,733  INFO   [qtp613630562-5477] - [ID=  73348000][TQL: Identification for [link]]                                                 [time=  0.005] [Result: ]  
+2018-01-05 13:36:20,737  INFO   [qtp613630562-5477] - [ID=1423622858][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:36:20,762  INFO   [qtp613630562-5477] - [ID=1423622858][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.025] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:36:20,768  INFO   [qtp613630562-5477] - [ID=1423622858][Merge Ids]                                                                      [time=  0.003] Number of ids = 2 
+2018-01-05 13:36:20,812  INFO   [qtp613630562-5477] - [ID=1423622858][TQL: Identification for [node]]                                                 [time=  0.043] [Result: (1:node:1) ]  
+2018-01-05 13:36:20,840  INFO   [qtp613630562-5477] - [ID=1423622858][TQL: Identification for [person]]                                               [time=  0.026] [Result: (1:person:1) ]  
+2018-01-05 13:36:20,845  INFO   [qtp613630562-5477] - [ID=1423622858][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:36:21,082  INFO   [qtp613630562-5477] - [ID=1423622858][TQL: Identification for [business_application]]                                 [time=  0.236] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:36:21,087  INFO   [qtp613630562-5477] - [ID=1423622858][Get Priorities]                                                                 [time=  0.003] Number of objects = 1 
+2018-01-05 13:36:21,105  INFO   [qtp613630562-5477] - [ID=1423622858][TQL: Identification for [link]]                                                 [time=  0.016] [Result: (3:link:1) ]  
+2018-01-05 13:40:06,523  INFO   [qtp613630562-5491] - [ID=1200134278][Merge Ids]                                                                      [time=  0.004] Number of ids = 1 
+2018-01-05 13:40:06,635  INFO   [qtp613630562-5491] - [ID=1200134278][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.112] [Result: (1:node:1) ]  
+2018-01-05 13:40:07,080  INFO   [qtp613630562-5491] - [ID=1200134278][TQL: Identification for [node]]                                                 [time=  0.433] [Result: (101:root:1) (100:node:1) ]  
+2018-01-05 13:40:07,215  INFO   [qtp613630562-5491] - [ID=1200134278][TQL: Identification for [ip_address]]                                           [time=  0.131] [Result: ]  
+2018-01-05 13:40:07,232  INFO   [qtp613630562-5491] - [ID=1070073036][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:40:07,302  INFO   [qtp613630562-5491] - [ID=1070073036][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.070] [Result: (1:node:1) ]  
+2018-01-05 13:40:07,305  INFO   [qtp613630562-5491] - [ID=1070073036][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:40:07,691  INFO   [qtp613630562-5491] - [ID=1070073036][TQL: Identification for [node]]                                                 [time=  0.375] [Result: (101:root:1) (100:node:1) ]  
+2018-01-05 13:40:07,805  INFO   [qtp613630562-5491] - [ID=1070073036][TQL: Identification for [ip_address]]                                           [time=  0.109] [Result: ]  
+2018-01-05 13:40:07,818  INFO   [qtp613630562-5491] - [ID=1070073036][Get Priorities]                                                                 [time=  0.006] Number of objects = 1 
+2018-01-05 13:40:09,823  INFO   [qtp613630562-5491] - [ID=  90846513][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 13:40:09,861  INFO   [qtp613630562-5491] - [ID=  90846513][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.038] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:40:10,092  INFO   [qtp613630562-5491] - [ID=  90846513][TQL: Identification for [ci_collection]]                                        [time=  0.230] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 13:40:10,097  INFO   [qtp613630562-5491] - [ID= 207101598][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:40:10,126  INFO   [qtp613630562-5491] - [ID= 207101598][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.029] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:40:10,128  INFO   [qtp613630562-5491] - [ID= 207101598][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:40:10,283  INFO   [qtp613630562-5491] - [ID= 207101598][TQL: Identification for [ci_collection]]                                        [time=  0.155] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 13:40:10,290  INFO   [qtp613630562-5491] - [ID= 207101598][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 13:40:20,493  INFO   [qtp613630562-5491] - [ID= 615694803][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 13:40:20,528  INFO   [qtp613630562-5491] - [ID= 615694803][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.035] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:40:20,727  INFO   [qtp613630562-5491] - [ID= 615694803][TQL: Identification for [ci_collection]]                                        [time=  0.198] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 13:40:20,732  INFO   [qtp613630562-5491] - [ID=1210657611][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:40:20,761  INFO   [qtp613630562-5491] - [ID=1210657611][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.029] [Result: (1:ci_collection:1) ]  
+2018-01-05 13:40:20,762  INFO   [qtp613630562-5491] - [ID=1210657611][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 13:40:20,919  INFO   [qtp613630562-5491] - [ID=1210657611][TQL: Identification for [ci_collection]]                                        [time=  0.156] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 13:40:20,927  INFO   [qtp613630562-5491] - [ID=1210657611][Get Priorities]                                                                 [time=  0.006] Number of objects = 1 
+2018-01-05 13:40:26,936  INFO   [qtp613630562-5490] - [ID=1316219690][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 13:40:27,029  INFO   [qtp613630562-5490] - [ID=1316219690][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.093] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 13:40:27,033  INFO   [qtp613630562-5490] - [ID=1316219690][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:40:27,062  INFO   [qtp613630562-5490] - [ID=1316219690][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.029] [Result: (1:ip_address:1) ]  
+2018-01-05 13:40:27,732  INFO   [qtp613630562-5490] - [ID=1316219690][TQL: Identification for [node]]                                                 [time=  0.658] [Result: (101:root:1) (100:node:1) (2:node:1) (5:ip_address:1) (6:containment:1) ]  
+2018-01-05 13:40:28,136  INFO   [qtp613630562-5490] - [ID=1316219690][TQL: Identification for [ip_address]]                                           [time=  0.400] [Result: (1:ip_address:1) (101:root:1) (100:ip_address:1) ]  
+2018-01-05 13:40:28,166  INFO   [qtp613630562-5490] - [ID=1316219690][TQL: Identification for [link]]                                                 [time=  0.028] [Result: (3:link:1) ]  
+2018-01-05 13:40:28,182  INFO   [qtp613630562-5490] - [ID= 623240147][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:40:28,274  INFO   [qtp613630562-5490] - [ID= 623240147][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.092] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 13:40:28,278  INFO   [qtp613630562-5490] - [ID= 623240147][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:40:28,314  INFO   [qtp613630562-5490] - [ID= 623240147][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.036] [Result: (1:ip_address:1) ]  
+2018-01-05 13:40:28,320  INFO   [qtp613630562-5490] - [ID= 623240147][Merge Ids]                                                                      [time=  0.004] Number of ids = 2 
+2018-01-05 13:40:29,019  INFO   [qtp613630562-5490] - [ID= 623240147][TQL: Identification for [node]]                                                 [time=  0.690] [Result: (1:node:1) (101:root:1) (100:node:1) (2:node:1) (5:ip_address:1) (11:ip_address:1) (6:containment:1) (12:containment:1) ]  
+2018-01-05 13:40:29,271  INFO   [qtp613630562-5490] - [ID= 623240147][TQL: Identification for [ip_address]]                                           [time=  0.247] [Result: (1:ip_address:1) (101:root:1) (100:ip_address:1) ]  
+2018-01-05 13:40:29,284  INFO   [qtp613630562-5490] - [ID= 623240147][Get Priorities]                                                                 [time=  0.007] Number of objects = 1 
+2018-01-05 13:40:29,332  INFO   [qtp613630562-5490] - [ID= 623240147][TQL: Identification for [link]]                                                 [time=  0.044] [Result: (3:link:1) ]  
+2018-01-05 13:40:29,811  INFO   [qtp613630562-5458] - [ID=  65393067][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 13:40:29,844  INFO   [qtp613630562-5458] - [ID=  65393067][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.033] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:40:29,891  INFO   [qtp613630562-5458] - [ID=  65393067][TQL: Identification for [node]]                                                 [time=  0.044] [Result: (1:node:1) ]  
+2018-01-05 13:40:29,919  INFO   [qtp613630562-5458] - [ID=  65393067][TQL: Identification for [person]]                                               [time=  0.025] [Result: (1:person:1) ]  
+2018-01-05 13:40:30,239  INFO   [qtp613630562-5458] - [ID=  65393067][TQL: Identification for [business_application]]                                 [time=  0.318] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:40:30,245  INFO   [qtp613630562-5458] - [ID=  65393067][TQL: Identification for [link]]                                                 [time=  0.005] [Result: ]  
+2018-01-05 13:40:30,250  INFO   [qtp613630562-5458] - [ID=2003775846][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:40:30,275  INFO   [qtp613630562-5458] - [ID=2003775846][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.025] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:40:30,279  INFO   [qtp613630562-5458] - [ID=2003775846][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-05 13:40:30,321  INFO   [qtp613630562-5458] - [ID=2003775846][TQL: Identification for [node]]                                                 [time=  0.041] [Result: (1:node:1) ]  
+2018-01-05 13:40:30,347  INFO   [qtp613630562-5458] - [ID=2003775846][TQL: Identification for [person]]                                               [time=  0.024] [Result: (1:person:1) ]  
+2018-01-05 13:40:30,351  INFO   [qtp613630562-5458] - [ID=2003775846][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 13:40:30,634  INFO   [qtp613630562-5458] - [ID=2003775846][TQL: Identification for [business_application]]                                 [time=  0.282] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 13:40:30,642  INFO   [qtp613630562-5458] - [ID=2003775846][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 13:40:30,688  INFO   [qtp613630562-5458] - [ID=2003775846][TQL: Identification for [link]]                                                 [time=  0.044] [Result: (3:link:2) ]  
+2018-01-05 16:14:44,441  INFO   [qtp613630562-6061] - [ID=1359349860][TQL: Identification for [ci_collection]]                                        [time=  0.181] [Result: ]  
+2018-01-05 16:14:44,539  INFO   [qtp613630562-6061] - [ID=1080174888][TQL: Identification for [ci_collection]]                                        [time=  0.093] [Result: ]  
+2018-01-05 16:14:57,168  INFO   [qtp613630562-6059] - [ID= 287640028][TQL: Identification for [node]]                                                 [time=  0.512] [Result: ]  
+2018-01-05 16:14:57,222  INFO   [qtp613630562-6059] - [ID= 287640028][TQL: Identification for [ci_collection]]                                        [time=  0.052] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:14:57,231  INFO   [qtp613630562-6059] - [ID= 631015012][Merge Ids]                                                                      [time=  0.004] Number of ids = 1 
+2018-01-05 16:14:57,447  INFO   [qtp613630562-6059] - [ID= 631015012][TQL: Identification for [node]]                                                 [time=  0.208] [Result: ]  
+2018-01-05 16:14:57,476  INFO   [qtp613630562-6059] - [ID= 631015012][TQL: Identification for [ci_collection]]                                        [time=  0.028] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:15:10,703  INFO   [qtp613630562-6084] - [ID=1841261666][TQL: Identification for [person]]                                               [time=  0.165] [Result: (1:root:1) ]  
+2018-01-05 16:15:10,839  INFO   [qtp613630562-6084] - [ID=1841261666][TQL: Identification for [organization]]                                         [time=  0.135] [Result: (1:organization:1) ]  
+2018-01-05 16:15:10,950  INFO   [qtp613630562-6084] - [ID=1841261666][TQL: Identification for [business_application]]                                 [time=  0.109] [Result: ]  
+2018-01-05 16:15:10,976  INFO   [qtp613630562-6084] - [ID=1841261666][TQL: Identification for [link]]                                                 [time=  0.025] [Result: (3:link:1) ]  
+2018-01-05 16:15:11,113  INFO   [qtp613630562-6084] - [ID=1315163229][TQL: Identification for [person]]                                               [time=  0.133] [Result: (1:root:1) ]  
+2018-01-05 16:15:11,251  INFO   [qtp613630562-6084] - [ID=1315163229][TQL: Identification for [organization]]                                         [time=  0.135] [Result: (1:organization:1) ]  
+2018-01-05 16:15:11,262  INFO   [qtp613630562-6084] - [ID=1315163229][Get Priorities]                                                                 [time=  0.009] Number of objects = 2 
+2018-01-05 16:15:11,400  INFO   [qtp613630562-6084] - [ID=1315163229][TQL: Identification for [business_application]]                                 [time=  0.133] [Result: ]  
+2018-01-05 16:15:11,419  INFO   [qtp613630562-6084] - [ID=1315163229][TQL: Identification for [link]]                                                 [time=  0.013] [Result: (3:link:1) ]  
+2018-01-05 16:15:11,792  INFO   [qtp613630562-6084] - [ID=1895024530][Merge Ids]                                                                      [time=  0.006] Number of ids = 1 
+2018-01-05 16:15:11,819  INFO   [qtp613630562-6084] - [ID=1895024530][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.026] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:15:11,864  INFO   [qtp613630562-6084] - [ID=1895024530][TQL: Identification for [node]]                                                 [time=  0.042] [Result: (1:node:1) ]  
+2018-01-05 16:15:11,889  INFO   [qtp613630562-6084] - [ID=1895024530][TQL: Identification for [person]]                                               [time=  0.023] [Result: (1:person:1) ]  
+2018-01-05 16:15:12,211  INFO   [qtp613630562-6084] - [ID=1895024530][TQL: Identification for [business_application]]                                 [time=  0.321] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:15:12,218  INFO   [qtp613630562-6084] - [ID=1895024530][TQL: Identification for [link]]                                                 [time=  0.005] [Result: ]  
+2018-01-05 16:15:12,222  INFO   [qtp613630562-6084] - [ID= 499422940][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:15:12,248  INFO   [qtp613630562-6084] - [ID= 499422940][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.026] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:15:12,252  INFO   [qtp613630562-6084] - [ID= 499422940][Merge Ids]                                                                      [time=  0.002] Number of ids = 2 
+2018-01-05 16:15:12,298  INFO   [qtp613630562-6084] - [ID= 499422940][TQL: Identification for [node]]                                                 [time=  0.046] [Result: (1:node:1) ]  
+2018-01-05 16:15:12,325  INFO   [qtp613630562-6084] - [ID= 499422940][TQL: Identification for [person]]                                               [time=  0.025] [Result: (1:person:1) ]  
+2018-01-05 16:15:12,330  INFO   [qtp613630562-6084] - [ID= 499422940][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:15:12,610  INFO   [qtp613630562-6084] - [ID= 499422940][TQL: Identification for [business_application]]                                 [time=  0.279] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:15:12,618  INFO   [qtp613630562-6084] - [ID= 499422940][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 16:15:12,646  INFO   [qtp613630562-6084] - [ID= 499422940][TQL: Identification for [link]]                                                 [time=  0.025] [Result: (3:link:1) ]  
+2018-01-05 16:19:13,129  INFO   [qtp613630562-6097] - [ID=1752213222][Merge Ids]                                                                      [time=  0.007] Number of ids = 1 
+2018-01-05 16:19:13,205  INFO   [qtp613630562-6097] - [ID=1752213222][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.076] [Result: (1:node:1) ]  
+2018-01-05 16:19:13,604  INFO   [qtp613630562-6097] - [ID=1752213222][TQL: Identification for [node]]                                                 [time=  0.388] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 16:19:13,660  INFO   [qtp613630562-6097] - [ID=1752213222][TQL: Identification for [ip_address]]                                           [time=  0.053] [Result: ]  
+2018-01-05 16:19:13,667  INFO   [qtp613630562-6097] - [ID=1661817524][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:19:13,693  INFO   [qtp613630562-6097] - [ID=1661817524][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.026] [Result: (1:node:1) ]  
+2018-01-05 16:19:13,694  INFO   [qtp613630562-6097] - [ID=1661817524][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:19:14,126  INFO   [qtp613630562-6097] - [ID=1661817524][TQL: Identification for [node]]                                                 [time=  0.427] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 16:19:14,240  INFO   [qtp613630562-6097] - [ID=1661817524][TQL: Identification for [ip_address]]                                           [time=  0.109] [Result: ]  
+2018-01-05 16:19:14,255  INFO   [qtp613630562-6097] - [ID=1661817524][Get Priorities]                                                                 [time=  0.009] Number of objects = 1 
+2018-01-05 16:19:16,236  INFO   [qtp613630562-6098] - [ID=1289883857][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 16:19:16,277  INFO   [qtp613630562-6098] - [ID=1289883857][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.040] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:19:16,384  INFO   [qtp613630562-6098] - [ID=1289883857][TQL: Identification for [ci_collection]]                                        [time=  0.107] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 16:19:16,386  INFO   [qtp613630562-6098] - [ID=2094199142][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:19:16,401  INFO   [qtp613630562-6098] - [ID=2094199142][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.015] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:19:16,402  INFO   [qtp613630562-6098] - [ID=2094199142][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:19:16,488  INFO   [qtp613630562-6098] - [ID=2094199142][TQL: Identification for [ci_collection]]                                        [time=  0.086] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 16:19:16,492  INFO   [qtp613630562-6098] - [ID=2094199142][Get Priorities]                                                                 [time=  0.002] Number of objects = 1 
+2018-01-05 16:19:28,477  INFO   [qtp613630562-6098] - [ID= 474682434][Merge Ids]                                                                      [time=  0.004] Number of ids = 1 
+2018-01-05 16:19:28,514  INFO   [qtp613630562-6098] - [ID= 474682434][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.037] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:19:28,709  INFO   [qtp613630562-6098] - [ID= 474682434][TQL: Identification for [ci_collection]]                                        [time=  0.194] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 16:19:28,714  INFO   [qtp613630562-6098] - [ID=1519733844][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:19:28,742  INFO   [qtp613630562-6098] - [ID=1519733844][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.028] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:19:28,744  INFO   [qtp613630562-6098] - [ID=1519733844][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:19:28,931  INFO   [qtp613630562-6098] - [ID=1519733844][TQL: Identification for [ci_collection]]                                        [time=  0.187] [Result: (1:ci_collection:1) (100:root:1) ]  
+2018-01-05 16:19:28,939  INFO   [qtp613630562-6098] - [ID=1519733844][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 16:19:34,912  INFO   [qtp613630562-6059] - [ID=1383791082][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 16:19:35,006  INFO   [qtp613630562-6059] - [ID=1383791082][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.094] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 16:19:35,011  INFO   [qtp613630562-6059] - [ID=1383791082][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:19:35,038  INFO   [qtp613630562-6059] - [ID=1383791082][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.027] [Result: (1:ip_address:1) ]  
+2018-01-05 16:19:35,584  INFO   [qtp613630562-6059] - [ID=1383791082][TQL: Identification for [node]]                                                 [time=  0.537] [Result: (100:node:1) (2:node:1) (5:ip_address:1) (101:root:1) (6:containment:1) ]  
+2018-01-05 16:19:35,901  INFO   [qtp613630562-6059] - [ID=1383791082][TQL: Identification for [ip_address]]                                           [time=  0.312] [Result: (100:ip_address:1) (101:root:1) (1:ip_address:1) ]  
+2018-01-05 16:19:35,928  INFO   [qtp613630562-6059] - [ID=1383791082][TQL: Identification for [link]]                                                 [time=  0.026] [Result: (3:link:1) ]  
+2018-01-05 16:19:35,943  INFO   [qtp613630562-6059] - [ID= 456512021][Merge Ids]                                                                      [time=  0.002] Number of ids = 1 
+2018-01-05 16:19:36,029  INFO   [qtp613630562-6059] - [ID= 456512021][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.086] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 16:19:36,033  INFO   [qtp613630562-6059] - [ID= 456512021][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:19:36,061  INFO   [qtp613630562-6059] - [ID= 456512021][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.028] [Result: (1:ip_address:1) ]  
+2018-01-05 16:19:36,063  INFO   [qtp613630562-6059] - [ID= 456512021][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-05 16:19:36,613  INFO   [qtp613630562-6059] - [ID= 456512021][TQL: Identification for [node]]                                                 [time=  0.542] [Result: (100:node:1) (1:node:1) (11:ip_address:1) (2:node:1) (5:ip_address:1) (101:root:1) (12:containment:1) (6:containment:1) ]  
+2018-01-05 16:19:36,905  INFO   [qtp613630562-6059] - [ID= 456512021][TQL: Identification for [ip_address]]                                           [time=  0.287] [Result: (100:ip_address:1) (101:root:1) (1:ip_address:1) ]  
+2018-01-05 16:19:36,918  INFO   [qtp613630562-6059] - [ID= 456512021][Get Priorities]                                                                 [time=  0.004] Number of objects = 1 
+2018-01-05 16:19:36,954  INFO   [qtp613630562-6059] - [ID= 456512021][TQL: Identification for [link]]                                                 [time=  0.032] [Result: (3:link:1) ]  
+2018-01-05 16:19:37,435  INFO   [qtp613630562-6098] - [ID=1114142683][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 16:19:37,492  INFO   [qtp613630562-6098] - [ID=1114142683][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.056] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:19:37,538  INFO   [qtp613630562-6098] - [ID=1114142683][TQL: Identification for [node]]                                                 [time=  0.044] [Result: (1:node:1) ]  
+2018-01-05 16:19:37,568  INFO   [qtp613630562-6098] - [ID=1114142683][TQL: Identification for [person]]                                               [time=  0.027] [Result: (1:person:1) ]  
+2018-01-05 16:19:37,930  INFO   [qtp613630562-6098] - [ID=1114142683][TQL: Identification for [business_application]]                                 [time=  0.360] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:19:37,936  INFO   [qtp613630562-6098] - [ID=1114142683][TQL: Identification for [link]]                                                 [time=  0.005] [Result: ]  
+2018-01-05 16:19:37,940  INFO   [qtp613630562-6098] - [ID= 613151869][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:19:37,965  INFO   [qtp613630562-6098] - [ID= 613151869][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.025] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:19:37,968  INFO   [qtp613630562-6098] - [ID= 613151869][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-01-05 16:19:38,001  INFO   [qtp613630562-6098] - [ID= 613151869][TQL: Identification for [node]]                                                 [time=  0.032] [Result: (1:node:1) ]  
+2018-01-05 16:19:38,029  INFO   [qtp613630562-6098] - [ID= 613151869][TQL: Identification for [person]]                                               [time=  0.026] [Result: (1:person:1) ]  
+2018-01-05 16:19:38,034  INFO   [qtp613630562-6098] - [ID= 613151869][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:19:38,332  INFO   [qtp613630562-6098] - [ID= 613151869][TQL: Identification for [business_application]]                                 [time=  0.296] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 16:19:38,340  INFO   [qtp613630562-6098] - [ID= 613151869][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 16:19:38,413  INFO   [qtp613630562-6098] - [ID= 613151869][TQL: Identification for [link]]                                                 [time=  0.069] [Result: (3:link:2) ]  
+2018-01-05 16:36:08,336  INFO   [qtp613630562-6139] - [ID= 775456168][TQL: Identification for [node]]                                                 [time=  0.003] [Result: ]  
+2018-01-05 16:36:08,342  INFO   [qtp613630562-6139] - [ID= 312746593][Merge Ids]                                                                      [time=  0.003] Number of ids = 1 
+2018-01-05 16:36:08,344  INFO   [qtp613630562-6139] - [ID= 312746593][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:36:09,092  INFO   [qtp613630562-6139] - [ID=  27919793][TQL: Identification for [node]]                                                 [time=  0.001] [Result: ]  
+2018-01-05 16:36:09,098  INFO   [qtp613630562-6139] - [ID=1268222814][Merge Ids]                                                                      [time=  0.003] Number of ids = 1 
+2018-01-05 16:36:09,099  INFO   [qtp613630562-6139] - [ID=1268222814][TQL: Identification for [node]]                                                 [time=  0.001] [Result: ]  
+2018-01-05 16:36:09,773  INFO   [qtp613630562-6164] - [ID=1678517618][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:36:09,782  INFO   [qtp613630562-6164] - [ID=1230363493][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 16:36:09,784  INFO   [qtp613630562-6164] - [ID=1230363493][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:36:10,259  INFO   [qtp613630562-6164] - [ID=1060809244][TQL: Identification for [ci_collection]]                                        [time=  0.057] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:36:10,263  INFO   [qtp613630562-6164] - [ID=1170269426][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:36:10,296  INFO   [qtp613630562-6164] - [ID=1170269426][TQL: Identification for [ci_collection]]                                        [time=  0.032] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:36:10,503  INFO   [qtp613630562-6164] - [ID= 122229933][TQL: Identification for [node]]                                                 [time=  0.003] [Result: ]  
+2018-01-05 16:36:10,513  INFO   [qtp613630562-6164] - [ID=1123728301][Merge Ids]                                                                      [time=  0.006] Number of ids = 1 
+2018-01-05 16:36:10,515  INFO   [qtp613630562-6164] - [ID=1123728301][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:36:13,798  INFO   [qtp613630562-6164] - [ID=  88053616][TQL: Identification for [business_application]]                                 [time=  0.056] [Result: (1:business_application:1) ]  
+2018-01-05 16:36:13,802  INFO   [qtp613630562-6164] - [ID= 824013127][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:36:13,837  INFO   [qtp613630562-6164] - [ID= 824013127][TQL: Identification for [business_application]]                                 [time=  0.035] [Result: (1:business_application:1) ]  
+2018-01-05 16:41:23,263  INFO   [qtp613630562-6139] - [ID=1656987695][TQL: Identification for [ip_address]]                                           [time=  0.055] [Result: (1:ip_address:1) ]  
+2018-01-05 16:41:23,268  INFO   [qtp613630562-6139] - [ID=1394151865][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:41:23,294  INFO   [qtp613630562-6139] - [ID=1394151865][TQL: Identification for [ip_address]]                                           [time=  0.025] [Result: (1:ip_address:1) ]  
+2018-01-05 16:41:23,525  INFO   [qtp613630562-6164] - [ID= 819663519][TQL: Identification for [node]]                                                 [time=  0.058] [Result: (1:node:1) ]  
+2018-01-05 16:41:23,531  INFO   [qtp613630562-6164] - [ID=1920941626][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:41:23,580  INFO   [qtp613630562-6164] - [ID=1920941626][TQL: Identification for [node]]                                                 [time=  0.048] [Result: (1:node:1) ]  
+2018-01-05 16:41:24,212  INFO   [qtp613630562-6164] - [ID= 251358773][TQL: Identification for [ci_collection]]                                        [time=  0.054] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:41:24,215  INFO   [qtp613630562-6164] - [ID=1159868155][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:41:24,243  INFO   [qtp613630562-6164] - [ID=1159868155][TQL: Identification for [ci_collection]]                                        [time=  0.027] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:41:24,499  INFO   [qtp613630562-6183] - [ID=1802093733][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:41:24,508  INFO   [qtp613630562-6183] - [ID=2068917552][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 16:41:24,510  INFO   [qtp613630562-6183] - [ID=2068917552][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:41:26,379  INFO   [qtp613630562-6164] - [ID= 512250346][TQL: Identification for [business_application]]                                 [time=  0.053] [Result: (1:business_application:1) ]  
+2018-01-05 16:41:26,383  INFO   [qtp613630562-6164] - [ID=1801550166][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:41:26,407  INFO   [qtp613630562-6164] - [ID=1801550166][TQL: Identification for [business_application]]                                 [time=  0.024] [Result: (1:business_application:1) ]  
+2018-01-05 16:42:06,196  INFO   [qtp613630562-6183] - [ID=1708377254][TQL: Identification for [ip_address]]                                           [time=  0.051] [Result: (1:ip_address:1) ]  
+2018-01-05 16:42:06,200  INFO   [qtp613630562-6183] - [ID=2063390087][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:42:06,227  INFO   [qtp613630562-6183] - [ID=2063390087][TQL: Identification for [ip_address]]                                           [time=  0.027] [Result: (1:ip_address:1) ]  
+2018-01-05 16:42:06,473  INFO   [qtp613630562-6164] - [ID= 391803384][TQL: Identification for [node]]                                                 [time=  0.057] [Result: (1:node:1) ]  
+2018-01-05 16:42:06,479  INFO   [qtp613630562-6164] - [ID=1808577854][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:42:06,533  INFO   [qtp613630562-6164] - [ID=1808577854][TQL: Identification for [node]]                                                 [time=  0.054] [Result: (1:node:1) ]  
+2018-01-05 16:42:07,201  INFO   [qtp613630562-6183] - [ID=1064728985][TQL: Identification for [ci_collection]]                                        [time=  0.092] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:42:07,203  INFO   [qtp613630562-6183] - [ID=1722912039][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:42:07,247  INFO   [qtp613630562-6183] - [ID=1722912039][TQL: Identification for [ci_collection]]                                        [time=  0.043] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:42:07,472  INFO   [qtp613630562-6183] - [ID=2116690335][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:42:07,480  INFO   [qtp613630562-6183] - [ID=2078584398][Merge Ids]                                                                      [time=  0.004] Number of ids = 1 
+2018-01-05 16:42:07,482  INFO   [qtp613630562-6183] - [ID=2078584398][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:42:09,436  INFO   [qtp613630562-6183] - [ID=1241829532][TQL: Identification for [business_application]]                                 [time=  0.055] [Result: (1:business_application:1) ]  
+2018-01-05 16:42:09,439  INFO   [qtp613630562-6183] - [ID=1219220533][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:42:09,464  INFO   [qtp613630562-6183] - [ID=1219220533][TQL: Identification for [business_application]]                                 [time=  0.024] [Result: (1:business_application:1) ]  
+2018-01-05 16:42:17,082  INFO   [qtp613630562-6183] - [ID= 540096714][TQL: Identification for [ip_address]]                                           [time=  0.041] [Result: (1:ip_address:1) ]  
+2018-01-05 16:42:17,084  INFO   [qtp613630562-6183] - [ID= 204857238][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:42:17,098  INFO   [qtp613630562-6183] - [ID= 204857238][TQL: Identification for [ip_address]]                                           [time=  0.014] [Result: (1:ip_address:1) ]  
+2018-01-05 16:42:17,220  INFO   [qtp613630562-6183] - [ID= 379035530][TQL: Identification for [node]]                                                 [time=  0.044] [Result: (1:node:1) ]  
+2018-01-05 16:42:17,224  INFO   [qtp613630562-6183] - [ID=1939365125][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:42:17,241  INFO   [qtp613630562-6183] - [ID=1939365125][TQL: Identification for [node]]                                                 [time=  0.017] [Result: (1:node:1) ]  
+2018-01-05 16:42:17,785  INFO   [qtp613630562-6164] - [ID=  79646257][TQL: Identification for [ci_collection]]                                        [time=  0.053] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:42:17,788  INFO   [qtp613630562-6164] - [ID=1996368217][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:42:17,810  INFO   [qtp613630562-6164] - [ID=1996368217][TQL: Identification for [ci_collection]]                                        [time=  0.022] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:42:17,996  INFO   [qtp613630562-6183] - [ID=1068984180][TQL: Identification for [node]]                                                 [time=  0.001] [Result: ]  
+2018-01-05 16:42:18,001  INFO   [qtp613630562-6183] - [ID= 893707053][Merge Ids]                                                                      [time=  0.003] Number of ids = 1 
+2018-01-05 16:42:18,002  INFO   [qtp613630562-6183] - [ID= 893707053][TQL: Identification for [node]]                                                 [time=  0.001] [Result: ]  
+2018-01-05 16:42:20,898  INFO   [qtp613630562-6164] - [ID=1174453580][TQL: Identification for [business_application]]                                 [time=  0.071] [Result: (1:business_application:1) ]  
+2018-01-05 16:42:20,902  INFO   [qtp613630562-6164] - [ID=1652928889][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 16:42:20,929  INFO   [qtp613630562-6164] - [ID=1652928889][TQL: Identification for [business_application]]                                 [time=  0.027] [Result: (1:business_application:1) ]  
+2018-01-05 16:42:22,866  INFO   [qtp613630562-6164] - [ID= 929602933][TQL: Identification for [ip_address]]                                           [time=  0.053] [Result: (1:ip_address:1) ]  
+2018-01-05 16:42:22,871  INFO   [qtp613630562-6164] - [ID=1631868175][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:42:22,899  INFO   [qtp613630562-6164] - [ID=1631868175][TQL: Identification for [ip_address]]                                           [time=  0.027] [Result: (1:ip_address:1) ]  
+2018-01-05 16:42:23,109  INFO   [qtp613630562-6183] - [ID=  53008282][TQL: Identification for [node]]                                                 [time=  0.096] [Result: (1:node:1) ]  
+2018-01-05 16:42:23,114  INFO   [qtp613630562-6183] - [ID= 536101945][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:42:23,174  INFO   [qtp613630562-6183] - [ID= 536101945][TQL: Identification for [node]]                                                 [time=  0.059] [Result: (1:node:1) ]  
+2018-01-05 16:42:23,826  INFO   [qtp613630562-6212] - [ID=1903354612][TQL: Identification for [ci_collection]]                                        [time=  0.056] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:42:23,830  INFO   [qtp613630562-6212] - [ID=  37614490][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:42:23,894  INFO   [qtp613630562-6212] - [ID=  37614490][TQL: Identification for [ci_collection]]                                        [time=  0.064] [Result: (1:ci_collection:1) ]  
+2018-01-05 16:42:24,111  INFO   [qtp613630562-6164] - [ID= 634413782][TQL: Identification for [node]]                                                 [time=  0.003] [Result: ]  
+2018-01-05 16:42:24,120  INFO   [qtp613630562-6164] - [ID=1674276957][Merge Ids]                                                                      [time=  0.004] Number of ids = 1 
+2018-01-05 16:42:24,122  INFO   [qtp613630562-6164] - [ID=1674276957][TQL: Identification for [node]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 16:42:26,293  INFO   [qtp613630562-6183] - [ID=1556697017][TQL: Identification for [business_application]]                                 [time=  0.058] [Result: (1:business_application:1) ]  
+2018-01-05 16:42:26,296  INFO   [qtp613630562-6183] - [ID=1740759086][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 16:42:26,321  INFO   [qtp613630562-6183] - [ID=1740759086][TQL: Identification for [business_application]]                                 [time=  0.024] [Result: (1:business_application:1) ]  
+2018-01-05 23:04:13,956  INFO   [qtp613630562-7614] - [ID= 279755741][TQL: Identification for [ci_collection]]                                        [time=  0.151] [Result: ]  
+2018-01-05 23:04:14,074  INFO   [qtp613630562-7614] - [ID= 640144541][TQL: Identification for [ci_collection]]                                        [time=  0.113] [Result: ]  
+2018-01-05 23:04:26,439  INFO   [qtp613630562-7614] - [ID= 741679105][TQL: Identification for [node]]                                                 [time=  0.315] [Result: ]  
+2018-01-05 23:04:26,482  INFO   [qtp613630562-7614] - [ID= 741679105][TQL: Identification for [ci_collection]]                                        [time=  0.042] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:04:26,489  INFO   [qtp613630562-7614] - [ID= 577123302][Merge Ids]                                                                      [time=  0.002] Number of ids = 1 
+2018-01-05 23:04:26,860  INFO   [qtp613630562-7614] - [ID= 577123302][TQL: Identification for [node]]                                                 [time=  0.366] [Result: ]  
+2018-01-05 23:04:26,883  INFO   [qtp613630562-7614] - [ID= 577123302][TQL: Identification for [ci_collection]]                                        [time=  0.022] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:04:40,290  INFO   [qtp613630562-7614] - [ID= 100763063][TQL: Identification for [person]]                                               [time=  0.168] [Result: (1:root:1) ]  
+2018-01-05 23:04:40,429  INFO   [qtp613630562-7614] - [ID= 100763063][TQL: Identification for [organization]]                                         [time=  0.137] [Result: (1:organization:1) ]  
+2018-01-05 23:04:40,539  INFO   [qtp613630562-7614] - [ID= 100763063][TQL: Identification for [business_application]]                                 [time=  0.109] [Result: ]  
+2018-01-05 23:04:40,565  INFO   [qtp613630562-7614] - [ID= 100763063][TQL: Identification for [link]]                                                 [time=  0.025] [Result: (3:link:1) ]  
+2018-01-05 23:04:40,700  INFO   [qtp613630562-7614] - [ID=  37303881][TQL: Identification for [person]]                                               [time=  0.131] [Result: (1:root:1) ]  
+2018-01-05 23:04:40,834  INFO   [qtp613630562-7614] - [ID=  37303881][TQL: Identification for [organization]]                                         [time=  0.133] [Result: (1:organization:1) ]  
+2018-01-05 23:04:40,843  INFO   [qtp613630562-7614] - [ID=  37303881][Get Priorities]                                                                 [time=  0.006] Number of objects = 2 
+2018-01-05 23:04:40,973  INFO   [qtp613630562-7614] - [ID=  37303881][TQL: Identification for [business_application]]                                 [time=  0.125] [Result: ]  
+2018-01-05 23:04:41,000  INFO   [qtp613630562-7614] - [ID=  37303881][TQL: Identification for [link]]                                                 [time=  0.023] [Result: (3:link:1) ]  
+2018-01-05 23:04:41,555  INFO   [qtp613630562-7611] - [ID= 916860980][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 23:04:41,587  INFO   [qtp613630562-7611] - [ID= 916860980][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.032] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:04:41,637  INFO   [qtp613630562-7611] - [ID= 916860980][TQL: Identification for [node]]                                                 [time=  0.047] [Result: (1:node:1) ]  
+2018-01-05 23:04:41,665  INFO   [qtp613630562-7611] - [ID= 916860980][TQL: Identification for [person]]                                               [time=  0.025] [Result: (1:person:1) ]  
+2018-01-05 23:04:42,028  INFO   [qtp613630562-7611] - [ID= 916860980][TQL: Identification for [business_application]]                                 [time=  0.362] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:04:42,034  INFO   [qtp613630562-7611] - [ID= 916860980][TQL: Identification for [link]]                                                 [time=  0.005] [Result: ]  
+2018-01-05 23:04:42,038  INFO   [qtp613630562-7611] - [ID=1266637902][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:04:42,064  INFO   [qtp613630562-7611] - [ID=1266637902][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.026] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:04:42,071  INFO   [qtp613630562-7611] - [ID=1266637902][Merge Ids]                                                                      [time=  0.004] Number of ids = 2 
+2018-01-05 23:04:42,120  INFO   [qtp613630562-7611] - [ID=1266637902][TQL: Identification for [node]]                                                 [time=  0.049] [Result: (1:node:1) ]  
+2018-01-05 23:04:42,149  INFO   [qtp613630562-7611] - [ID=1266637902][TQL: Identification for [person]]                                               [time=  0.026] [Result: (1:person:1) ]  
+2018-01-05 23:04:42,152  INFO   [qtp613630562-7611] - [ID=1266637902][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:04:42,458  INFO   [qtp613630562-7611] - [ID=1266637902][TQL: Identification for [business_application]]                                 [time=  0.304] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:04:42,469  INFO   [qtp613630562-7611] - [ID=1266637902][Get Priorities]                                                                 [time=  0.009] Number of objects = 1 
+2018-01-05 23:04:42,495  INFO   [qtp613630562-7611] - [ID=1266637902][TQL: Identification for [link]]                                                 [time=  0.024] [Result: (3:link:1) ]  
+2018-01-05 23:24:38,638  INFO   [qtp613630562-7702] - [ID=2021156683][TQL: Identification for [node]]                                                 [time=  0.061] [Result: (1:node:1) ]  
+2018-01-05 23:24:38,644  INFO   [qtp613630562-7702] - [ID= 497828960][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:24:38,704  INFO   [qtp613630562-7702] - [ID= 497828960][TQL: Identification for [node]]                                                 [time=  0.060] [Result: (1:node:1) ]  
+2018-01-05 23:26:54,268  INFO   [qtp613630562-7725] - [ID= 408787097][TQL: Identification for [ci_collection]]                                        [time=  0.149] [Result: ]  
+2018-01-05 23:26:54,383  INFO   [qtp613630562-7725] - [ID= 738161854][TQL: Identification for [ci_collection]]                                        [time=  0.111] [Result: ]  
+2018-01-05 23:27:11,592  INFO   [qtp613630562-7724] - [ID=1215730407][TQL: Identification for [node]]                                                 [time=  0.154] [Result: ]  
+2018-01-05 23:27:11,637  INFO   [qtp613630562-7724] - [ID=1215730407][TQL: Identification for [ci_collection]]                                        [time=  0.042] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:27:11,642  INFO   [qtp613630562-7724] - [ID=1714772122][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 23:27:11,772  INFO   [qtp613630562-7724] - [ID=1714772122][TQL: Identification for [node]]                                                 [time=  0.125] [Result: ]  
+2018-01-05 23:27:11,799  INFO   [qtp613630562-7724] - [ID=1714772122][TQL: Identification for [ci_collection]]                                        [time=  0.025] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:27:25,586  INFO   [qtp613630562-7724] - [ID= 875878248][TQL: Identification for [person]]                                               [time=  0.168] [Result: (1:root:1) ]  
+2018-01-05 23:27:25,729  INFO   [qtp613630562-7724] - [ID= 875878248][TQL: Identification for [organization]]                                         [time=  0.142] [Result: (1:organization:1) ]  
+2018-01-05 23:27:25,840  INFO   [qtp613630562-7724] - [ID= 875878248][TQL: Identification for [business_application]]                                 [time=  0.110] [Result: ]  
+2018-01-05 23:27:25,867  INFO   [qtp613630562-7724] - [ID= 875878248][TQL: Identification for [link]]                                                 [time=  0.026] [Result: (3:link:1) ]  
+2018-01-05 23:27:26,001  INFO   [qtp613630562-7724] - [ID=1486551744][TQL: Identification for [person]]                                               [time=  0.130] [Result: (1:root:1) ]  
+2018-01-05 23:27:26,149  INFO   [qtp613630562-7724] - [ID=1486551744][TQL: Identification for [organization]]                                         [time=  0.147] [Result: (1:organization:1) ]  
+2018-01-05 23:27:26,162  INFO   [qtp613630562-7724] - [ID=1486551744][Get Priorities]                                                                 [time=  0.010] Number of objects = 2 
+2018-01-05 23:27:26,281  INFO   [qtp613630562-7724] - [ID=1486551744][TQL: Identification for [business_application]]                                 [time=  0.114] [Result: ]  
+2018-01-05 23:27:26,309  INFO   [qtp613630562-7724] - [ID=1486551744][TQL: Identification for [link]]                                                 [time=  0.024] [Result: (3:link:1) ]  
+2018-01-05 23:27:27,038  INFO   [qtp613630562-7724] - [ID= 860911678][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 23:27:27,075  INFO   [qtp613630562-7724] - [ID= 860911678][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.036] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:27:27,122  INFO   [qtp613630562-7724] - [ID= 860911678][TQL: Identification for [node]]                                                 [time=  0.045] [Result: (1:node:1) ]  
+2018-01-05 23:27:27,149  INFO   [qtp613630562-7724] - [ID= 860911678][TQL: Identification for [person]]                                               [time=  0.024] [Result: (1:person:1) ]  
+2018-01-05 23:27:27,482  INFO   [qtp613630562-7724] - [ID= 860911678][TQL: Identification for [business_application]]                                 [time=  0.332] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:27:27,488  INFO   [qtp613630562-7724] - [ID= 860911678][TQL: Identification for [link]]                                                 [time=  0.005] [Result: ]  
+2018-01-05 23:27:27,492  INFO   [qtp613630562-7724] - [ID=1325645237][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:27:27,516  INFO   [qtp613630562-7724] - [ID=1325645237][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.024] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:27:27,521  INFO   [qtp613630562-7724] - [ID=1325645237][Merge Ids]                                                                      [time=  0.002] Number of ids = 2 
+2018-01-05 23:27:27,583  INFO   [qtp613630562-7724] - [ID=1325645237][TQL: Identification for [node]]                                                 [time=  0.061] [Result: (1:node:1) ]  
+2018-01-05 23:27:27,608  INFO   [qtp613630562-7724] - [ID=1325645237][TQL: Identification for [person]]                                               [time=  0.024] [Result: (1:person:1) ]  
+2018-01-05 23:27:27,612  INFO   [qtp613630562-7724] - [ID=1325645237][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:27:27,898  INFO   [qtp613630562-7724] - [ID=1325645237][TQL: Identification for [business_application]]                                 [time=  0.286] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:27:27,906  INFO   [qtp613630562-7724] - [ID=1325645237][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 23:27:27,933  INFO   [qtp613630562-7724] - [ID=1325645237][TQL: Identification for [link]]                                                 [time=  0.024] [Result: (3:link:1) ]  
+2018-01-05 23:31:02,982  INFO   [qtp613630562-7751] - [ID=2058694326][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 23:31:03,105  INFO   [qtp613630562-7751] - [ID=2058694326][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.123] [Result: (1:node:1) ]  
+2018-01-05 23:31:03,672  INFO   [qtp613630562-7751] - [ID=2058694326][TQL: Identification for [node]]                                                 [time=  0.557] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 23:31:03,806  INFO   [qtp613630562-7751] - [ID=2058694326][TQL: Identification for [ip_address]]                                           [time=  0.129] [Result: ]  
+2018-01-05 23:31:03,821  INFO   [qtp613630562-7751] - [ID=1633869556][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:31:03,863  INFO   [qtp613630562-7751] - [ID=1633869556][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.042] [Result: (1:node:1) ]  
+2018-01-05 23:31:03,866  INFO   [qtp613630562-7751] - [ID=1633869556][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 23:31:04,205  INFO   [qtp613630562-7751] - [ID=1633869556][TQL: Identification for [node]]                                                 [time=  0.331] [Result: (100:node:1) (101:root:1) ]  
+2018-01-05 23:31:04,342  INFO   [qtp613630562-7751] - [ID=1633869556][TQL: Identification for [ip_address]]                                           [time=  0.133] [Result: ]  
+2018-01-05 23:31:04,353  INFO   [qtp613630562-7751] - [ID=1633869556][Get Priorities]                                                                 [time=  0.006] Number of objects = 1 
+2018-01-05 23:31:06,359  INFO   [qtp613630562-7728] - [ID= 635193139][Merge Ids]                                                                      [time=  0.006] Number of ids = 1 
+2018-01-05 23:31:06,395  INFO   [qtp613630562-7728] - [ID= 635193139][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.036] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:31:06,604  INFO   [qtp613630562-7728] - [ID= 635193139][TQL: Identification for [ci_collection]]                                        [time=  0.208] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 23:31:06,608  INFO   [qtp613630562-7728] - [ID=1873793709][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 23:31:06,638  INFO   [qtp613630562-7728] - [ID=1873793709][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.029] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:31:06,639  INFO   [qtp613630562-7728] - [ID=1873793709][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:31:06,820  INFO   [qtp613630562-7728] - [ID=1873793709][TQL: Identification for [ci_collection]]                                        [time=  0.181] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 23:31:06,827  INFO   [qtp613630562-7728] - [ID=1873793709][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 23:31:17,794  INFO   [qtp613630562-7728] - [ID= 657675745][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 23:31:17,829  INFO   [qtp613630562-7728] - [ID= 657675745][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.035] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:31:18,041  INFO   [qtp613630562-7728] - [ID= 657675745][TQL: Identification for [ci_collection]]                                        [time=  0.211] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 23:31:18,045  INFO   [qtp613630562-7728] - [ID=1879406520][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 23:31:18,074  INFO   [qtp613630562-7728] - [ID=1879406520][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.029] [Result: (1:ci_collection:1) ]  
+2018-01-05 23:31:18,075  INFO   [qtp613630562-7728] - [ID=1879406520][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:31:18,234  INFO   [qtp613630562-7728] - [ID=1879406520][TQL: Identification for [ci_collection]]                                        [time=  0.158] [Result: (100:root:1) (1:ci_collection:1) ]  
+2018-01-05 23:31:18,241  INFO   [qtp613630562-7728] - [ID=1879406520][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 23:31:23,931  INFO   [qtp613630562-7753] - [ID=1069663149][Merge Ids]                                                                      [time=  0.005] Number of ids = 1 
+2018-01-05 23:31:24,000  INFO   [qtp613630562-7753] - [ID=1069663149][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.069] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 23:31:24,004  INFO   [qtp613630562-7753] - [ID=1069663149][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:31:24,032  INFO   [qtp613630562-7753] - [ID=1069663149][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.028] [Result: (1:ip_address:1) ]  
+2018-01-05 23:31:24,560  INFO   [qtp613630562-7753] - [ID=1069663149][TQL: Identification for [node]]                                                 [time=  0.520] [Result: (100:node:1) (5:ip_address:1) (2:node:1) (101:root:1) (6:containment:1) ]  
+2018-01-05 23:31:24,910  INFO   [qtp613630562-7753] - [ID=1069663149][TQL: Identification for [ip_address]]                                           [time=  0.346] [Result: (1:ip_address:1) (100:ip_address:1) (101:root:1) ]  
+2018-01-05 23:31:24,948  INFO   [qtp613630562-7753] - [ID=1069663149][TQL: Identification for [link]]                                                 [time=  0.036] [Result: (3:link:1) ]  
+2018-01-05 23:31:24,961  INFO   [qtp613630562-7753] - [ID= 398255268][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:31:25,023  INFO   [qtp613630562-7753] - [ID= 398255268][TQL: Identification for [node] (CompleteIdentificationData)]                    [time=  0.062] [Result: (1:node:1) (4:ip_address:1) (5:containment:1) ]  
+2018-01-05 23:31:25,027  INFO   [qtp613630562-7753] - [ID= 398255268][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:31:25,075  INFO   [qtp613630562-7753] - [ID= 398255268][TQL: Identification for [ip_address] (CompleteIdentificationData)]              [time=  0.048] [Result: (1:ip_address:1) ]  
+2018-01-05 23:31:25,082  INFO   [qtp613630562-7753] - [ID= 398255268][Merge Ids]                                                                      [time=  0.006] Number of ids = 2 
+2018-01-05 23:31:25,688  INFO   [qtp613630562-7753] - [ID= 398255268][TQL: Identification for [node]]                                                 [time=  0.598] [Result: (100:node:1) (1:node:1) (11:ip_address:1) (5:ip_address:1) (2:node:1) (101:root:1) (12:containment:1) (6:containment:1) ]  
+2018-01-05 23:31:25,990  INFO   [qtp613630562-7753] - [ID= 398255268][TQL: Identification for [ip_address]]                                           [time=  0.298] [Result: (1:ip_address:1) (100:ip_address:1) (101:root:1) ]  
+2018-01-05 23:31:25,999  INFO   [qtp613630562-7753] - [ID= 398255268][Get Priorities]                                                                 [time=  0.005] Number of objects = 1 
+2018-01-05 23:31:26,032  INFO   [qtp613630562-7753] - [ID= 398255268][TQL: Identification for [link]]                                                 [time=  0.030] [Result: (3:link:1) ]  
+2018-01-05 23:31:26,578  INFO   [qtp613630562-7728] - [ID= 406957205][Merge Ids]                                                                      [time=  0.006] Number of ids = 1 
+2018-01-05 23:31:26,611  INFO   [qtp613630562-7728] - [ID= 406957205][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.033] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:31:26,656  INFO   [qtp613630562-7728] - [ID= 406957205][TQL: Identification for [node]]                                                 [time=  0.043] [Result: (1:node:1) ]  
+2018-01-05 23:31:26,685  INFO   [qtp613630562-7728] - [ID= 406957205][TQL: Identification for [person]]                                               [time=  0.026] [Result: (1:person:1) ]  
+2018-01-05 23:31:26,910  INFO   [qtp613630562-7728] - [ID= 406957205][TQL: Identification for [business_application]]                                 [time=  0.223] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:31:26,913  INFO   [qtp613630562-7728] - [ID= 406957205][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-01-05 23:31:26,916  INFO   [qtp613630562-7728] - [ID= 179502181][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-01-05 23:31:26,928  INFO   [qtp613630562-7728] - [ID= 179502181][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.012] [Result: (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:31:26,929  INFO   [qtp613630562-7728] - [ID= 179502181][Merge Ids]                                                                      [time=  0.000] Number of ids = 2 
+2018-01-05 23:31:26,940  INFO   [qtp613630562-7728] - [ID= 179502181][TQL: Identification for [node]]                                                 [time=  0.011] [Result: (1:node:1) ]  
+2018-01-05 23:31:26,952  INFO   [qtp613630562-7728] - [ID= 179502181][TQL: Identification for [person]]                                               [time=  0.011] [Result: (1:person:1) ]  
+2018-01-05 23:31:26,954  INFO   [qtp613630562-7728] - [ID= 179502181][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-01-05 23:31:27,086  INFO   [qtp613630562-7728] - [ID= 179502181][TQL: Identification for [business_application]]                                 [time=  0.132] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) (2:party:1) (3:ownership:1) ]  
+2018-01-05 23:31:27,089  INFO   [qtp613630562-7728] - [ID= 179502181][Get Priorities]                                                                 [time=  0.002] Number of objects = 1 
+2018-01-05 23:31:27,111  INFO   [qtp613630562-7728] - [ID= 179502181][TQL: Identification for [link]]                                                 [time=  0.021] [Result: (3:link:2) ]  
+2018-02-21 17:05:33,421  INFO   [qtp1607453282-104646] - [ID=1301024376][TQL: Identification for [business_application]]                                 [time=  1.523] [Result: ]  
+2018-02-21 17:05:33,665  INFO   [qtp1607453282-104646] - [ID=1994914051][TQL: Identification for [business_application]]                                 [time=  0.198] [Result: ]  
+2018-02-21 17:05:51,372  INFO   [qtp1607453282-104645] - [ID=1899626185][TQL: Identification for [infrastructure_service]]                               [time=  0.146] [Result: ]  
+2018-02-21 17:05:51,481  INFO   [qtp1607453282-104645] - [ID= 579763887][TQL: Identification for [infrastructure_service]]                               [time=  0.106] [Result: ]  
+2018-02-21 17:15:20,418  INFO   [qtp1607453282-104688] - [ID=2042645717][TQL: Identification for [business_application]]                                 [time=  0.208] [Result: ]  
+2018-02-21 17:15:20,511  INFO   [qtp1607453282-104688] - [ID=1606025479][TQL: Identification for [business_application]]                                 [time=  0.091] [Result: ]  
+2018-02-21 17:15:40,046  INFO   [qtp1607453282-104681] - [ID= 838453325][TQL: Identification for [infrastructure_service]]                               [time=  0.197] [Result: ]  
+2018-02-21 17:15:40,220  INFO   [qtp1607453282-104681] - [ID=  64068506][TQL: Identification for [infrastructure_service]]                               [time=  0.172] [Result: ]  
+2018-02-21 17:15:42,572  INFO   [qtp1607453282-104681] - [ID= 681351674][Merge Ids]                                                                      [time=  0.009] Number of ids = 2 
+2018-02-21 17:15:42,575  INFO   [qtp1607453282-104681] - [ID= 681351674][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.002] [Result: (1:root:2) ]  
+2018-02-21 17:15:42,579  INFO   [qtp1607453282-104681] - [ID= 681351674][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:15:42,616  INFO   [qtp1607453282-104681] - [ID= 681351674][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.037] [Result: (1:root:1) ]  
+2018-02-21 17:15:42,619  INFO   [qtp1607453282-104681] - [ID= 681351674][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:15:42,714  INFO   [qtp1607453282-104681] - [ID= 681351674][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.095] [Result: (1:business_application:1) ]  
+2018-02-21 17:15:43,241  INFO   [qtp1607453282-104681] - [ID= 681351674][TQL: Identification for [business_application]]                                 [time=  0.524] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) ]  
+2018-02-21 17:15:43,304  INFO   [qtp1607453282-104681] - [ID= 681351674][TQL: Identification for [infrastructure_service]]                               [time=  0.063] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 17:15:43,307  INFO   [qtp1607453282-104681] - [ID= 959700953][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 17:15:43,308  INFO   [qtp1607453282-104681] - [ID= 959700953][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 17:15:43,309  INFO   [qtp1607453282-104681] - [ID= 959700953][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:15:43,341  INFO   [qtp1607453282-104681] - [ID= 959700953][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.032] [Result: (1:root:1) ]  
+2018-02-21 17:15:43,342  INFO   [qtp1607453282-104681] - [ID= 959700953][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:15:43,375  INFO   [qtp1607453282-104681] - [ID= 959700953][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.033] [Result: (1:business_application:1) ]  
+2018-02-21 17:15:43,377  INFO   [qtp1607453282-104681] - [ID= 959700953][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 17:15:43,757  INFO   [qtp1607453282-104681] - [ID= 959700953][TQL: Identification for [business_application]]                                 [time=  0.379] [Result: (101:root:1) (100:business_application:1) (1:business_application:1) ]  
+2018-02-21 17:15:43,773  INFO   [qtp1607453282-104681] - [ID= 959700953][TQL: Identification for [infrastructure_service]]                               [time=  0.016] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 17:15:44,675  INFO   [qtp1607453282-104681] - [ID= 959700953][TQL: Identification for [link]]                                                 [time=  0.899] [Result: ]  
+2018-02-21 17:16:05,505  INFO   [qtp1607453282-104692] - [ID=1929815024][TQL: Identification for [ci_collection]]                                        [time=  0.142] [Result: ]  
+2018-02-21 17:16:05,607  INFO   [qtp1607453282-104692] - [ID= 528760021][TQL: Identification for [ci_collection]]                                        [time=  0.099] [Result: ]  
+2018-02-21 17:16:07,753  INFO   [qtp1607453282-104692] - [ID=1553739806][Merge Ids]                                                                      [time=  0.005] Number of ids = 2 
+2018-02-21 17:16:07,754  INFO   [qtp1607453282-104692] - [ID=1553739806][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 17:16:07,759  INFO   [qtp1607453282-104692] - [ID=1553739806][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:16:07,801  INFO   [qtp1607453282-104692] - [ID=1553739806][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.041] [Result: (1:ci_collection:1) ]  
+2018-02-21 17:16:07,802  INFO   [qtp1607453282-104692] - [ID=1553739806][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:16:07,828  INFO   [qtp1607453282-104692] - [ID=1553739806][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.026] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 17:16:08,162  INFO   [qtp1607453282-104692] - [ID=1553739806][TQL: Identification for [infrastructure_service]]                               [time=  0.333] [Result: (100:infrastructure_service:1) (101:root:1) (1:infrastructure_service:1) ]  
+2018-02-21 17:16:08,638  INFO   [qtp1607453282-104692] - [ID=1553739806][TQL: Identification for [ci_collection]]                                        [time=  0.475] [Result: (100:ci_collection:1) (101:root:1) (1:ci_collection:1) ]  
+2018-02-21 17:16:08,640  INFO   [qtp1607453282-104692] - [ID=1553739806][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-21 17:16:08,642  INFO   [qtp1607453282-104692] - [ID=1518072044][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 17:16:08,643  INFO   [qtp1607453282-104692] - [ID=1518072044][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 17:16:08,645  INFO   [qtp1607453282-104692] - [ID=1518072044][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:16:08,678  INFO   [qtp1607453282-104692] - [ID=1518072044][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.033] [Result: (1:ci_collection:1) ]  
+2018-02-21 17:16:08,680  INFO   [qtp1607453282-104692] - [ID=1518072044][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 17:16:08,704  INFO   [qtp1607453282-104692] - [ID=1518072044][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.024] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 17:16:08,705  INFO   [qtp1607453282-104692] - [ID=1518072044][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-21 17:16:09,019  INFO   [qtp1607453282-104692] - [ID=1518072044][TQL: Identification for [infrastructure_service]]                               [time=  0.313] [Result: (100:infrastructure_service:1) (101:root:1) (1:infrastructure_service:1) ]  
+2018-02-21 17:16:09,021  INFO   [qtp1607453282-104692] - [ID=1518072044][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-21 17:16:09,323  INFO   [qtp1607453282-104692] - [ID=1518072044][TQL: Identification for [ci_collection]]                                        [time=  0.300] [Result: (100:ci_collection:1) (101:root:1) (1:ci_collection:1) ]  
+2018-02-21 17:16:09,326  INFO   [qtp1607453282-104692] - [ID=1518072044][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-21 17:16:24,370  INFO   [qtp1607453282-104688] - [ID=1731099923][TQL: Identification for [node]]                                                 [time=  0.474] [Result: ]  
+2018-02-21 17:16:24,618  INFO   [qtp1607453282-104688] - [ID=1577843564][TQL: Identification for [node]]                                                 [time=  0.236] [Result: ]  
+2018-02-21 17:16:27,057  INFO   [qtp1607453282-104692] - [ID=1248699691][Merge Ids]                                                                      [time=  0.003] Number of ids = 2 
+2018-02-21 17:16:27,059  INFO   [qtp1607453282-104692] - [ID=1248699691][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.002] [Result: (1:root:2) ]  
+2018-02-21 17:16:27,133  INFO   [qtp1607453282-104692] - [ID=1248699691][TQL: Identification for [node]]                                                 [time=  0.073] [Result: (1:node:1) ]  
+2018-02-21 17:16:27,194  INFO   [qtp1607453282-104692] - [ID=1248699691][TQL: Identification for [ci_collection]]                                        [time=  0.059] [Result: (1:ci_collection:1) ]  
+2018-02-21 17:16:27,196  INFO   [qtp1607453282-104692] - [ID= 742631355][Merge Ids]                                                                      [time=  0.000] Number of ids = 2 
+2018-02-21 17:16:27,198  INFO   [qtp1607453282-104692] - [ID= 742631355][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 17:16:27,199  INFO   [qtp1607453282-104692] - [ID= 742631355][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 17:16:27,260  INFO   [qtp1607453282-104692] - [ID= 742631355][TQL: Identification for [node]]                                                 [time=  0.061] [Result: (1:node:1) ]  
+2018-02-21 17:16:27,278  INFO   [qtp1607453282-104692] - [ID= 742631355][TQL: Identification for [ci_collection]]                                        [time=  0.017] [Result: (1:ci_collection:1) ]  
+2018-02-21 17:16:27,282  INFO   [qtp1607453282-104692] - [ID= 742631355][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-21 23:58:41,521  INFO   [qtp1607453282-119225] - [ID=1697322791][TQL: Identification for [business_application]]                                 [time=  0.411] [Result: ]  
+2018-02-21 23:58:41,695  INFO   [qtp1607453282-119225] - [ID= 335851561][TQL: Identification for [business_application]]                                 [time=  0.172] [Result: ]  
+2018-02-21 23:58:56,822  INFO   [qtp1607453282-119225] - [ID=1721237494][TQL: Identification for [infrastructure_service]]                               [time=  0.177] [Result: ]  
+2018-02-21 23:58:56,980  INFO   [qtp1607453282-119225] - [ID=1537622741][TQL: Identification for [infrastructure_service]]                               [time=  0.155] [Result: ]  
+2018-02-21 23:58:58,903  INFO   [qtp1607453282-119225] - [ID=1194418909][Merge Ids]                                                                      [time=  0.019] Number of ids = 2 
+2018-02-21 23:58:58,904  INFO   [qtp1607453282-119225] - [ID=1194418909][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 23:58:58,905  INFO   [qtp1607453282-119225] - [ID=1194418909][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-21 23:58:58,943  INFO   [qtp1607453282-119225] - [ID=1194418909][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.037] [Result: (1:root:1) ]  
+2018-02-21 23:58:58,944  INFO   [qtp1607453282-119225] - [ID=1194418909][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-21 23:58:59,004  INFO   [qtp1607453282-119225] - [ID=1194418909][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.060] [Result: (1:business_application:1) ]  
+2018-02-21 23:58:59,544  INFO   [qtp1607453282-119225] - [ID=1194418909][TQL: Identification for [business_application]]                                 [time=  0.539] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) ]  
+2018-02-21 23:58:59,603  INFO   [qtp1607453282-119225] - [ID=1194418909][TQL: Identification for [infrastructure_service]]                               [time=  0.059] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 23:58:59,605  INFO   [qtp1607453282-119225] - [ID= 338898326][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 23:58:59,606  INFO   [qtp1607453282-119225] - [ID= 338898326][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 23:58:59,607  INFO   [qtp1607453282-119225] - [ID= 338898326][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 23:58:59,638  INFO   [qtp1607453282-119225] - [ID= 338898326][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.031] [Result: (1:root:1) ]  
+2018-02-21 23:58:59,639  INFO   [qtp1607453282-119225] - [ID= 338898326][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 23:58:59,672  INFO   [qtp1607453282-119225] - [ID= 338898326][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.033] [Result: (1:business_application:1) ]  
+2018-02-21 23:58:59,673  INFO   [qtp1607453282-119225] - [ID= 338898326][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 23:58:59,978  INFO   [qtp1607453282-119225] - [ID= 338898326][TQL: Identification for [business_application]]                                 [time=  0.304] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) ]  
+2018-02-21 23:58:59,997  INFO   [qtp1607453282-119225] - [ID= 338898326][TQL: Identification for [infrastructure_service]]                               [time=  0.018] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 23:59:00,000  INFO   [qtp1607453282-119225] - [ID= 338898326][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-21 23:59:15,319  INFO   [qtp1607453282-119268] - [ID= 529669020][TQL: Identification for [ci_collection]]                                        [time=  0.201] [Result: ]  
+2018-02-21 23:59:15,540  INFO   [qtp1607453282-119268] - [ID= 768408312][TQL: Identification for [ci_collection]]                                        [time=  0.218] [Result: ]  
+2018-02-21 23:59:17,699  INFO   [qtp1607453282-119268] - [ID= 970280805][Merge Ids]                                                                      [time=  0.004] Number of ids = 2 
+2018-02-21 23:59:17,700  INFO   [qtp1607453282-119268] - [ID= 970280805][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 23:59:17,703  INFO   [qtp1607453282-119268] - [ID= 970280805][Merge Ids]                                                                      [time=  0.002] Number of ids = 1 
+2018-02-21 23:59:17,737  INFO   [qtp1607453282-119268] - [ID= 970280805][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.034] [Result: (1:ci_collection:1) ]  
+2018-02-21 23:59:17,738  INFO   [qtp1607453282-119268] - [ID= 970280805][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 23:59:17,757  INFO   [qtp1607453282-119268] - [ID= 970280805][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.019] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 23:59:18,055  INFO   [qtp1607453282-119268] - [ID= 970280805][TQL: Identification for [infrastructure_service]]                               [time=  0.297] [Result: (100:infrastructure_service:1) (101:root:1) (1:infrastructure_service:1) ]  
+2018-02-21 23:59:18,393  INFO   [qtp1607453282-119268] - [ID= 970280805][TQL: Identification for [ci_collection]]                                        [time=  0.337] [Result: (101:root:1) (100:ci_collection:1) (1:ci_collection:1) ]  
+2018-02-21 23:59:18,395  INFO   [qtp1607453282-119268] - [ID= 970280805][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-21 23:59:18,397  INFO   [qtp1607453282-119268] - [ID= 419654418][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 23:59:18,397  INFO   [qtp1607453282-119268] - [ID= 419654418][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.000] [Result: (1:root:2) ]  
+2018-02-21 23:59:18,399  INFO   [qtp1607453282-119268] - [ID= 419654418][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 23:59:18,424  INFO   [qtp1607453282-119268] - [ID= 419654418][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.024] [Result: (1:ci_collection:1) ]  
+2018-02-21 23:59:18,425  INFO   [qtp1607453282-119268] - [ID= 419654418][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 23:59:18,449  INFO   [qtp1607453282-119268] - [ID= 419654418][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.024] [Result: (1:infrastructure_service:1) ]  
+2018-02-21 23:59:18,450  INFO   [qtp1607453282-119268] - [ID= 419654418][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-21 23:59:18,764  INFO   [qtp1607453282-119268] - [ID= 419654418][TQL: Identification for [infrastructure_service]]                               [time=  0.314] [Result: (100:infrastructure_service:1) (101:root:1) (1:infrastructure_service:1) ]  
+2018-02-21 23:59:18,765  INFO   [qtp1607453282-119268] - [ID= 419654418][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-21 23:59:19,178  INFO   [qtp1607453282-119268] - [ID= 419654418][TQL: Identification for [ci_collection]]                                        [time=  0.412] [Result: (101:root:1) (100:ci_collection:1) (1:ci_collection:1) ]  
+2018-02-21 23:59:19,181  INFO   [qtp1607453282-119268] - [ID= 419654418][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-21 23:59:34,477  INFO   [qtp1607453282-119268] - [ID=1622314247][TQL: Identification for [node]]                                                 [time=  0.413] [Result: ]  
+2018-02-21 23:59:34,745  INFO   [qtp1607453282-119268] - [ID= 278518070][TQL: Identification for [node]]                                                 [time=  0.262] [Result: ]  
+2018-02-21 23:59:37,368  INFO   [qtp1607453282-119275] - [ID= 375511043][Merge Ids]                                                                      [time=  0.004] Number of ids = 2 
+2018-02-21 23:59:37,369  INFO   [qtp1607453282-119275] - [ID= 375511043][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 23:59:37,444  INFO   [qtp1607453282-119275] - [ID= 375511043][TQL: Identification for [node]]                                                 [time=  0.074] [Result: (1:node:1) ]  
+2018-02-21 23:59:37,506  INFO   [qtp1607453282-119275] - [ID= 375511043][TQL: Identification for [ci_collection]]                                        [time=  0.060] [Result: (1:ci_collection:1) ]  
+2018-02-21 23:59:37,508  INFO   [qtp1607453282-119275] - [ID=2088977944][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 23:59:37,509  INFO   [qtp1607453282-119275] - [ID=2088977944][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-21 23:59:37,511  INFO   [qtp1607453282-119275] - [ID=2088977944][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-21 23:59:37,619  INFO   [qtp1607453282-119275] - [ID=2088977944][TQL: Identification for [node]]                                                 [time=  0.108] [Result: (1:node:1) ]  
+2018-02-21 23:59:37,639  INFO   [qtp1607453282-119275] - [ID=2088977944][TQL: Identification for [ci_collection]]                                        [time=  0.019] [Result: (1:ci_collection:1) ]  
+2018-02-21 23:59:37,642  INFO   [qtp1607453282-119275] - [ID=2088977944][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-22 00:09:31,748  INFO   [qtp1607453282-119332] - [ID=1941822254][TQL: Identification for [business_application]]                                 [time=  0.155] [Result: ]  
+2018-02-22 00:09:31,872  INFO   [qtp1607453282-119332] - [ID= 390686547][TQL: Identification for [business_application]]                                 [time=  0.122] [Result: ]  
+2018-02-22 00:09:56,604  INFO   [qtp1607453282-119332] - [ID=1591268390][TQL: Identification for [infrastructure_service]]                               [time=  0.125] [Result: ]  
+2018-02-22 00:09:56,727  INFO   [qtp1607453282-119332] - [ID= 397817765][TQL: Identification for [infrastructure_service]]                               [time=  0.121] [Result: ]  
+2018-02-22 00:09:58,907  INFO   [qtp1607453282-119332] - [ID=1078274158][Merge Ids]                                                                      [time=  0.005] Number of ids = 2 
+2018-02-22 00:09:58,909  INFO   [qtp1607453282-119332] - [ID=1078274158][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 00:09:58,909  INFO   [qtp1607453282-119332] - [ID=1078274158][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 00:09:58,948  INFO   [qtp1607453282-119332] - [ID=1078274158][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.038] [Result: (1:root:1) ]  
+2018-02-22 00:09:58,949  INFO   [qtp1607453282-119332] - [ID=1078274158][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 00:09:58,983  INFO   [qtp1607453282-119332] - [ID=1078274158][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.034] [Result: (1:business_application:1) ]  
+2018-02-22 00:09:59,379  INFO   [qtp1607453282-119332] - [ID=1078274158][TQL: Identification for [business_application]]                                 [time=  0.395] [Result: (101:root:1) (1:business_application:1) (100:business_application:1) ]  
+2018-02-22 00:09:59,444  INFO   [qtp1607453282-119332] - [ID=1078274158][TQL: Identification for [infrastructure_service]]                               [time=  0.039] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 00:09:59,446  INFO   [qtp1607453282-119332] - [ID=1175412302][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 00:09:59,447  INFO   [qtp1607453282-119332] - [ID=1175412302][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 00:09:59,447  INFO   [qtp1607453282-119332] - [ID=1175412302][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 00:09:59,468  INFO   [qtp1607453282-119332] - [ID=1175412302][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.021] [Result: (1:root:1) ]  
+2018-02-22 00:09:59,469  INFO   [qtp1607453282-119332] - [ID=1175412302][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 00:09:59,495  INFO   [qtp1607453282-119332] - [ID=1175412302][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.026] [Result: (1:business_application:1) ]  
+2018-02-22 00:09:59,495  INFO   [qtp1607453282-119332] - [ID=1175412302][Merge Ids]                                                                      [time=  0.000] Number of ids = 2 
+2018-02-22 00:09:59,841  INFO   [qtp1607453282-119332] - [ID=1175412302][TQL: Identification for [business_application]]                                 [time=  0.345] [Result: (101:root:1) (1:business_application:1) (100:business_application:1) ]  
+2018-02-22 00:09:59,866  INFO   [qtp1607453282-119332] - [ID=1175412302][TQL: Identification for [infrastructure_service]]                               [time=  0.025] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 00:09:59,869  INFO   [qtp1607453282-119332] - [ID=1175412302][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-22 00:10:11,935  INFO   [qtp1607453282-119365] - [ID= 736839640][TQL: Identification for [ci_collection]]                                        [time=  0.111] [Result: ]  
+2018-02-22 00:10:12,036  INFO   [qtp1607453282-119365] - [ID= 858761105][TQL: Identification for [ci_collection]]                                        [time=  0.099] [Result: ]  
+2018-02-22 00:10:14,166  INFO   [qtp1607453282-119365] - [ID=  53830975][Merge Ids]                                                                      [time=  0.003] Number of ids = 2 
+2018-02-22 00:10:14,167  INFO   [qtp1607453282-119365] - [ID=  53830975][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 00:10:14,168  INFO   [qtp1607453282-119365] - [ID=  53830975][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 00:10:14,209  INFO   [qtp1607453282-119365] - [ID=  53830975][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.041] [Result: (1:ci_collection:1) ]  
+2018-02-22 00:10:14,210  INFO   [qtp1607453282-119365] - [ID=  53830975][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 00:10:14,248  INFO   [qtp1607453282-119365] - [ID=  53830975][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.038] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 00:10:14,749  INFO   [qtp1607453282-119365] - [ID=  53830975][TQL: Identification for [infrastructure_service]]                               [time=  0.500] [Result: (101:root:1) (1:infrastructure_service:1) (100:infrastructure_service:1) ]  
+2018-02-22 00:10:15,101  INFO   [qtp1607453282-119365] - [ID=  53830975][TQL: Identification for [ci_collection]]                                        [time=  0.351] [Result: (1:ci_collection:1) (101:root:1) (100:ci_collection:1) ]  
+2018-02-22 00:10:15,102  INFO   [qtp1607453282-119365] - [ID=  53830975][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 00:10:15,104  INFO   [qtp1607453282-119365] - [ID= 213919664][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 00:10:15,104  INFO   [qtp1607453282-119365] - [ID= 213919664][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.000] [Result: (1:root:2) ]  
+2018-02-22 00:10:15,105  INFO   [qtp1607453282-119365] - [ID= 213919664][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 00:10:15,123  INFO   [qtp1607453282-119365] - [ID= 213919664][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.018] [Result: (1:ci_collection:1) ]  
+2018-02-22 00:10:15,124  INFO   [qtp1607453282-119365] - [ID= 213919664][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 00:10:15,144  INFO   [qtp1607453282-119365] - [ID= 213919664][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.020] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 00:10:15,145  INFO   [qtp1607453282-119365] - [ID= 213919664][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 00:10:15,398  INFO   [qtp1607453282-119365] - [ID= 213919664][TQL: Identification for [infrastructure_service]]                               [time=  0.252] [Result: (101:root:1) (1:infrastructure_service:1) (100:infrastructure_service:1) ]  
+2018-02-22 00:10:15,400  INFO   [qtp1607453282-119365] - [ID= 213919664][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 00:10:15,728  INFO   [qtp1607453282-119365] - [ID= 213919664][TQL: Identification for [ci_collection]]                                        [time=  0.328] [Result: (1:ci_collection:1) (101:root:1) (100:ci_collection:1) ]  
+2018-02-22 00:10:15,731  INFO   [qtp1607453282-119365] - [ID= 213919664][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 00:10:31,349  INFO   [qtp1607453282-119365] - [ID=2030021552][TQL: Identification for [node]]                                                 [time=  0.239] [Result: ]  
+2018-02-22 00:10:31,533  INFO   [qtp1607453282-119365] - [ID= 220751167][TQL: Identification for [node]]                                                 [time=  0.179] [Result: ]  
+2018-02-22 00:10:33,837  INFO   [qtp1607453282-119332] - [ID= 878902483][Merge Ids]                                                                      [time=  0.002] Number of ids = 2 
+2018-02-22 00:10:33,839  INFO   [qtp1607453282-119332] - [ID= 878902483][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.002] [Result: (1:root:2) ]  
+2018-02-22 00:10:33,908  INFO   [qtp1607453282-119332] - [ID= 878902483][TQL: Identification for [node]]                                                 [time=  0.069] [Result: (1:node:1) ]  
+2018-02-22 00:10:33,983  INFO   [qtp1607453282-119332] - [ID= 878902483][TQL: Identification for [ci_collection]]                                        [time=  0.074] [Result: (1:ci_collection:1) ]  
+2018-02-22 00:10:33,984  INFO   [qtp1607453282-119332] - [ID= 619198407][Merge Ids]                                                                      [time=  0.000] Number of ids = 2 
+2018-02-22 00:10:33,985  INFO   [qtp1607453282-119332] - [ID= 619198407][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 00:10:33,987  INFO   [qtp1607453282-119332] - [ID= 619198407][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 00:10:34,128  INFO   [qtp1607453282-119332] - [ID= 619198407][TQL: Identification for [node]]                                                 [time=  0.141] [Result: (1:node:1) ]  
+2018-02-22 00:10:34,162  INFO   [qtp1607453282-119332] - [ID= 619198407][TQL: Identification for [ci_collection]]                                        [time=  0.033] [Result: (1:ci_collection:1) ]  
+2018-02-22 00:10:34,165  INFO   [qtp1607453282-119332] - [ID= 619198407][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-22 01:29:29,441  INFO   [qtp1607453282-119670] - [ID= 241963945][TQL: Identification for [business_application]]                                 [time=  0.142] [Result: ]  
+2018-02-22 01:29:29,597  INFO   [qtp1607453282-119670] - [ID= 843718469][TQL: Identification for [business_application]]                                 [time=  0.154] [Result: ]  
+2018-02-22 01:29:43,798  INFO   [qtp1607453282-119668] - [ID= 447265075][TQL: Identification for [infrastructure_service]]                               [time=  0.173] [Result: ]  
+2018-02-22 01:29:43,936  INFO   [qtp1607453282-119668] - [ID= 246279816][TQL: Identification for [infrastructure_service]]                               [time=  0.136] [Result: ]  
+2018-02-22 01:29:45,963  INFO   [qtp1607453282-119668] - [ID= 369873663][Merge Ids]                                                                      [time=  0.006] Number of ids = 2 
+2018-02-22 01:29:45,965  INFO   [qtp1607453282-119668] - [ID= 369873663][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.000] [Result: (1:root:2) ]  
+2018-02-22 01:29:45,966  INFO   [qtp1607453282-119668] - [ID= 369873663][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 01:29:46,003  INFO   [qtp1607453282-119668] - [ID= 369873663][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.037] [Result: (1:root:1) ]  
+2018-02-22 01:29:46,005  INFO   [qtp1607453282-119668] - [ID= 369873663][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 01:29:46,044  INFO   [qtp1607453282-119668] - [ID= 369873663][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.039] [Result: (1:business_application:1) ]  
+2018-02-22 01:29:46,568  INFO   [qtp1607453282-119668] - [ID= 369873663][TQL: Identification for [business_application]]                                 [time=  0.523] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) ]  
+2018-02-22 01:29:46,597  INFO   [qtp1607453282-119668] - [ID= 369873663][TQL: Identification for [infrastructure_service]]                               [time=  0.029] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 01:29:46,599  INFO   [qtp1607453282-119668] - [ID=1170210996][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 01:29:46,599  INFO   [qtp1607453282-119668] - [ID=1170210996][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.000] [Result: (1:root:2) ]  
+2018-02-22 01:29:46,600  INFO   [qtp1607453282-119668] - [ID=1170210996][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 01:29:46,616  INFO   [qtp1607453282-119668] - [ID=1170210996][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.016] [Result: (1:root:1) ]  
+2018-02-22 01:29:46,618  INFO   [qtp1607453282-119668] - [ID=1170210996][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 01:29:46,634  INFO   [qtp1607453282-119668] - [ID=1170210996][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.016] [Result: (1:business_application:1) ]  
+2018-02-22 01:29:46,635  INFO   [qtp1607453282-119668] - [ID=1170210996][Merge Ids]                                                                      [time=  0.000] Number of ids = 2 
+2018-02-22 01:29:46,893  INFO   [qtp1607453282-119668] - [ID=1170210996][TQL: Identification for [business_application]]                                 [time=  0.258] [Result: (100:business_application:1) (101:root:1) (1:business_application:1) ]  
+2018-02-22 01:29:46,914  INFO   [qtp1607453282-119668] - [ID=1170210996][TQL: Identification for [infrastructure_service]]                               [time=  0.020] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 01:29:46,916  INFO   [qtp1607453282-119668] - [ID=1170210996][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 01:30:03,052  INFO   [qtp1607453282-119627] - [ID= 299588655][TQL: Identification for [ci_collection]]                                        [time=  0.153] [Result: ]  
+2018-02-22 01:30:03,221  INFO   [qtp1607453282-119627] - [ID=  38865523][TQL: Identification for [ci_collection]]                                        [time=  0.168] [Result: ]  
+2018-02-22 01:30:05,596  INFO   [qtp1607453282-119668] - [ID=1912128589][Merge Ids]                                                                      [time=  0.003] Number of ids = 2 
+2018-02-22 01:30:05,597  INFO   [qtp1607453282-119668] - [ID=1912128589][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 01:30:05,599  INFO   [qtp1607453282-119668] - [ID=1912128589][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 01:30:05,629  INFO   [qtp1607453282-119668] - [ID=1912128589][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.030] [Result: (1:ci_collection:1) ]  
+2018-02-22 01:30:05,630  INFO   [qtp1607453282-119668] - [ID=1912128589][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 01:30:05,658  INFO   [qtp1607453282-119668] - [ID=1912128589][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.028] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 01:30:06,044  INFO   [qtp1607453282-119668] - [ID=1912128589][TQL: Identification for [infrastructure_service]]                               [time=  0.385] [Result: (101:root:1) (100:infrastructure_service:1) (1:infrastructure_service:1) ]  
+2018-02-22 01:30:06,336  INFO   [qtp1607453282-119668] - [ID=1912128589][TQL: Identification for [ci_collection]]                                        [time=  0.291] [Result: (100:ci_collection:1) (1:ci_collection:1) (101:root:1) ]  
+2018-02-22 01:30:06,338  INFO   [qtp1607453282-119668] - [ID=1912128589][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 01:30:06,340  INFO   [qtp1607453282-119668] - [ID= 294974606][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 01:30:06,341  INFO   [qtp1607453282-119668] - [ID= 294974606][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 01:30:06,342  INFO   [qtp1607453282-119668] - [ID= 294974606][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 01:30:06,361  INFO   [qtp1607453282-119668] - [ID= 294974606][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.019] [Result: (1:ci_collection:1) ]  
+2018-02-22 01:30:06,362  INFO   [qtp1607453282-119668] - [ID= 294974606][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 01:30:06,387  INFO   [qtp1607453282-119668] - [ID= 294974606][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.025] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 01:30:06,388  INFO   [qtp1607453282-119668] - [ID= 294974606][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 01:30:06,656  INFO   [qtp1607453282-119668] - [ID= 294974606][TQL: Identification for [infrastructure_service]]                               [time=  0.267] [Result: (101:root:1) (100:infrastructure_service:1) (1:infrastructure_service:1) ]  
+2018-02-22 01:30:06,658  INFO   [qtp1607453282-119668] - [ID= 294974606][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 01:30:07,066  INFO   [qtp1607453282-119668] - [ID= 294974606][TQL: Identification for [ci_collection]]                                        [time=  0.408] [Result: (100:ci_collection:1) (1:ci_collection:1) (101:root:1) ]  
+2018-02-22 01:30:07,069  INFO   [qtp1607453282-119668] - [ID= 294974606][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 01:30:27,330  INFO   [qtp1607453282-119668] - [ID= 463468648][TQL: Identification for [node]]                                                 [time=  0.314] [Result: ]  
+2018-02-22 01:30:27,586  INFO   [qtp1607453282-119668] - [ID=1324964580][TQL: Identification for [node]]                                                 [time=  0.252] [Result: ]  
+2018-02-22 01:30:29,590  INFO   [qtp1607453282-119627] - [ID= 367116775][Merge Ids]                                                                      [time=  0.004] Number of ids = 2 
+2018-02-22 01:30:29,591  INFO   [qtp1607453282-119627] - [ID= 367116775][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 01:30:29,629  INFO   [qtp1607453282-119627] - [ID= 367116775][TQL: Identification for [node]]                                                 [time=  0.037] [Result: (1:node:1) ]  
+2018-02-22 01:30:29,660  INFO   [qtp1607453282-119627] - [ID= 367116775][TQL: Identification for [ci_collection]]                                        [time=  0.030] [Result: (1:ci_collection:1) ]  
+2018-02-22 01:30:29,662  INFO   [qtp1607453282-119627] - [ID= 331010014][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 01:30:29,663  INFO   [qtp1607453282-119627] - [ID= 331010014][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 01:30:29,664  INFO   [qtp1607453282-119627] - [ID= 331010014][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 01:30:29,739  INFO   [qtp1607453282-119627] - [ID= 331010014][TQL: Identification for [node]]                                                 [time=  0.074] [Result: (1:node:1) ]  
+2018-02-22 01:30:29,759  INFO   [qtp1607453282-119627] - [ID= 331010014][TQL: Identification for [ci_collection]]                                        [time=  0.020] [Result: (1:ci_collection:1) ]  
+2018-02-22 01:30:29,761  INFO   [qtp1607453282-119627] - [ID= 331010014][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 15:46:45,704  INFO   [qtp1607453282-124174] - [ID=2082394502][TQL: Identification for [business_application]]                                 [time=  0.172] [Result: ]  
+2018-02-22 15:46:45,868  INFO   [qtp1607453282-124174] - [ID=2065652526][TQL: Identification for [business_application]]                                 [time=  0.163] [Result: ]  
+2018-02-22 15:47:04,671  INFO   [qtp1607453282-124174] - [ID= 854521619][TQL: Identification for [infrastructure_service]]                               [time=  0.205] [Result: ]  
+2018-02-22 15:47:04,830  INFO   [qtp1607453282-124174] - [ID=2127712254][TQL: Identification for [infrastructure_service]]                               [time=  0.158] [Result: ]  
+2018-02-22 15:47:06,974  INFO   [qtp1607453282-124174] - [ID= 747086785][Merge Ids]                                                                      [time=  0.008] Number of ids = 2 
+2018-02-22 15:47:06,974  INFO   [qtp1607453282-124174] - [ID= 747086785][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.000] [Result: (1:root:2) ]  
+2018-02-22 15:47:06,975  INFO   [qtp1607453282-124174] - [ID= 747086785][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 15:47:07,012  INFO   [qtp1607453282-124174] - [ID= 747086785][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.037] [Result: (1:root:1) ]  
+2018-02-22 15:47:07,013  INFO   [qtp1607453282-124174] - [ID= 747086785][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 15:47:07,057  INFO   [qtp1607453282-124174] - [ID= 747086785][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.044] [Result: (1:business_application:1) ]  
+2018-02-22 15:47:07,581  INFO   [qtp1607453282-124174] - [ID= 747086785][TQL: Identification for [business_application]]                                 [time=  0.523] [Result: (1:business_application:1) (100:business_application:1) (101:root:1) ]  
+2018-02-22 15:47:07,643  INFO   [qtp1607453282-124174] - [ID= 747086785][TQL: Identification for [infrastructure_service]]                               [time=  0.061] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 15:47:07,644  INFO   [qtp1607453282-124174] - [ID= 216206953][Merge Ids]                                                                      [time=  0.000] Number of ids = 2 
+2018-02-22 15:47:07,645  INFO   [qtp1607453282-124174] - [ID= 216206953][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 15:47:07,646  INFO   [qtp1607453282-124174] - [ID= 216206953][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 15:47:07,678  INFO   [qtp1607453282-124174] - [ID= 216206953][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.032] [Result: (1:root:1) ]  
+2018-02-22 15:47:07,679  INFO   [qtp1607453282-124174] - [ID= 216206953][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 15:47:07,714  INFO   [qtp1607453282-124174] - [ID= 216206953][TQL: Identification for [business_application] (CompleteIdentificationData)]    [time=  0.035] [Result: (1:business_application:1) ]  
+2018-02-22 15:47:07,715  INFO   [qtp1607453282-124174] - [ID= 216206953][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 15:47:07,957  INFO   [qtp1607453282-124174] - [ID= 216206953][TQL: Identification for [business_application]]                                 [time=  0.242] [Result: (1:business_application:1) (100:business_application:1) (101:root:1) ]  
+2018-02-22 15:47:07,977  INFO   [qtp1607453282-124174] - [ID= 216206953][TQL: Identification for [infrastructure_service]]                               [time=  0.019] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 15:47:07,979  INFO   [qtp1607453282-124174] - [ID= 216206953][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 15:47:23,403  INFO   [qtp1607453282-124174] - [ID=1957140404][TQL: Identification for [ci_collection]]                                        [time=  0.214] [Result: ]  
+2018-02-22 15:47:23,615  INFO   [qtp1607453282-124174] - [ID=1768935216][TQL: Identification for [ci_collection]]                                        [time=  0.210] [Result: ]  
+2018-02-22 15:47:25,784  INFO   [qtp1607453282-124174] - [ID= 473263815][Merge Ids]                                                                      [time=  0.003] Number of ids = 2 
+2018-02-22 15:47:25,785  INFO   [qtp1607453282-124174] - [ID= 473263815][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 15:47:25,786  INFO   [qtp1607453282-124174] - [ID= 473263815][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 15:47:25,825  INFO   [qtp1607453282-124174] - [ID= 473263815][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.039] [Result: (1:ci_collection:1) ]  
+2018-02-22 15:47:25,856  INFO   [qtp1607453282-124174] - [ID= 473263815][Merge Ids]                                                                      [time=  0.030] Number of ids = 1 
+2018-02-22 15:47:25,894  INFO   [qtp1607453282-124174] - [ID= 473263815][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.038] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 15:47:26,220  INFO   [qtp1607453282-124174] - [ID= 473263815][TQL: Identification for [infrastructure_service]]                               [time=  0.326] [Result: (100:infrastructure_service:1) (1:infrastructure_service:1) (101:root:1) ]  
+2018-02-22 15:47:26,962  INFO   [qtp1607453282-124174] - [ID= 473263815][TQL: Identification for [ci_collection]]                                        [time=  0.741] [Result: (1:ci_collection:1) (100:ci_collection:1) (101:root:1) ]  
+2018-02-22 15:47:26,964  INFO   [qtp1607453282-124174] - [ID= 473263815][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-22 15:47:26,966  INFO   [qtp1607453282-124174] - [ID=1871108587][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 15:47:26,966  INFO   [qtp1607453282-124174] - [ID=1871108587][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.000] [Result: (1:root:2) ]  
+2018-02-22 15:47:26,967  INFO   [qtp1607453282-124174] - [ID=1871108587][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 15:47:27,003  INFO   [qtp1607453282-124174] - [ID=1871108587][TQL: Identification for [ci_collection] (CompleteIdentificationData)]           [time=  0.036] [Result: (1:ci_collection:1) ]  
+2018-02-22 15:47:27,004  INFO   [qtp1607453282-124174] - [ID=1871108587][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 15:47:27,046  INFO   [qtp1607453282-124174] - [ID=1871108587][TQL: Identification for [infrastructure_service] (CompleteIdentificationData)]  [time=  0.042] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 15:47:27,047  INFO   [qtp1607453282-124174] - [ID=1871108587][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 15:47:27,375  INFO   [qtp1607453282-124174] - [ID=1871108587][TQL: Identification for [infrastructure_service]]                               [time=  0.328] [Result: (100:infrastructure_service:1) (1:infrastructure_service:1) (101:root:1) ]  
+2018-02-22 15:47:27,376  INFO   [qtp1607453282-124174] - [ID=1871108587][Merge Ids]                                                                      [time=  0.000] Number of ids = 1 
+2018-02-22 15:47:27,721  INFO   [qtp1607453282-124174] - [ID=1871108587][TQL: Identification for [ci_collection]]                                        [time=  0.344] [Result: (1:ci_collection:1) (100:ci_collection:1) (101:root:1) ]  
+2018-02-22 15:47:27,724  INFO   [qtp1607453282-124174] - [ID=1871108587][TQL: Identification for [link]]                                                 [time=  0.001] [Result: ]  
+2018-02-22 15:47:41,898  INFO   [qtp1607453282-124174] - [ID= 279729179][TQL: Identification for [node]]                                                 [time=  0.203] [Result: ]  
+2018-02-22 15:47:42,038  INFO   [qtp1607453282-124174] - [ID=1381060866][TQL: Identification for [node]]                                                 [time=  0.135] [Result: ]  
+2018-02-22 15:47:43,989  INFO   [qtp1607453282-124174] - [ID= 463146621][Merge Ids]                                                                      [time=  0.003] Number of ids = 2 
+2018-02-22 15:47:43,990  INFO   [qtp1607453282-124174] - [ID= 463146621][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 15:47:44,079  INFO   [qtp1607453282-124174] - [ID= 463146621][TQL: Identification for [node]]                                                 [time=  0.088] [Result: (1:node:1) ]  
+2018-02-22 15:47:44,147  INFO   [qtp1607453282-124174] - [ID= 463146621][TQL: Identification for [ci_collection]]                                        [time=  0.067] [Result: (1:ci_collection:1) ]  
+2018-02-22 15:47:44,149  INFO   [qtp1607453282-124174] - [ID= 254429014][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 15:47:44,150  INFO   [qtp1607453282-124174] - [ID= 254429014][TQL: ReconciliationCompleteMissedEnds]                                          [time=  0.001] [Result: (1:root:2) ]  
+2018-02-22 15:47:44,151  INFO   [qtp1607453282-124174] - [ID= 254429014][Merge Ids]                                                                      [time=  0.001] Number of ids = 2 
+2018-02-22 15:47:44,253  INFO   [qtp1607453282-124174] - [ID= 254429014][TQL: Identification for [node]]                                                 [time=  0.102] [Result: (1:node:1) ]  
+2018-02-22 15:47:44,275  INFO   [qtp1607453282-124174] - [ID= 254429014][TQL: Identification for [ci_collection]]                                        [time=  0.022] [Result: (1:ci_collection:1) ]  
+2018-02-22 15:47:44,278  INFO   [qtp1607453282-124174] - [ID= 254429014][TQL: Identification for [link]]                                                 [time=  0.002] [Result: ]  
+2018-02-22 16:10:56,746  INFO   [qtp1607453282-124322] - [ID=  99103271][TQL: Identification for [node]]                                                 [time=  0.065] [Result: (1:node:1) ]  
+2018-02-22 16:10:56,751  INFO   [qtp1607453282-124322] - [ID= 697591787][Merge Ids]                                                                      [time=  0.004] Number of ids = 1 
+2018-02-22 16:10:56,937  INFO   [qtp1607453282-124322] - [ID= 697591787][TQL: Identification for [node]]                                                 [time=  0.185] [Result: (1:node:1) ]  
+2018-02-22 16:11:10,927  INFO   [qtp1607453282-124322] - [ID=1471526057][TQL: Identification for [ci_collection]]                                        [time=  0.075] [Result: (1:ci_collection:1) ]  
+2018-02-22 16:11:10,929  INFO   [qtp1607453282-124322] - [ID=1870658219][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 16:11:10,962  INFO   [qtp1607453282-124322] - [ID=1870658219][TQL: Identification for [ci_collection]]                                        [time=  0.033] [Result: (1:ci_collection:1) ]  
+2018-02-22 16:11:25,184  INFO   [qtp1607453282-124322] - [ID=1706270219][TQL: Identification for [infrastructure_service]]                               [time=  0.081] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 16:11:25,188  INFO   [qtp1607453282-124322] - [ID= 898094690][Merge Ids]                                                                      [time=  0.003] Number of ids = 1 
+2018-02-22 16:11:25,224  INFO   [qtp1607453282-124322] - [ID= 898094690][TQL: Identification for [infrastructure_service]]                               [time=  0.036] [Result: (1:infrastructure_service:1) ]  
+2018-02-22 16:11:40,158  INFO   [qtp1607453282-124322] - [ID= 916170656][TQL: Identification for [business_application]]                                 [time=  0.036] [Result: (1:business_application:1) ]  
+2018-02-22 16:11:40,160  INFO   [qtp1607453282-124322] - [ID=1284096257][Merge Ids]                                                                      [time=  0.001] Number of ids = 1 
+2018-02-22 16:11:40,176  INFO   [qtp1607453282-124322] - [ID=1284096257][TQL: Identification for [business_application]]                                 [time=  0.016] [Result: (1:business_application:1) ]  

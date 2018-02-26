@@ -1,0 +1,1191 @@
+2017-12-12 17:18:45,212  INFO   [qtp1505486986-1072] - Category 7gde9b8f70b92g41483cb0c55f7g65e8 was added to the URM with label Red and color #FF454F
+2017-12-12 17:18:45,229  INFO   [qtp1505486986-1097] - Category 767bdb1f53f91g3723181cd09f442938 was added to the URM with label Dark Steel and color #5F7A76
+2017-12-12 17:18:45,244  INFO   [qtp1505486986-1098] - Category d15c81ff3d199g36edf6fe56143gfb76 was added to the URM with label Yellow and color #FFD042
+2017-12-12 17:18:45,259  INFO   [qtp1505486986-1082] - Category b5d1f6e6f25fc825e0080b6eb5be0089 was added to the URM with label Purple and color #614767
+2017-12-12 17:18:45,274  INFO   [qtp1505486986-1072] - Category 0402b34g7f7da40ead291b84afb2ec2f was added to the URM with label Orange and color #FD9A69
+2017-12-12 17:18:45,289  INFO   [qtp1505486986-1097] - Category 91596g669665eb604c94ce03295373e6 was added to the URM with label Turquoise and color #2AD2C9
+2017-12-12 17:18:45,304  INFO   [qtp1505486986-1098] - Category 6273242dd7ad4edgdgfd86566432c1a0 was added to the URM with label Slate and color #425563
+2017-12-12 17:18:45,320  INFO   [qtp1505486986-1082] - Category 4384114g6bcd1fd1b4fc334ge62dce1c was added to the URM with label Green and color #01A982
+2017-12-13 01:00:31,271  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-13 01:00:31,272  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-13 01:00:31,285  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-15 01:00:31,773  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-15 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-16 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-17 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-17 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-18 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-19 01:00:31,774  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-20 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-20 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-20 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-21 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-21 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-21 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-22 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-22 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-23 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-23 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-24 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-24 01:00:31,777  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-25 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-26 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-27 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-27 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-28 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-28 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-28 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-28 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-29 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-29 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-30 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-30 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2017-12-31 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2017-12-31 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-01 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-01 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-02 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-02 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-02 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-03 01:00:31,775  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-03 01:00:31,776  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-05 01:00:10,407  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-05 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-06 01:00:10,407  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-06 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-07 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-07 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-07 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-07 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-07 01:00:10,408  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-07 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-08 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-09 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-09 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-09 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-09 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-09 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-09 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-09 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-10 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-10 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-11 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-11 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-12 01:00:10,409  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-12 01:00:10,410  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-13 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-13 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-13 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-14 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-14 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-15 01:00:46,084  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-15 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-15 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-15 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-15 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-15 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-15 01:00:46,085  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-16 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-16 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-16 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-17 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-18 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-19 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-20 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-20 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-20 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-21 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-22 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-22 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-23 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-23 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-24 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-24 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-25 01:00:25,455  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-25 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-25 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-25 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-25 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-25 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-25 01:00:25,456  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-26 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-26 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-26 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-26 01:00:17,598  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-26 01:00:17,598  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-27 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-27 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-28 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-28 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-28 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-28 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-28 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-28 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-29 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-29 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-29 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-29 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-29 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-29 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-29 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-29 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-29 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-30 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-30 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-01-31 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-01-31 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-01-31 01:00:17,595  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-01-31 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-01-31 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-01-31 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-01-31 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-01-31 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-01-31 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-01-31 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-01 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-01 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-01 01:00:17,596  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-01 01:00:17,597  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-02 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-02 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-02 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-03 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-03 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-04 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-05 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-05 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-06 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-07 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-08 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-08 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-08 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-09 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-10 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-11 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-12 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-13 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-14 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-14 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-15 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-16 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-17 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-18 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-19 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-20 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user Michael
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user Michael
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user Michael
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user consumer
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user consumer
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user consumer
+2018-02-21 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user michael
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user michael
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user michael
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user aerouser
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user aerouser
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user aerouser
+2018-02-22 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user michael
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user michael
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user michael
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-23 01:00:56,798  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user aerouser
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user aerouser
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user aerouser
+2018-02-23 01:00:56,799  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-24 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-24 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user michael
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user michael
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user michael
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user aerouser
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user aerouser
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user aerouser
+2018-02-24 01:00:33,713  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user michael
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user michael
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user michael
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user aerouser
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user aerouser
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user aerouser
+2018-02-25 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- About to start purging category assignments ---
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user admin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user admin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user admin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user michael
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user michael
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user michael
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user ITAdmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user ITAdmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user ITAdmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user UISysadmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user UISysadmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user UISysadmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user sysadmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user sysadmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user sysadmin
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - About to start purging category assignments for user aerouser
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Found 0 category assignments for user aerouser
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Finished purging category assignments for user aerouser
+2018-02-26 01:00:33,712  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - --- Finished purging category assignments ---

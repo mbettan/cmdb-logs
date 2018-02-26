@@ -1,0 +1,1229 @@
+2017-12-12 14:31:41,166  INFO   [Starter for "mapping-engine" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=824642462] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] Update CMDB graph 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 824642462 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: adapter_config(1) destination_config(1) ] [A: adapter_config(1) destination_config(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 24][aging properties time: 0] [history time: 0]
+[Operation Name=Model Update: Add Or Update Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: fcmdb_conf_aggregation(1) ] [A: fcmdb_conf_aggregation(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 11][aging properties time: 0] [history time: 0]
+Total bulk persistency time: 35
+Total bulk update aging properties time: 0
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=92 ms] 
+2017-12-12 14:31:54,071  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=770257950] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: scheduler_job(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 0] [history time: 0][Times=13 ms] 
+2017-12-12 14:31:54,139  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1092265271] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: scheduler_job(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 0][Times=8 ms] 
+2017-12-12 14:36:00,430  INFO   [RequestProcessorAsyncPool-453] - [ID=1251312275] [Caller Name=MAM_PACKAGER] [Changer=CallerApplication: MAM_PACKAGER] [Customer ID=1, id name: Default Client] Update CMDB graph 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1251312275 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: ModelNotificationDefinitionImpl(1) ] [A: ModelNotificationDefinitionImpl(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 0] [history time: 0]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 0
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=14 ms] 
+2017-12-12 14:36:00,822  INFO   [parallel execution thread pool-437] - [ID=1642484093] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: scheduler_job(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 0][Times=11 ms] 
+2017-12-12 14:36:00,965  INFO   [parallel execution thread pool-437] - [ID=74735258] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: scheduler_job(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 0][Times=6 ms] 
+2017-12-12 14:36:01,107  INFO   [parallel execution thread pool-437] - [ID=1965716402] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: scheduler_job(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 0][Times=6 ms] 
+2017-12-12 19:59:32,870  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1439866531] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 7] [history time: 0][Times=142 ms] 
+2017-12-12 20:22:41,266  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1170130935] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 10][aging properties time: 12] [history time: 2][Times=186 ms] 
+2017-12-14 10:26:12,597  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1898152879] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 8][aging properties time: 6] [history time: 0][Times=126 ms] 
+2017-12-14 15:51:39,337  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=2008037584] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 4] [history time: 0][Times=91 ms] 
+2018-01-04 15:30:25,096  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1464815975] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 11][aging properties time: 11] [history time: 0][Times=167 ms] 
+2018-01-04 22:23:46,034  INFO   [qtp613630562-2025] - [ID=184927162] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 166673522 184927162 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 88][aging properties time: 0] [history time: 13362]
+Total bulk persistency time: 88
+Total bulk update aging properties time: 0
+Total bulk history time: 13362
+============== end of short audit information for bulk execution ============
+[Times=13507 ms (1 ms waiting for lock)] 
+2018-01-04 22:24:02,449  INFO   [qtp613630562-2025] - [ID=1804922186] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 302239697 1804922186 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: host_node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 0] [history time: 13]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 48][aging properties time: 0] [history time: 24]
+Total bulk persistency time: 54
+Total bulk update aging properties time: 0
+Total bulk history time: 37
+============== end of short audit information for bulk execution ============
+[Times=106 ms] 
+2018-01-04 22:24:15,262  INFO   [qtp613630562-2024] - [ID=352296754] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 90454039 352296754 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) person(1) organization(1) ] [A: business_application(1) person(1) organization(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 62][aging properties time: 0] [history time: 32]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: ownership(1) membership(1) ] [A: ownership(1) membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 50][aging properties time: 0] [history time: 31]
+Total bulk persistency time: 112
+Total bulk update aging properties time: 0
+Total bulk history time: 63
+============== end of short audit information for bulk execution ============
+[Times=189 ms] 
+2018-01-04 22:24:17,944  INFO   [qtp613630562-2020] - [ID=247242323] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 607172644 247242323 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 2] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: usage(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 17]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 2
+Total bulk history time: 17
+============== end of short audit information for bulk execution ============
+[Times=51 ms] 
+2018-01-04 22:25:34,548  INFO   [qtp613630562-2024] - [ID=85924446] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 852021282 85924446 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: host_node(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: usage(1) membership(1) ] [I: 0] [persistency time: 107][aging properties time: 0] [history time: 25]
+Total bulk persistency time: 107
+Total bulk update aging properties time: 0
+Total bulk history time: 25
+============== end of short audit information for bulk execution ============
+[Times=162 ms] 
+2018-01-05 01:27:11,461  INFO   [qtp613630562-2709] - [ID=1265113675] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2017465045 1265113675 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 0] [history time: 16]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 0
+Total bulk history time: 16
+============== end of short audit information for bulk execution ============
+[Times=31 ms] 
+2018-01-05 01:27:29,199  INFO   [qtp613630562-2709] - [ID=1036693043] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 751973832 1036693043 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: host_node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 15]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 8][aging properties time: 0] [history time: 11]
+Total bulk persistency time: 11
+Total bulk update aging properties time: 0
+Total bulk history time: 26
+============== end of short audit information for bulk execution ============
+[Times=42 ms] 
+2018-01-05 01:27:42,894  INFO   [qtp613630562-2715] - [ID=33740380] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 98220827 33740380 ]
+Update model with '4' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 7]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: person(1) organization(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: ownership(1) ] [A: ownership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 8]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 2
+Total bulk history time: 15
+============== end of short audit information for bulk execution ============
+[Times=69 ms] 
+2018-01-05 01:27:44,352  INFO   [qtp613630562-2715] - [ID=833332144] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1130878035 833332144 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: usage(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 0] [history time: 28]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 1
+Total bulk history time: 28
+============== end of short audit information for bulk execution ============
+[Times=61 ms] 
+2018-01-05 01:40:12,910  INFO   [qtp613630562-2774] - [ID=1031332647] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1896009377 1031332647 ]
+Update model with '3' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: ip_address(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 18][aging properties time: 0] [history time: 19]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: host_node(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 19][aging properties time: 3] [history time: 56]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 40][aging properties time: 0] [history time: 19]
+Total bulk persistency time: 77
+Total bulk update aging properties time: 3
+Total bulk history time: 94
+============== end of short audit information for bulk execution ============
+[Times=314 ms] 
+2018-01-05 01:40:15,211  INFO   [qtp613630562-2783] - [ID=134407217] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1188563400 134407217 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: ci_collection(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 1] [history time: 9]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 1
+Total bulk history time: 9
+============== end of short audit information for bulk execution ============
+[Times=44 ms] 
+2018-01-05 01:40:27,831  INFO   [qtp613630562-2783] - [ID=510853074] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1805124297 510853074 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=24 ms] 
+2018-01-05 01:40:36,544  INFO   [qtp613630562-2774] - [ID=330306597] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1009896329 330306597 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=52 ms] 
+2018-01-05 01:40:37,860  INFO   [qtp613630562-2774] - [ID=909031026] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1052040842 909031026 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 4] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 5
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=58 ms] 
+2018-01-05 13:07:28,847  INFO   [qtp613630562-5310] - [ID=208843635] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1910867502 208843635 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 17][aging properties time: 0] [history time: 26]
+Total bulk persistency time: 17
+Total bulk update aging properties time: 0
+Total bulk history time: 26
+============== end of short audit information for bulk execution ============
+[Times=50 ms] 
+2018-01-05 13:07:46,945  INFO   [qtp613630562-5333] - [ID=910983244] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 968555200 910983244 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: host_node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 16][aging properties time: 0] [history time: 17]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 18][aging properties time: 0] [history time: 23]
+Total bulk persistency time: 34
+Total bulk update aging properties time: 0
+Total bulk history time: 40
+============== end of short audit information for bulk execution ============
+[Times=80 ms] 
+2018-01-05 13:08:00,926  INFO   [qtp613630562-5333] - [ID=532076125] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 579817474 532076125 ]
+Update model with '4' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 19]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: person(1) organization(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 2] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: ownership(1) ] [A: ownership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 7][aging properties time: 0] [history time: 58]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 46] [history time: 0]
+Total bulk persistency time: 11
+Total bulk update aging properties time: 48
+Total bulk history time: 77
+============== end of short audit information for bulk execution ============
+[Times=265 ms] 
+2018-01-05 13:08:02,439  INFO   [qtp613630562-5334] - [ID=1019530778] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 264109496 1019530778 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 2] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: usage(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 0] [history time: 18]
+Total bulk persistency time: 5
+Total bulk update aging properties time: 2
+Total bulk history time: 18
+============== end of short audit information for bulk execution ============
+[Times=46 ms] 
+2018-01-05 13:20:05,400  INFO   [qtp613630562-5379] - [ID=111578981] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 32699064 111578981 ]
+Update model with '3' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: ip_address(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 9][aging properties time: 0] [history time: 70]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: host_node(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 38]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 11][aging properties time: 0] [history time: 18]
+Total bulk persistency time: 22
+Total bulk update aging properties time: 0
+Total bulk history time: 126
+============== end of short audit information for bulk execution ============
+[Times=188 ms] 
+2018-01-05 13:20:07,988  INFO   [qtp613630562-5403] - [ID=424895270] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2014562955 424895270 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: ci_collection(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 1] [history time: 26]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 1
+Total bulk history time: 26
+============== end of short audit information for bulk execution ============
+[Times=59 ms] 
+2018-01-05 13:20:18,359  INFO   [qtp613630562-5379] - [ID=1636383467] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 356348684 1636383467 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 4] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 4
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=29 ms] 
+2018-01-05 13:20:26,482  INFO   [qtp613630562-5388] - [ID=1124995714] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1164500538 1124995714 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=52 ms] 
+2018-01-05 13:20:28,049  INFO   [qtp613630562-5413] - [ID=1220298381] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1439212877 1220298381 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 4] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 5
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=49 ms] 
+2018-01-05 13:35:47,632  INFO   [qtp613630562-5458] - [ID=1740320824] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1460756433 1740320824 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 14]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 0
+Total bulk history time: 14
+============== end of short audit information for bulk execution ============
+[Times=23 ms] 
+2018-01-05 13:36:05,926  INFO   [qtp613630562-5458] - [ID=19997373] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 352946389 19997373 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: host_node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 12]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 10]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 0
+Total bulk history time: 22
+============== end of short audit information for bulk execution ============
+[Times=34 ms] 
+2018-01-05 13:36:19,700  INFO   [qtp613630562-5458] - [ID=1784202882] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 71294922 1784202882 ]
+Update model with '4' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 19]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: person(1) organization(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 2] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: ownership(1) ] [A: ownership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 11]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 5] [history time: 0]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 7
+Total bulk history time: 30
+============== end of short audit information for bulk execution ============
+[Times=125 ms] 
+2018-01-05 13:36:21,140  INFO   [qtp613630562-5477] - [ID=625497628] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1423622858 625497628 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 0] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: usage(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 7][aging properties time: 0] [history time: 8]
+Total bulk persistency time: 7
+Total bulk update aging properties time: 0
+Total bulk history time: 8
+============== end of short audit information for bulk execution ============
+[Times=33 ms] 
+2018-01-05 13:40:07,944  INFO   [qtp613630562-5491] - [ID=1058056680] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1070073036 1058056680 ]
+Update model with '3' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: ip_address(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 14]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: host_node(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 1] [history time: 11]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 0] [history time: 13]
+Total bulk persistency time: 15
+Total bulk update aging properties time: 1
+Total bulk history time: 38
+============== end of short audit information for bulk execution ============
+[Times=120 ms] 
+2018-01-05 13:40:10,338  INFO   [qtp613630562-5491] - [ID=691463387] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 207101598 691463387 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: ci_collection(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 1] [history time: 13]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 1
+Total bulk history time: 13
+============== end of short audit information for bulk execution ============
+[Times=44 ms] 
+2018-01-05 13:40:20,955  INFO   [qtp613630562-5491] - [ID=1593248889] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1210657611 1593248889 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=24 ms] 
+2018-01-05 13:40:29,385  INFO   [qtp613630562-5490] - [ID=1034166476] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 623240147 1034166476 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=52 ms] 
+2018-01-05 13:40:30,741  INFO   [qtp613630562-5458] - [ID=941799869] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2003775846 941799869 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 4] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 5
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=50 ms] 
+2018-01-05 16:14:44,564  INFO   [qtp613630562-6061] - [ID=1111062718] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1080174888 1111062718 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 7][aging properties time: 0] [history time: 11]
+Total bulk persistency time: 7
+Total bulk update aging properties time: 0
+Total bulk history time: 11
+============== end of short audit information for bulk execution ============
+[Times=22 ms] 
+2018-01-05 16:14:57,602  INFO   [qtp613630562-6059] - [ID=1079786539] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 631015012 1079786539 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: host_node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 13][aging properties time: 0] [history time: 30]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 15][aging properties time: 0] [history time: 50]
+Total bulk persistency time: 28
+Total bulk update aging properties time: 0
+Total bulk history time: 80
+============== end of short audit information for bulk execution ============
+[Times=117 ms] 
+2018-01-05 16:15:11,490  INFO   [qtp613630562-6084] - [ID=1428495856] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1315163229 1428495856 ]
+Update model with '4' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 11]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: person(1) organization(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: ownership(1) ] [A: ownership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 10]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 2
+Total bulk history time: 21
+============== end of short audit information for bulk execution ============
+[Times=67 ms] 
+2018-01-05 16:15:12,699  INFO   [qtp613630562-6084] - [ID=888130086] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 499422940 888130086 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: usage(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 0] [history time: 19]
+Total bulk persistency time: 5
+Total bulk update aging properties time: 1
+Total bulk history time: 19
+============== end of short audit information for bulk execution ============
+[Times=50 ms] 
+2018-01-05 16:19:14,396  INFO   [qtp613630562-6097] - [ID=1326843461] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1661817524 1326843461 ]
+Update model with '3' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: ip_address(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 0] [history time: 20]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: host_node(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 3] [history time: 18]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 0] [history time: 17]
+Total bulk persistency time: 14
+Total bulk update aging properties time: 3
+Total bulk history time: 55
+============== end of short audit information for bulk execution ============
+[Times=133 ms] 
+2018-01-05 16:19:16,522  INFO   [qtp613630562-6098] - [ID=1933145610] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2094199142 1933145610 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: ci_collection(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 9]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 9
+============== end of short audit information for bulk execution ============
+[Times=28 ms] 
+2018-01-05 16:19:28,968  INFO   [qtp613630562-6098] - [ID=1738789017] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1519733844 1738789017 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=25 ms] 
+2018-01-05 16:19:37,021  INFO   [qtp613630562-6059] - [ID=1814923154] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 456512021 1814923154 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=63 ms] 
+2018-01-05 16:19:38,508  INFO   [qtp613630562-6098] - [ID=1825109519] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 613151869 1825109519 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 19] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 20
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=91 ms] 
+2018-01-05 16:36:10,356  INFO   [qtp613630562-6164] - [ID=1357418957] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1170269426 1357418957 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: ci_collection(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 36][aging properties time: 0] [history time: 15]
+Total bulk persistency time: 36
+Total bulk update aging properties time: 0
+Total bulk history time: 15
+============== end of short audit information for bulk execution ============
+[Times=55 ms] 
+2018-01-05 16:36:13,918  INFO   [qtp613630562-6164] - [ID=2118217886] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 824013127 2118217886 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: business_application(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: ownership(1) ] [I: 0] [persistency time: 56][aging properties time: 0] [history time: 16]
+Total bulk persistency time: 56
+Total bulk update aging properties time: 0
+Total bulk history time: 16
+============== end of short audit information for bulk execution ============
+[Times=77 ms] 
+2018-01-05 16:41:23,406  INFO   [qtp613630562-6139] - [ID=805070839] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1394151865 805070839 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: 0] [U: 0] [R: ip_address(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: containment(1) ] [I: 0] [persistency time: 82][aging properties time: 0] [history time: 20]
+Total bulk persistency time: 82
+Total bulk update aging properties time: 0
+Total bulk history time: 20
+============== end of short audit information for bulk execution ============
+[Times=108 ms] 
+2018-01-05 16:41:23,663  INFO   [qtp613630562-6164] - [ID=668858444] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1920941626 668858444 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: host_node(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: usage(1) membership(1) ] [I: 0] [persistency time: 55][aging properties time: 0] [history time: 18]
+Total bulk persistency time: 55
+Total bulk update aging properties time: 0
+Total bulk history time: 18
+============== end of short audit information for bulk execution ============
+[Times=78 ms] 
+2018-01-05 16:41:24,287  INFO   [qtp613630562-6164] - [ID=1140823464] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1159868155 1140823464 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: ci_collection(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 28][aging properties time: 0] [history time: 10]
+Total bulk persistency time: 28
+Total bulk update aging properties time: 0
+Total bulk history time: 10
+============== end of short audit information for bulk execution ============
+[Times=41 ms] 
+2018-01-05 16:41:26,481  INFO   [qtp613630562-6164] - [ID=1412906510] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1801550166 1412906510 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: business_application(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: ownership(1) ] [I: 0] [persistency time: 49][aging properties time: 0] [history time: 17]
+Total bulk persistency time: 49
+Total bulk update aging properties time: 0
+Total bulk history time: 17
+============== end of short audit information for bulk execution ============
+[Times=70 ms] 
+2018-01-05 16:42:06,350  INFO   [qtp613630562-6183] - [ID=1534769510] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2063390087 1534769510 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: 0] [U: 0] [R: ip_address(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: containment(1) ] [I: 0] [persistency time: 93][aging properties time: 0] [history time: 19]
+Total bulk persistency time: 93
+Total bulk update aging properties time: 0
+Total bulk history time: 19
+============== end of short audit information for bulk execution ============
+[Times=119 ms] 
+2018-01-05 16:42:06,614  INFO   [qtp613630562-6164] - [ID=312294870] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1808577854 312294870 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: host_node(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: usage(1) membership(1) ] [I: 0] [persistency time: 53][aging properties time: 0] [history time: 18]
+Total bulk persistency time: 53
+Total bulk update aging properties time: 0
+Total bulk history time: 18
+============== end of short audit information for bulk execution ============
+[Times=76 ms] 
+2018-01-05 16:42:07,292  INFO   [qtp613630562-6183] - [ID=1822818386] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1722912039 1822818386 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: ci_collection(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 35][aging properties time: 0] [history time: 5]
+Total bulk persistency time: 35
+Total bulk update aging properties time: 0
+Total bulk history time: 5
+============== end of short audit information for bulk execution ============
+[Times=43 ms] 
+2018-01-05 16:42:09,549  INFO   [qtp613630562-6183] - [ID=975715311] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1219220533 975715311 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: business_application(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: ownership(1) ] [I: 0] [persistency time: 55][aging properties time: 0] [history time: 21]
+Total bulk persistency time: 55
+Total bulk update aging properties time: 0
+Total bulk history time: 21
+============== end of short audit information for bulk execution ============
+[Times=81 ms] 
+2018-01-05 16:42:17,148  INFO   [qtp613630562-6183] - [ID=849704299] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 204857238 849704299 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: 0] [U: 0] [R: ip_address(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: containment(1) ] [I: 0] [persistency time: 34][aging properties time: 0] [history time: 11]
+Total bulk persistency time: 34
+Total bulk update aging properties time: 0
+Total bulk history time: 11
+============== end of short audit information for bulk execution ============
+[Times=48 ms] 
+2018-01-05 16:42:17,301  INFO   [qtp613630562-6183] - [ID=295238705] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1939365125 295238705 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: host_node(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: usage(1) membership(1) ] [I: 0] [persistency time: 38][aging properties time: 0] [history time: 15]
+Total bulk persistency time: 38
+Total bulk update aging properties time: 0
+Total bulk history time: 15
+============== end of short audit information for bulk execution ============
+[Times=57 ms] 
+2018-01-05 16:42:17,853  INFO   [qtp613630562-6164] - [ID=338001979] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1996368217 338001979 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: ci_collection(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 30][aging properties time: 0] [history time: 8]
+Total bulk persistency time: 30
+Total bulk update aging properties time: 0
+Total bulk history time: 8
+============== end of short audit information for bulk execution ============
+[Times=41 ms] 
+2018-01-05 16:42:21,012  INFO   [qtp613630562-6164] - [ID=1929527301] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1652928889 1929527301 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: business_application(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: ownership(1) ] [I: 0] [persistency time: 56][aging properties time: 0] [history time: 18]
+Total bulk persistency time: 56
+Total bulk update aging properties time: 0
+Total bulk history time: 18
+============== end of short audit information for bulk execution ============
+[Times=79 ms] 
+2018-01-05 16:42:22,976  INFO   [qtp613630562-6164] - [ID=963816763] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1631868175 963816763 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: 0] [U: 0] [R: ip_address(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: containment(1) ] [I: 0] [persistency time: 50][aging properties time: 0] [history time: 19]
+Total bulk persistency time: 50
+Total bulk update aging properties time: 0
+Total bulk history time: 19
+============== end of short audit information for bulk execution ============
+[Times=73 ms] 
+2018-01-05 16:42:23,249  INFO   [qtp613630562-6183] - [ID=479783468] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 536101945 479783468 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: host_node(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: usage(1) membership(1) ] [I: 0] [persistency time: 47][aging properties time: 0] [history time: 17]
+Total bulk persistency time: 47
+Total bulk update aging properties time: 0
+Total bulk history time: 17
+============== end of short audit information for bulk execution ============
+[Times=70 ms] 
+2018-01-05 16:42:23,936  INFO   [qtp613630562-6212] - [ID=250459097] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 37614490 250459097 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: ci_collection(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 27][aging properties time: 0] [history time: 8]
+Total bulk persistency time: 27
+Total bulk update aging properties time: 0
+Total bulk history time: 8
+============== end of short audit information for bulk execution ============
+[Times=39 ms] 
+2018-01-05 16:42:26,394  INFO   [qtp613630562-6183] - [ID=306285047] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1740759086 306285047 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: business_application(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: ownership(1) ] [I: 0] [persistency time: 49][aging properties time: 0] [history time: 17]
+Total bulk persistency time: 49
+Total bulk update aging properties time: 0
+Total bulk history time: 17
+============== end of short audit information for bulk execution ============
+[Times=70 ms] 
+2018-01-05 23:04:14,119  INFO   [qtp613630562-7614] - [ID=2035076636] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 640144541 2035076636 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 14][aging properties time: 0] [history time: 19]
+Total bulk persistency time: 14
+Total bulk update aging properties time: 0
+Total bulk history time: 19
+============== end of short audit information for bulk execution ============
+[Times=39 ms] 
+2018-01-05 23:04:26,922  INFO   [qtp613630562-7614] - [ID=678618946] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 577123302 678618946 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: host_node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 10]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 7][aging properties time: 0] [history time: 11]
+Total bulk persistency time: 10
+Total bulk update aging properties time: 0
+Total bulk history time: 21
+============== end of short audit information for bulk execution ============
+[Times=35 ms] 
+2018-01-05 23:04:41,089  INFO   [qtp613630562-7614] - [ID=419833311] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 37303881 419833311 ]
+Update model with '4' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 17]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: person(1) organization(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 2] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: ownership(1) ] [A: ownership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 8]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 0] [history time: 0]
+Total bulk persistency time: 6
+Total bulk update aging properties time: 2
+Total bulk history time: 25
+============== end of short audit information for bulk execution ============
+[Times=84 ms] 
+2018-01-05 23:04:42,559  INFO   [qtp613630562-7611] - [ID=1416095028] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1266637902 1416095028 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: usage(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 10][aging properties time: 0] [history time: 25]
+Total bulk persistency time: 10
+Total bulk update aging properties time: 1
+Total bulk history time: 25
+============== end of short audit information for bulk execution ============
+[Times=62 ms] 
+2018-01-05 23:24:38,814  INFO   [qtp613630562-7702] - [ID=1097414985] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 497828960 1097414985 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: host_node(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: usage(1) membership(1) ] [I: 0] [persistency time: 69][aging properties time: 0] [history time: 29]
+Total bulk persistency time: 69
+Total bulk update aging properties time: 0
+Total bulk history time: 29
+============== end of short audit information for bulk execution ============
+[Times=105 ms] 
+2018-01-05 23:26:54,418  INFO   [qtp613630562-7725] - [ID=27795062] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 738161854 27795062 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 11][aging properties time: 0] [history time: 15]
+Total bulk persistency time: 11
+Total bulk update aging properties time: 0
+Total bulk history time: 15
+============== end of short audit information for bulk execution ============
+[Times=31 ms] 
+2018-01-05 23:27:11,864  INFO   [qtp613630562-7724] - [ID=1914391001] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1714772122 1914391001 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: host_node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 9][aging properties time: 0] [history time: 20]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: membership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 0] [history time: 14]
+Total bulk persistency time: 15
+Total bulk update aging properties time: 0
+Total bulk history time: 34
+============== end of short audit information for bulk execution ============
+[Times=57 ms] 
+2018-01-05 23:27:26,423  INFO   [qtp613630562-7724] - [ID=596915789] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1486551744 596915789 ]
+Update model with '4' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 11]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: person(1) organization(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 2] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: ownership(1) ] [A: ownership(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 11]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: membership(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 4] [history time: 0]
+Total bulk persistency time: 5
+Total bulk update aging properties time: 6
+Total bulk history time: 22
+============== end of short audit information for bulk execution ============
+[Times=108 ms] 
+2018-01-05 23:27:27,980  INFO   [qtp613630562-7724] - [ID=1595250722] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1325645237 1595250722 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: usage(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 15]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 1
+Total bulk history time: 15
+============== end of short audit information for bulk execution ============
+[Times=45 ms] 
+2018-01-05 23:31:04,534  INFO   [qtp613630562-7751] - [ID=1839981869] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1633869556 1839981869 ]
+Update model with '3' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ip_address(1) ] [A: ip_address(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 11][aging properties time: 0] [history time: 38]
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: host_node(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 1] [history time: 19]
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 7][aging properties time: 0] [history time: 21]
+Total bulk persistency time: 24
+Total bulk update aging properties time: 1
+Total bulk history time: 78
+============== end of short audit information for bulk execution ============
+[Times=175 ms] 
+2018-01-05 23:31:06,895  INFO   [qtp613630562-7728] - [ID=1624308630] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1873793709 1624308630 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: ci_collection(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 1] [history time: 23]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 1
+Total bulk history time: 23
+============== end of short audit information for bulk execution ============
+[Times=66 ms] 
+2018-01-05 23:31:18,268  INFO   [qtp613630562-7728] - [ID=144712539] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1879406520 144712539 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=24 ms] 
+2018-01-05 23:31:26,087  INFO   [qtp613630562-7753] - [ID=585025639] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 398255268 585025639 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: host_node(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 1] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 1
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=53 ms] 
+2018-01-05 23:31:27,137  INFO   [qtp613630562-7728] - [ID=419877112] [Caller Name=csa,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: csa,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 179502181 419877112 ]
+Update model with '2' operations.
+[Operation Name=Model Update: Update Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 0] [history time: 0]
+[Operation Name=Model Update: Update Links (strict mode)]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: usage(1) ] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 0][aging properties time: 2] [history time: 0]
+Total bulk persistency time: 0
+Total bulk update aging properties time: 2
+Total bulk history time: 0
+============== end of short audit information for bulk execution ============
+[Times=25 ms] 
+2018-01-12 14:57:47,893  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=873676918] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 8] [history time: 0][Times=105 ms] 
+2018-01-12 18:12:50,497  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1521114263] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 8][aging properties time: 14] [history time: 0][Times=174 ms] 
+2018-01-12 18:34:54,416  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=336662742] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 6][aging properties time: 8] [history time: 0][Times=115 ms] 
+2018-01-15 18:18:31,267  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=27830834] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 4] [history time: 0][Times=78 ms] 
+2018-01-25 10:43:33,727  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=145905631] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 5][aging properties time: 7] [history time: 0][Times=145 ms] 
+2018-02-01 21:55:06,908  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1203744952] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 4] [history time: 0][Times=97 ms] 
+2018-02-21 17:05:34,562  INFO   [qtp1607453282-104646] - [ID=1209928819] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1994914051 1209928819 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 90][aging properties time: 0] [history time: 637]
+Total bulk persistency time: 90
+Total bulk update aging properties time: 0
+Total bulk history time: 637
+============== end of short audit information for bulk execution ============
+[Times=840 ms] 
+2018-02-21 17:05:51,515  INFO   [qtp1607453282-104645] - [ID=1480313907] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 579763887 1480313907 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: infrastructure_service(1) ] [A: infrastructure_service(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 16][aging properties time: 0] [history time: 12]
+Total bulk persistency time: 16
+Total bulk update aging properties time: 0
+Total bulk history time: 12
+============== end of short audit information for bulk execution ============
+[Times=30 ms] 
+2018-02-21 17:15:20,531  INFO   [qtp1607453282-104688] - [ID=906891301] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1606025479 906891301 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 10]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 0
+Total bulk history time: 10
+============== end of short audit information for bulk execution ============
+[Times=16 ms] 
+2018-02-21 17:15:40,240  INFO   [qtp1607453282-104681] - [ID=419483405] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 64068506 419483405 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: infrastructure_service(1) ] [A: infrastructure_service(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 10]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 0
+Total bulk history time: 10
+============== end of short audit information for bulk execution ============
+[Times=17 ms] 
+2018-02-21 17:15:44,968  INFO   [qtp1607453282-104681] - [ID=1171790424] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 959700953 1171790424 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 97][aging properties time: 0] [history time: 183]
+Total bulk persistency time: 97
+Total bulk update aging properties time: 0
+Total bulk history time: 183
+============== end of short audit information for bulk execution ============
+[Times=287 ms] 
+2018-02-21 17:16:05,652  INFO   [qtp1607453282-104692] - [ID=1795847281] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 528760021 1795847281 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 15][aging properties time: 0] [history time: 25]
+Total bulk persistency time: 15
+Total bulk update aging properties time: 0
+Total bulk history time: 25
+============== end of short audit information for bulk execution ============
+[Times=43 ms] 
+2018-02-21 17:16:09,339  INFO   [qtp1607453282-104692] - [ID=438203209] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1518072044 438203209 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 8]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 8
+============== end of short audit information for bulk execution ============
+[Times=12 ms] 
+2018-02-21 17:16:24,683  INFO   [qtp1607453282-104688] - [ID=1123171770] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1577843564 1123171770 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: node(1) ] [A: node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 12][aging properties time: 0] [history time: 45]
+Total bulk persistency time: 12
+Total bulk update aging properties time: 0
+Total bulk history time: 45
+============== end of short audit information for bulk execution ============
+[Times=59 ms] 
+2018-02-21 17:16:27,292  INFO   [qtp1607453282-104692] - [ID=945721066] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 742631355 945721066 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=9 ms] 
+2018-02-21 23:58:41,817  INFO   [qtp1607453282-119225] - [ID=1550666500] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 335851561 1550666500 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 87][aging properties time: 0] [history time: 25]
+Total bulk persistency time: 87
+Total bulk update aging properties time: 0
+Total bulk history time: 25
+============== end of short audit information for bulk execution ============
+[Times=118 ms] 
+2018-02-21 23:58:56,996  INFO   [qtp1607453282-119225] - [ID=697061568] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1537622741 697061568 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: infrastructure_service(1) ] [A: infrastructure_service(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 10]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 10
+============== end of short audit information for bulk execution ============
+[Times=13 ms] 
+2018-02-21 23:59:00,076  INFO   [qtp1607453282-119225] - [ID=68168189] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 338898326 68168189 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 57][aging properties time: 0] [history time: 17]
+Total bulk persistency time: 57
+Total bulk update aging properties time: 0
+Total bulk history time: 17
+============== end of short audit information for bulk execution ============
+[Times=75 ms] 
+2018-02-21 23:59:15,566  INFO   [qtp1607453282-119268] - [ID=1247143199] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 768408312 1247143199 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 16]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 0
+Total bulk history time: 16
+============== end of short audit information for bulk execution ============
+[Times=24 ms] 
+2018-02-21 23:59:19,197  INFO   [qtp1607453282-119268] - [ID=453315074] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 419654418 453315074 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 9]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 0
+Total bulk history time: 9
+============== end of short audit information for bulk execution ============
+[Times=14 ms] 
+2018-02-21 23:59:34,766  INFO   [qtp1607453282-119268] - [ID=1766448153] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 278518070 1766448153 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: node(1) ] [A: node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 13]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 13
+============== end of short audit information for bulk execution ============
+[Times=18 ms] 
+2018-02-21 23:59:37,653  INFO   [qtp1607453282-119275] - [ID=1620046360] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2088977944 1620046360 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=10 ms] 
+2018-02-22 00:09:31,890  INFO   [qtp1607453282-119332] - [ID=487813506] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 390686547 487813506 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 10]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 0
+Total bulk history time: 10
+============== end of short audit information for bulk execution ============
+[Times=15 ms] 
+2018-02-22 00:09:56,740  INFO   [qtp1607453282-119332] - [ID=2005063571] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 397817765 2005063571 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: infrastructure_service(1) ] [A: infrastructure_service(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=11 ms] 
+2018-02-22 00:09:59,880  INFO   [qtp1607453282-119332] - [ID=1533924502] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1175412302 1533924502 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=10 ms] 
+2018-02-22 00:10:12,050  INFO   [qtp1607453282-119365] - [ID=318371518] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 858761105 318371518 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=11 ms] 
+2018-02-22 00:10:15,741  INFO   [qtp1607453282-119365] - [ID=1253264772] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 213919664 1253264772 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 6]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 6
+============== end of short audit information for bulk execution ============
+[Times=9 ms] 
+2018-02-22 00:10:31,549  INFO   [qtp1607453282-119365] - [ID=1302212121] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 220751167 1302212121 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: node(1) ] [A: node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 0] [history time: 8]
+Total bulk persistency time: 4
+Total bulk update aging properties time: 0
+Total bulk history time: 8
+============== end of short audit information for bulk execution ============
+[Times=14 ms] 
+2018-02-22 00:10:34,176  INFO   [qtp1607453282-119332] - [ID=1293081745] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 619198407 1293081745 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=10 ms] 
+2018-02-22 01:29:29,613  INFO   [qtp1607453282-119670] - [ID=1407196734] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 843718469 1407196734 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 9]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 0
+Total bulk history time: 9
+============== end of short audit information for bulk execution ============
+[Times=14 ms] 
+2018-02-22 01:29:43,950  INFO   [qtp1607453282-119668] - [ID=2132143008] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 246279816 2132143008 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: infrastructure_service(1) ] [A: infrastructure_service(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 5]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 0
+Total bulk history time: 5
+============== end of short audit information for bulk execution ============
+[Times=11 ms] 
+2018-02-22 01:29:46,927  INFO   [qtp1607453282-119668] - [ID=80203443] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1170210996 80203443 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=9 ms] 
+2018-02-22 01:30:03,236  INFO   [qtp1607453282-119627] - [ID=387099549] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 38865523 387099549 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 8]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 8
+============== end of short audit information for bulk execution ============
+[Times=13 ms] 
+2018-02-22 01:30:07,080  INFO   [qtp1607453282-119668] - [ID=709424872] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 294974606 709424872 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=9 ms] 
+2018-02-22 01:30:27,599  INFO   [qtp1607453282-119668] - [ID=878072076] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1324964580 878072076 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: node(1) ] [A: node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 6]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 6
+============== end of short audit information for bulk execution ============
+[Times=10 ms] 
+2018-02-22 01:30:29,773  INFO   [qtp1607453282-119627] - [ID=741520488] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 331010014 741520488 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 7]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 7
+============== end of short audit information for bulk execution ============
+[Times=10 ms] 
+2018-02-22 15:46:46,041  INFO   [qtp1607453282-124174] - [ID=349545293] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2065652526 349545293 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: business_application(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 59][aging properties time: 0] [history time: 81]
+Total bulk persistency time: 59
+Total bulk update aging properties time: 0
+Total bulk history time: 81
+============== end of short audit information for bulk execution ============
+[Times=170 ms] 
+2018-02-22 15:47:04,856  INFO   [qtp1607453282-124174] - [ID=307580771] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 2127712254 307580771 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: infrastructure_service(1) ] [A: infrastructure_service(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 17]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 0
+Total bulk history time: 17
+============== end of short audit information for bulk execution ============
+[Times=23 ms] 
+2018-02-22 15:47:08,019  INFO   [qtp1607453282-124174] - [ID=996068517] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 216206953 996068517 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 25][aging properties time: 0] [history time: 12]
+Total bulk persistency time: 25
+Total bulk update aging properties time: 0
+Total bulk history time: 12
+============== end of short audit information for bulk execution ============
+[Times=39 ms] 
+2018-02-22 15:47:23,655  INFO   [qtp1607453282-124174] - [ID=1717510460] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1768935216 1717510460 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: ci_collection(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 32]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 0
+Total bulk history time: 32
+============== end of short audit information for bulk execution ============
+[Times=38 ms] 
+2018-02-22 15:47:27,736  INFO   [qtp1607453282-124174] - [ID=2024735744] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1871108587 2024735744 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 2][aging properties time: 0] [history time: 8]
+Total bulk persistency time: 2
+Total bulk update aging properties time: 0
+Total bulk history time: 8
+============== end of short audit information for bulk execution ============
+[Times=11 ms] 
+2018-02-22 15:47:42,079  INFO   [qtp1607453282-124174] - [ID=879754899] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1381060866 879754899 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Objects (strict mode)]  Mode=<system>Objects - [In: node(1) ] [A: node(1) ] [U: 0] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 3][aging properties time: 0] [history time: 33]
+Total bulk persistency time: 3
+Total bulk update aging properties time: 0
+Total bulk history time: 33
+============== end of short audit information for bulk execution ============
+[Times=38 ms] 
+2018-02-22 15:47:44,287  INFO   [qtp1607453282-124174] - [ID=890975769] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 254429014 890975769 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Add Or Ignore Links]  Mode=<system>Objects - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0]	Links   - [In: containment(1) ] [A: containment(1) ] [U: 0] [R: 0] [I: 0] [persistency time: 1][aging properties time: 0] [history time: 6]
+Total bulk persistency time: 1
+Total bulk update aging properties time: 0
+Total bulk history time: 6
+============== end of short audit information for bulk execution ============
+[Times=8 ms] 
+2018-02-22 16:10:57,106  INFO   [qtp1607453282-124322] - [ID=817220993] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 697591787 817220993 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: node(1) ] [A: 0] [U: 0] [R: node(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: containment(1) ] [I: 0] [persistency time: 86][aging properties time: 0] [history time: 70]
+Total bulk persistency time: 86
+Total bulk update aging properties time: 0
+Total bulk history time: 70
+============== end of short audit information for bulk execution ============
+[Times=165 ms] 
+2018-02-22 16:11:11,010  INFO   [qtp1607453282-124322] - [ID=1856985710] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1870658219 1856985710 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: ci_collection(1) ] [A: 0] [U: 0] [R: ci_collection(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: containment(1) ] [I: 0] [persistency time: 35][aging properties time: 0] [history time: 9]
+Total bulk persistency time: 35
+Total bulk update aging properties time: 0
+Total bulk history time: 9
+============== end of short audit information for bulk execution ============
+[Times=46 ms] 
+2018-02-22 16:11:25,320  INFO   [qtp1607453282-124322] - [ID=1903607691] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 898094690 1903607691 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: infrastructure_service(1) ] [A: 0] [U: 0] [R: infrastructure_service(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: containment(1) ] [I: 0] [persistency time: 76][aging properties time: 0] [history time: 13]
+Total bulk persistency time: 76
+Total bulk update aging properties time: 0
+Total bulk history time: 13
+============== end of short audit information for bulk execution ============
+[Times=94 ms] 
+2018-02-22 16:11:40,201  INFO   [qtp1607453282-124322] - [ID=1150837329] [Caller Name=Operations Orchestration,loggedInUser:{admin###UCMDB}] [Changer=CallerApplication: Operations Orchestration,loggedInUser:{admin###UCMDB}] [Customer ID=1, id name: Default Client] 
+============== start of short audit information for bulk execution: 
+Operation stack: [ 1284096257 1150837329 ]
+Update model with '1' operations.
+[Operation Name=Model Update: Remove Objects (strict mode)]  Mode=<system>Objects - [In: business_application(1) ] [A: 0] [U: 0] [R: business_application(1) ] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 18][aging properties time: 0] [history time: 5]
+Total bulk persistency time: 18
+Total bulk update aging properties time: 0
+Total bulk history time: 5
+============== end of short audit information for bulk execution ============
+[Times=24 ms] 
+2018-02-23 08:22:07,521  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1823458665] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 4] [history time: 0][Times=86 ms] 
+2018-02-23 10:18:39,245  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=1881408190] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 4] [history time: 0][Times=83 ms] 
+2018-02-26 15:58:28,857  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=2056838783] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 4][aging properties time: 4] [history time: 0][Times=105 ms] 
+2018-02-26 16:41:48,669  INFO   [Starter for "scheduler" (during Writer server startup). (customer 1, id name: Default Client)] - [ID=843768149] [Caller Name=Controller] [Changer=CallerApplication: Controller] [Customer ID=1, id name: Default Client] [Operation Name=Model Update: Add Or Update Objects]  Mode=<system>Objects - [In: scheduler_job(1) ] [A: 0] [U: scheduler_job(1) ] [R: 0] [I: 0]	Links   - [In: 0] [A: 0] [U: 0] [R: 0] [I: 0] [persistency time: 7][aging properties time: 13] [history time: 0][Times=210 ms] 

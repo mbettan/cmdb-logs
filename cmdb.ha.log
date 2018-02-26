@@ -1,0 +1,506 @@
+2017-12-12 14:29:54,454  INFO   [main] - serverId hcm-ucmdb-2397063270-w4h2l_1513088990836 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-w4h2l
+2017-12-12 14:31:20,107  INFO   [HA Heartbeat scheduler] - serverID: hcm-ucmdb-2397063270-w4h2l_1513088990836 added first dummy row to HAWriter table. 
+2017-12-12 14:31:20,181  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:21,184  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:22,185  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:23,186  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:24,186  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:25,187  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:26,188  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:27,189  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:28,189  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:29,190  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:30,191  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:31,192  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:32,192  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:33,193  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:34,194  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-12 14:31:35,108  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-w4h2l_1513088990836 is now the writer.
+2017-12-12 14:31:35,205  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 0
+2017-12-12 14:31:35,231  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:0
+2017-12-12 14:31:35,233  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 0
+2017-12-12 14:31:35,238  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:0
+2017-12-12 14:31:40,211  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 0
+2017-12-12 14:31:40,286  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:0
+2017-12-12 19:58:29,686  INFO   [main] - serverId hcm-ucmdb-2397063270-w4h2l_1513108702778 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-w4h2l
+2017-12-12 19:59:01,851  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-w4h2l_1513108702778) is going to be the writer, because the writer (hcm-ucmdb-2397063270-w4h2l_1513088990836) did not update its timestamp for more than: 2952 seconds
+2017-12-12 19:59:01,851  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1513108742, writer timestamp was:1513105790, writer inactivity period threshold:240)
+2017-12-12 19:59:01,864  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-w4h2l_1513108702778 is now the writer.
+2017-12-12 19:59:03,022  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 549
+2017-12-12 19:59:11,076  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:549
+2017-12-12 19:59:11,224  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 7217
+2017-12-12 19:59:22,387  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:7217
+2017-12-12 19:59:23,665  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 7
+2017-12-12 19:59:26,397  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:7
+2017-12-12 20:21:38,534  INFO   [main] - serverId hcm-ucmdb-2397063270-9sbjd_1513110066581 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-9sbjd
+2017-12-12 20:22:05,805  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:06,807  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:07,811  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:08,814  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:09,816  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:10,817  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:11,819  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:12,821  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:13,822  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:14,824  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:15,826  INFO   [main] - Remote server [Writer] did not respond
+2017-12-12 20:22:16,271  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-9sbjd_1513110066581) is going to be the writer, because the writer (hcm-ucmdb-2397063270-w4h2l_1513108702778) did not update its timestamp for more than: 854 seconds
+2017-12-12 20:22:16,271  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1513110136, writer timestamp was:1513109282, writer inactivity period threshold:240)
+2017-12-12 20:22:16,292  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-9sbjd_1513110066581 is now the writer.
+2017-12-12 20:22:16,917  INFO   [main] - HA sync model: URM_customerId_-2147483648 started to load from revision: 552
+2017-12-12 20:22:17,290  INFO   [main] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:552
+2017-12-12 20:22:17,641  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 7241
+2017-12-12 20:22:31,103  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:7241
+2017-12-12 20:22:32,259  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 8
+2017-12-12 20:22:33,672  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:8
+2017-12-14 10:25:06,124  INFO   [main] - serverId hcm-ucmdb-2397063270-rp36w_1513247044569 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-rp36w
+2017-12-14 10:25:42,048  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-rp36w_1513247044569) is going to be the writer, because the writer (hcm-ucmdb-2397063270-9sbjd_1513110066581) did not update its timestamp for more than: 52247 seconds
+2017-12-14 10:25:42,048  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1513247142, writer timestamp was:1513194895, writer inactivity period threshold:240)
+2017-12-14 10:25:42,056  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-rp36w_1513247044569 is now the writer.
+2017-12-14 10:25:42,816  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 555
+2017-12-14 10:25:48,048  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:555
+2017-12-14 10:25:48,098  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 7268
+2017-12-14 10:26:00,252  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:7268
+2017-12-14 10:26:02,036  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 9
+2017-12-14 10:26:04,605  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:9
+2017-12-14 15:49:58,050  INFO   [main] - serverId hcm-ucmdb-2397063270-l8d11_1513266507458 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-l8d11
+2017-12-14 15:50:22,965  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:23,967  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:24,427  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:24,968  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:25,428  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:25,969  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:26,430  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:26,970  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:27,431  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:27,972  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:28,431  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:28,973  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:29,432  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:29,973  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:30,433  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:30,974  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:31,434  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:31,975  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:32,434  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:32,976  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:33,435  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:33,978  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:34,435  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:34,979  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:35,436  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:35,980  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:36,436  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:36,980  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:37,437  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:37,981  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:38,438  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:38,982  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:39,438  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:39,983  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:40,439  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:40,984  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:41,439  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:41,984  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:42,440  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:42,985  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:43,440  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:43,987  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:44,441  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:44,988  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:45,441  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:45,989  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:46,442  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:46,989  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:47,442  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:47,990  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:48,443  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:48,990  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:49,443  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:49,991  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:50,444  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:50,992  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:51,445  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:51,992  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:52,445  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:52,993  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:53,446  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:53,994  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:54,446  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:54,994  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:55,447  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:55,995  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:56,447  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:56,996  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:57,448  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:57,996  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:58,448  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:58,997  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:50:59,448  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:50:59,997  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:00,449  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:00,998  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:01,449  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:01,999  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:02,450  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:02,999  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:03,450  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:04,000  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:04,451  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:05,000  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:05,451  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:06,001  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:06,452  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:07,002  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:07,452  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:08,002  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:08,452  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:09,003  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:09,453  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:10,003  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:10,453  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:11,004  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:11,454  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:12,005  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:12,454  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:13,005  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:13,454  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:14,006  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:14,455  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:15,006  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:15,455  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:16,007  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:16,456  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:17,007  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:17,456  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:18,008  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:18,457  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:19,008  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:19,457  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:20,009  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:20,457  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:21,009  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:21,458  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:22,010  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:22,458  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:23,010  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:23,459  INFO   [Controller] - Remote server [Writer] did not respond
+2017-12-14 15:51:24,011  INFO   [main] - Remote server [Writer] did not respond
+2017-12-14 15:51:24,189  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-l8d11_1513266507458) is going to be the writer, because the writer (hcm-ucmdb-2397063270-rp36w_1513247044569) did not update its timestamp for more than: 252 seconds
+2017-12-14 15:51:24,189  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1513266684, writer timestamp was:1513266432, writer inactivity period threshold:240)
+2017-12-14 15:51:24,195  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-l8d11_1513266507458 is now the writer.
+2017-12-14 15:51:24,472  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 558
+2017-12-14 15:51:24,667  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:558
+2017-12-14 15:51:24,671  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 7292
+2017-12-14 15:51:31,661  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:7292
+2017-12-14 15:51:32,303  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 10
+2017-12-14 15:51:34,316  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:10
+2017-12-19 11:13:12,252  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-l8d11_1513266507458) stopped responding more than 1070 seconds ago.
+2018-01-04 15:29:21,064  INFO   [main] - serverId hcm-ucmdb-2397063270-ct8s0_1515079639219 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-ct8s0
+2018-01-04 15:29:46,631  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:47,636  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:48,638  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:49,644  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:50,646  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:51,647  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:52,650  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:53,653  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:54,655  INFO   [main] - Remote server [Writer] did not respond
+2018-01-04 15:29:55,425  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-ct8s0_1515079639219) is going to be the writer, because the writer (hcm-ucmdb-2397063270-l8d11_1513266507458) did not update its timestamp for more than: 96945 seconds
+2018-01-04 15:29:55,426  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1515079795, writer timestamp was:1514982850, writer inactivity period threshold:240)
+2018-01-04 15:29:55,461  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-ct8s0_1515079639219 is now the writer.
+2018-01-04 15:29:55,731  INFO   [main] - HA sync model: URM_customerId_-2147483648 started to load from revision: 563
+2018-01-04 15:29:56,282  INFO   [main] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:563
+2018-01-04 15:29:56,734  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 7398
+2018-01-04 15:30:10,223  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:7398
+2018-01-04 15:30:11,492  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 11
+2018-01-04 15:30:15,484  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:11
+2018-01-10 21:33:26,986  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ct8s0_1515079639219) stopped responding more than 10 seconds ago.
+2018-01-10 21:33:37,000  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ct8s0_1515079639219) stopped responding more than 21 seconds ago.
+2018-01-10 21:33:57,040  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ct8s0_1515079639219) stopped responding more than 41 seconds ago.
+2018-01-10 21:34:07,058  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ct8s0_1515079639219) stopped responding more than 51 seconds ago.
+2018-01-12 14:56:36,776  INFO   [main] - serverId hcm-ucmdb-2397063270-28cfx_1515768843847 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-28cfx
+2018-01-12 14:57:17,015  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-28cfx_1515768843847) is going to be the writer, because the writer (hcm-ucmdb-2397063270-ct8s0_1515079639219) did not update its timestamp for more than: 1061 seconds
+2018-01-12 14:57:17,016  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1515769037, writer timestamp was:1515767976, writer inactivity period threshold:240)
+2018-01-12 14:57:17,031  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-28cfx_1515768843847 is now the writer.
+2018-01-12 14:57:18,154  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 569
+2018-01-12 14:57:19,002  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:569
+2018-01-12 14:57:19,017  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 8309
+2018-01-12 14:57:33,649  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:8309
+2018-01-12 14:57:36,025  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 70
+2018-01-12 14:57:38,058  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:70
+2018-01-12 18:11:24,871  INFO   [main] - serverId hcm-ucmdb-2397063270-j2jns_1515780503784 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-j2jns
+2018-01-12 18:11:58,556  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:11:59,353  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:11:59,560  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:00,356  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:00,564  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:01,359  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:01,566  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:02,361  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:02,568  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:03,363  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:03,571  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:04,364  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:04,573  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:05,365  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:05,575  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:06,367  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:06,577  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:07,369  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:07,579  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:08,371  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:08,581  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:09,376  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:09,583  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:10,378  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:10,585  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:11,380  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:11,586  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:12,382  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:12,588  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:13,384  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:13,589  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:14,387  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:14,591  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:15,388  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:15,592  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:16,390  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:16,593  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:17,392  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:17,594  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:18,394  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:18,596  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:19,399  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:19,597  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:20,401  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:20,598  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:21,402  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:21,599  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:22,404  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:22,600  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:23,405  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:23,601  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:24,407  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:24,603  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:25,409  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:25,604  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:26,410  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:26,605  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:27,412  INFO   [main] - Remote server [Writer] did not respond
+2018-01-12 18:12:27,607  INFO   [Controller] - Remote server [Writer] did not respond
+2018-01-12 18:12:27,857  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-j2jns_1515780503784) is going to be the writer, because the writer (hcm-ucmdb-2397063270-28cfx_1515768843847) did not update its timestamp for more than: 245 seconds
+2018-01-12 18:12:27,857  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1515780761, writer timestamp was:1515780516, writer inactivity period threshold:240)
+2018-01-12 18:12:27,864  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-j2jns_1515780503784 is now the writer.
+2018-01-12 18:12:28,446  INFO   [main] - HA sync model: URM_customerId_-2147483648 started to load from revision: 572
+2018-01-12 18:12:28,918  INFO   [main] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:572
+2018-01-12 18:12:28,928  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 8333
+2018-01-12 18:12:40,229  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:8333
+2018-01-12 18:12:41,358  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 71
+2018-01-12 18:12:42,752  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:71
+2018-01-12 18:33:38,008  INFO   [main] - serverId hcm-ucmdb-2397063270-bz63n_1515781806608 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-bz63n
+2018-01-12 18:34:13,336  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-bz63n_1515781806608) is going to be the writer, because the writer (hcm-ucmdb-2397063270-j2jns_1515780503784) did not update its timestamp for more than: 452 seconds
+2018-01-12 18:34:13,336  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1515782053, writer timestamp was:1515781601, writer inactivity period threshold:240)
+2018-01-12 18:34:13,348  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-bz63n_1515781806608 is now the writer.
+2018-01-12 18:34:13,799  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 576
+2018-01-12 18:34:34,790  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:576
+2018-01-12 18:34:34,796  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 8357
+2018-01-12 18:34:45,886  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:8357
+2018-01-12 18:34:46,920  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 72
+2018-01-12 18:34:48,765  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:72
+2018-01-15 18:17:49,247  INFO   [main] - serverId hcm-ucmdb-2397063270-jjl70_1516040028493 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-jjl70
+2018-01-15 18:18:02,181  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:03,184  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:04,185  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:05,187  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:06,188  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:07,189  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:08,190  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:09,192  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:10,193  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:11,194  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:12,196  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:13,198  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:14,199  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:15,200  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:16,201  INFO   [main] - Remote server [Writer] did not respond
+2018-01-15 18:18:16,397  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-jjl70_1516040028493) is going to be the writer, because the writer (hcm-ucmdb-2397063270-bz63n_1515781806608) did not update its timestamp for more than: 394 seconds
+2018-01-15 18:18:16,397  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1516040288, writer timestamp was:1516039894, writer inactivity period threshold:240)
+2018-01-15 18:18:16,403  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-jjl70_1516040028493 is now the writer.
+2018-01-15 18:18:16,664  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 579
+2018-01-15 18:18:16,967  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:579
+2018-01-15 18:18:16,971  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 8390
+2018-01-15 18:18:25,358  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:8390
+2018-01-15 18:18:26,036  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 73
+2018-01-15 18:18:27,075  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:73
+2018-01-25 10:37:53,413  INFO   [main] - serverId hcm-ucmdb-2397063270-jjl70_1516876425678 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-jjl70
+2018-01-25 10:38:07,349  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:08,352  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:09,353  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:10,354  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:11,356  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:12,358  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:13,359  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:14,360  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:15,361  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:38:16,362  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:27,103  INFO   [main] - serverId hcm-ucmdb-2397063270-f8vpt_1516876676099 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-f8vpt
+2018-01-25 10:42:52,507  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:53,511  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:54,515  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:55,518  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:56,520  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:57,521  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:58,522  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:42:59,524  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:43:00,525  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:43:01,526  INFO   [main] - Remote server [Writer] did not respond
+2018-01-25 10:43:01,831  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-f8vpt_1516876676099) is going to be the writer, because the writer (hcm-ucmdb-2397063270-jjl70_1516040028493) did not update its timestamp for more than: 2351 seconds
+2018-01-25 10:43:01,831  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1516877014, writer timestamp was:1516874663, writer inactivity period threshold:240)
+2018-01-25 10:43:01,840  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-f8vpt_1516876676099 is now the writer.
+2018-01-25 10:43:02,564  INFO   [main] - HA sync model: URM_customerId_-2147483648 started to load from revision: 584
+2018-01-25 10:43:02,993  INFO   [main] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:584
+2018-01-25 10:43:03,495  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 8444
+2018-01-25 10:43:17,132  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:8444
+2018-01-25 10:43:18,973  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 74
+2018-01-25 10:43:22,365  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:74
+2018-01-29 23:24:25,546  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 10 seconds ago.
+2018-01-29 23:24:35,567  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 20 seconds ago.
+2018-01-30 17:57:38,681  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 9 seconds ago.
+2018-01-30 17:57:40,681  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 11 seconds ago.
+2018-01-30 17:57:42,681  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 13 seconds ago.
+2018-01-31 11:54:19,120  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 10 seconds ago.
+2018-01-31 11:54:29,131  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 20 seconds ago.
+2018-02-01 14:28:29,860  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 10 seconds ago.
+2018-02-01 14:28:31,861  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 12 seconds ago.
+2018-02-01 14:28:33,862  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-f8vpt_1516876676099) stopped responding more than 14 seconds ago.
+2018-02-01 21:54:18,134  INFO   [main] - serverId hcm-ucmdb-2397063270-ddpk4_1517521756470 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-ddpk4
+2018-02-01 21:54:32,561  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:33,564  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:34,565  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:35,566  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:36,568  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:37,570  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:38,571  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:39,572  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:40,573  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:41,574  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:42,575  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:43,576  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:44,577  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:45,579  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:46,580  INFO   [main] - Remote server [Writer] did not respond
+2018-02-01 21:54:46,790  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-ddpk4_1517521756470) is going to be the writer, because the writer (hcm-ucmdb-2397063270-f8vpt_1516876676099) did not update its timestamp for more than: 4500 seconds
+2018-02-01 21:54:46,791  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1517522073, writer timestamp was:1517517573, writer inactivity period threshold:240)
+2018-02-01 21:54:46,797  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-ddpk4_1517521756470 is now the writer.
+2018-02-01 21:54:47,574  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 589
+2018-02-01 21:54:47,957  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:589
+2018-02-01 21:54:48,135  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 8508
+2018-02-01 21:54:56,699  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:8508
+2018-02-01 21:54:57,656  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 75
+2018-02-01 21:55:01,611  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:75
+2018-02-02 14:55:38,507  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 10 seconds ago.
+2018-02-02 14:55:40,507  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 12 seconds ago.
+2018-02-02 14:55:42,507  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 14 seconds ago.
+2018-02-02 18:55:31,103  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 10 seconds ago.
+2018-02-02 18:55:33,103  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 12 seconds ago.
+2018-02-02 18:55:35,103  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 14 seconds ago.
+2018-02-02 22:11:31,473  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 10 seconds ago.
+2018-02-02 22:11:33,473  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 12 seconds ago.
+2018-02-02 22:11:35,474  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 14 seconds ago.
+2018-02-03 00:19:36,206  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 4 seconds ago.
+2018-02-03 00:19:38,206  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 6 seconds ago.
+2018-02-03 00:19:40,207  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 8 seconds ago.
+2018-02-16 21:16:25,471  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 5 seconds ago.
+2018-02-16 21:16:35,476  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 15 seconds ago.
+2018-02-16 21:16:55,502  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 35 seconds ago.
+2018-02-16 21:16:57,502  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 37 seconds ago.
+2018-02-16 21:16:59,502  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 39 seconds ago.
+2018-02-20 17:45:32,208  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 10 seconds ago.
+2018-02-20 17:45:42,221  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 20 seconds ago.
+2018-02-21 10:35:27,716  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 10 seconds ago.
+2018-02-21 10:35:29,716  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 12 seconds ago.
+2018-02-21 10:35:31,716  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 14 seconds ago.
+2018-02-21 22:34:21,008  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 10 seconds ago.
+2018-02-21 22:34:31,023  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 20 seconds ago.
+2018-02-22 16:58:24,536  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 7 seconds ago.
+2018-02-22 16:58:34,549  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 17 seconds ago.
+2018-02-22 16:58:54,563  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 37 seconds ago.
+2018-02-22 16:59:04,575  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 47 seconds ago.
+2018-02-22 16:59:24,601  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 67 seconds ago.
+2018-02-22 16:59:26,601  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 69 seconds ago.
+2018-02-22 16:59:28,601  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-2397063270-ddpk4_1517521756470) stopped responding more than 71 seconds ago.
+2018-02-23 08:21:12,853  INFO   [main] - serverId hcm-ucmdb-2397063270-wwpc6_1519373742118 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-wwpc6
+2018-02-23 08:21:42,100  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-wwpc6_1519373742118) is going to be the writer, because the writer (hcm-ucmdb-2397063270-ddpk4_1517521756470) did not update its timestamp for more than: 374 seconds
+2018-02-23 08:21:42,100  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1519374099, writer timestamp was:1519373725, writer inactivity period threshold:240)
+2018-02-23 08:21:42,307  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-wwpc6_1519373742118 is now the writer.
+2018-02-23 08:21:42,926  INFO   [main] - HA sync model: URM_customerId_-2147483648 started to load from revision: 634
+2018-02-23 08:21:43,921  INFO   [main] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:634
+2018-02-23 08:21:45,393  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 9518
+2018-02-23 08:21:55,940  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:9518
+2018-02-23 08:21:56,687  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 117
+2018-02-23 08:22:02,357  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:117
+2018-02-23 10:17:56,440  INFO   [main] - serverId hcm-ucmdb-2397063270-dg8f5_1519380715779 joined cluster postgresql_ucmdb at address hcm-ucmdb-2397063270-dg8f5
+2018-02-23 10:18:07,888  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:08,891  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:09,891  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:10,892  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:11,893  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:12,894  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:13,895  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:14,896  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:15,897  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:16,898  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:17,898  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:18,899  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:19,900  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:20,901  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:21,901  INFO   [Controller] - Remote server [Writer] did not respond
+2018-02-23 10:18:22,588  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-2397063270-dg8f5_1519380715779) is going to be the writer, because the writer (hcm-ucmdb-2397063270-wwpc6_1519373742118) did not update its timestamp for more than: 383 seconds
+2018-02-23 10:18:22,588  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1519381142, writer timestamp was:1519380759, writer inactivity period threshold:240)
+2018-02-23 10:18:22,593  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-2397063270-dg8f5_1519380715779 is now the writer.
+2018-02-23 10:18:22,917  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 639
+2018-02-23 10:18:25,973  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:639
+2018-02-23 10:18:25,979  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 9547
+2018-02-23 10:18:33,602  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:9547
+2018-02-23 10:18:34,330  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 118
+2018-02-23 10:18:35,198  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:118
+2018-02-26 15:57:20,887  INFO   [main] - serverId hcm-ucmdb-1318668762-0rft3_1519660210784 joined cluster postgresql_ucmdb at address hcm-ucmdb-1318668762-0rft3
+2018-02-26 15:57:50,479  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-1318668762-0rft3_1519660210784) is going to be the writer, because the writer (hcm-ucmdb-2397063270-dg8f5_1519380715779) did not update its timestamp for more than: 1122 seconds
+2018-02-26 15:57:50,479  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1519660710, writer timestamp was:1519659588, writer inactivity period threshold:240)
+2018-02-26 15:57:50,845  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-1318668762-0rft3_1519660210784 is now the writer.
+2018-02-26 15:57:58,362  INFO   [main] - HA sync model: URM_customerId_-2147483648 started to load from revision: 643
+2018-02-26 15:57:59,144  INFO   [main] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:643
+2018-02-26 15:58:01,267  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 9604
+2018-02-26 15:58:10,605  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:9604
+2018-02-26 15:58:17,766  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 119
+2018-02-26 15:58:22,895  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:119
+2018-02-26 16:17:40,455  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-1318668762-0rft3_1519660210784) stopped responding more than 10 seconds ago.
+2018-02-26 16:17:50,461  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-1318668762-0rft3_1519660210784) stopped responding more than 20 seconds ago.
+2018-02-26 16:18:10,485  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-1318668762-0rft3_1519660210784) stopped responding more than 40 seconds ago.
+2018-02-26 16:18:12,485  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-1318668762-0rft3_1519660210784) stopped responding more than 42 seconds ago.
+2018-02-26 16:18:14,485  INFO   [HA Heartbeat scheduler] - Writer server (hcm-ucmdb-1318668762-0rft3_1519660210784) stopped responding more than 44 seconds ago.
+2018-02-26 16:40:45,235  INFO   [main] - serverId hcm-ucmdb-3263646220-nnvqq_1519662823667 joined cluster postgresql_ucmdb at address hcm-ucmdb-3263646220-nnvqq
+2018-02-26 16:41:10,082  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:11,084  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:12,087  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:13,090  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:14,092  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:15,094  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:16,099  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:17,102  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:18,106  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:19,110  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:20,112  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:21,114  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:22,116  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:23,118  INFO   [main] - Remote server [Writer] did not respond
+2018-02-26 16:41:23,524  INFO   [HA Heartbeat scheduler] - This server (hcm-ucmdb-3263646220-nnvqq_1519662823667) is going to be the writer, because the writer (hcm-ucmdb-1318668762-0rft3_1519660210784) did not update its timestamp for more than: 494 seconds
+2018-02-26 16:41:23,525  INFO   [HA Heartbeat scheduler] - 	(current DB time: 1519663284, writer timestamp was:1519662790, writer inactivity period threshold:240)
+2018-02-26 16:41:23,536  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-3263646220-nnvqq_1519662823667 is now the writer.
+2018-02-26 16:41:24,013  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 started to load from revision: 647
+2018-02-26 16:41:24,772  INFO   [Controller] - HA sync model: URM_customerId_-2147483648 is up and ready. starting to sync waiting revisions from revision:647
+2018-02-26 16:41:24,777  INFO   [Controller] - HA sync model: URM_customerId_1 started to load from revision: 9646
+2018-02-26 16:41:38,908  INFO   [Controller] - HA sync model: URM_customerId_1 is up and ready. starting to sync waiting revisions from revision:9646
+2018-02-26 16:41:40,230  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 started to load from revision: 120
+2018-02-26 16:41:41,222  INFO   [Starter for "model_topology" (during Writer server startup). (customer 1, id name: Default Client)] - HA sync model: DATA_MODEL_customerId_1 is up and ready. starting to sync waiting revisions from revision:120

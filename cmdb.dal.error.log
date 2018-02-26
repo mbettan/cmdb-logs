@@ -1,0 +1,6 @@
+2017-12-12 14:29:45,155  ERROR  [main] - N/A Can't execute prepared statement [select * from DB_CONTEXT where SCHEMA_TYPE=? and IS_GLOBAL=?; Values: 'CMDB',1], due to exception: org.postgresql.util.PSQLException: ERROR: relation "db_context" does not exist
+  Position: 15
+2017-12-12 14:29:45,604  ERROR  [main] - N/A Can't execute prepared statement [select * from DB_CONTEXT where SCHEMA_TYPE=? and IS_GLOBAL=?; Values: 'CMDB',1], due to exception: org.postgresql.util.PSQLException: ERROR: relation "db_context" does not exist
+  Position: 15
+2018-01-04 15:26:39,396  ERROR  [main] - N/A Can't execute statement [CREATE DATABASE ucmdb], due to exception: org.postgresql.util.PSQLException: ERROR: database "ucmdb" already exists
+2018-01-12 14:53:11,449  ERROR  [main] - N/A Can't execute statement [CREATE DATABASE ucmdb], due to exception: org.postgresql.util.PSQLException: ERROR: database "ucmdb" already exists
