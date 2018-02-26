@@ -1,0 +1,99 @@
+[
+  {
+    "threadId": 436,
+    "threadName": "QuartzScheduler_Worker-3",
+    "operationStack": [
+      {
+        "startTime": 1516424400009,
+        "subsystem": "Model Query Task",
+        "synchronic": true,
+        "id": "405f9a77c8fac37a981638cb13fa288c",
+        "message": "General CMDB request",
+        "operationName": "Model Query: Get Objects By Condition: class name:node is_derived:true complex conditions \u003d {{hp_com",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1516424400009,
+        "subsystem": "Model Query Task",
+        "synchronic": true,
+        "id": "4c2c12bb7810267f993a78d514b4d4b3",
+        "message": "General CMDB request",
+        "operationName": "System Tql Model Query First Calc [class name:node is_derived:true complex conditions \u003d {{hp_complex",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1516424400008,
+        "subsystem": "Tql Calculator Task",
+        "synchronic": true,
+        "id": "4d1514b3de5fe4b9a5b0e06d59bf4278",
+        "message": "General CMDB request",
+        "operationName": "Model Calculate Pattern:OperatingSystemLicenseCapacity",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1516424400008,
+        "subsystem": "Tql Pattern Calc Process Task",
+        "synchronic": true,
+        "id": "4513468054ea507d9390b0d53a621889",
+        "message": "General CMDB request",
+        "operationName": "Tql Command: Process AdHoc Calculate",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1516424400006,
+        "subsystem": "Tql Results Utils Task",
+        "synchronic": true,
+        "id": "4d65010ad4ed8b78bec591f20d6c30e6",
+        "message": "General CMDB request",
+        "operationName": "Tql Query: Get Ad Hoc Map (By Pattern ID). Pattern [OperatingSystemLicenseCapacity]",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1516424400003,
+        "subsystem": "Licensing",
+        "synchronic": true,
+        "id": "49b34ccaa582e8489a0bc41178b6e929",
+        "message": "General CMDB request",
+        "operationName": "CalculateLicenseTqlOperation",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1516424400003,
+        "subsystem": "Scheduler execution task",
+        "synchronic": true,
+        "id": "495a9bd94ea2b108b03be0de0fddd64e",
+        "message": "General CMDB request",
+        "operationName": "appilog.framework.shared.scheduler.operation.execute.impl.SchedulerOperationRunExecution",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "MAM_"
+      }
+    ]
+  }
+]

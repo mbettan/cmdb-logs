@@ -1,0 +1,34 @@
+
+************************ Statistics from 2018-02-26 10:00:00.005 until 2018-02-26 10:15:00.006 ************************
+Operations executed: 570
+Different operation types executed: 7
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:      10 # On: 2018-02-26 10:00:43.242 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+null
+# Millis:       4 # On: 2018-02-26 10:05:02.703 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:11:17.705 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:06:02.704 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:06:17.704 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:00:17.704 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:04:17.704 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:03:17.703 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:05:17.703 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 10:02:17.703 # SELECT * FROM HA_WRITER for update
+null
+ *** All operations statistics ***
+# Avg (ms):       1 # Max (ms):       4 # Count:    60 # Last called: 2018-02-26 10:14:47.706 # SELECT * FROM HA_WRITER for update
+# Avg (ms):       0 # Max (ms):       2 # Count:   140 # Last called: 2018-02-26 10:14:49.404 # select IS_ACTIVE from CUSTOMER_REGISTRATION where ID=?
+# Avg (ms):       0 # Max (ms):       2 # Count:    60 # Last called: 2018-02-26 10:14:47.709 # UPDATE HA_WRITER SET SERVER_ID=?,TIMESTAMP=?,SUGGESTED_SERVER_ID=?,SUGGESTION_TIMESTAMP=?
+# Avg (ms):       0 # Max (ms):       1 # Count:    80 # Last called: 2018-02-26 10:14:37.109 # select * from DB_CONTEXT
+# Avg (ms):       0 # Max (ms):       2 # Count:    60 # Last called: 2018-02-26 10:14:47.708 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)
+# Avg (ms):       0 # Max (ms):      10 # Count:    30 # Last called: 2018-02-26 10:14:43.239 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+# Avg (ms):       0 # Max (ms):       1 # Count:   140 # Last called: 2018-02-26 10:14:49.402 # select * from CUSTOMER_REGISTRATION order by ID

@@ -1,0 +1,86 @@
+[
+  {
+    "threadId": 28324,
+    "threadName": "RequestProcessorAsyncPool-28324",
+    "operationStack": [
+      {
+        "startTime": 1513720800013,
+        "subsystem": "Model Query Task",
+        "synchronic": true,
+        "id": "4c3808951a8e6cc7a85ffa31fb1c4c4a",
+        "message": "General CMDB request",
+        "operationName": "Model Query: Get Objects By Condition: class name:sap_transport is_derived:true properties:(root_las",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1513720800010,
+        "subsystem": "Tql Calculator Task",
+        "synchronic": true,
+        "id": "4d1af1a6558fd0a3a76f375429dd96bf",
+        "message": "General CMDB request",
+        "operationName": "Model Calculate Pattern:SAP_Old_Transports1513720800008",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1513720800010,
+        "subsystem": "Tql Pattern Calc Process Task",
+        "synchronic": true,
+        "id": "44b813be4f7379ad8943121c1c07b74b",
+        "message": "General CMDB request",
+        "operationName": "Tql Command: Process AdHoc Calculate",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1513720800008,
+        "subsystem": "Tql Results Utils Task",
+        "synchronic": true,
+        "id": "4e0f00b451461077801921c6693560c3",
+        "message": "General CMDB request",
+        "operationName": "Tql Query: Get Ad Hoc Server Tql Result (By Pattern ID). Pattern [SAP_Old_Transports1513720800008]",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1513720800008,
+        "subsystem": "Tql Results Utils Task",
+        "synchronic": true,
+        "id": "4300237f9b421feabf28fa2a066a2ac4",
+        "message": "General CMDB request",
+        "operationName": "Tql Update: Add Pattern To Result Repository. Pattern [SAP_Old_Transports1513720800008] DecayTimeMS ",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1513720800004,
+        "subsystem": "Enrichment Ad Hoc Calculator Task",
+        "synchronic": false,
+        "id": "464a0307873a4cc290f634051530859a",
+        "message": "General CMDB request",
+        "operationName": "Enrichment Command: Calculate enrichment{EnrichmentName\u003dSAP_Old_Transports}",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      }
+    ]
+  }
+]

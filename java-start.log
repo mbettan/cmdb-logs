@@ -1,0 +1,826 @@
+-XX:+HeapDumpOnOutOfMemoryError -XX:InitialHeapSize=1073741824 -XX:+ManagementServer -XX:MaxGCPauseMillis=2000 -XX:MaxHeapSize=4294967296 -XX:MaxMetaspaceSize=268435456 -XX:MaxNewSize=1073741824 -XX:-OmitStackTraceInFastThrow -XX:+PrintCommandLineFlags -XX:+PrintGC -XX:+PrintGCDetails -XX:+UnlockExperimentalVMOptions -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC 
+2018-02-26 16:33:39,597  INFO   [main] - Starting cmdb server
+[GC pause (Metadata GC Threshold) (young) (initial-mark), 0.0388022 secs]
+   [Parallel Time: 11.0 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 3037.4, Avg: 3038.1, Max: 3040.2, Diff: 2.8]
+      [Ext Root Scanning (ms): Min: 0.8, Avg: 2.3, Max: 3.1, Diff: 2.4, Sum: 18.2]
+      [Update RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Processed Buffers: Min: 0, Avg: 0.0, Max: 0, Diff: 0, Sum: 0]
+      [Scan RS (ms): Min: 0.0, Avg: 0.0, Max: 0.1, Diff: 0.1, Sum: 0.2]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 1.7, Max: 4.1, Diff: 4.1, Sum: 13.3]
+      [Object Copy (ms): Min: 3.7, Avg: 5.8, Max: 8.0, Diff: 4.4, Sum: 46.1]
+      [Termination (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.1]
+         [Termination Attempts: Min: 1, Avg: 7.0, Max: 11, Diff: 10, Sum: 56]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.4, Diff: 0.4, Sum: 0.8]
+      [GC Worker Total (ms): Min: 7.7, Avg: 9.8, Max: 10.5, Diff: 2.8, Sum: 78.7]
+      [GC Worker End (ms): Min: 3047.9, Avg: 3047.9, Max: 3048.0, Diff: 0.1]
+   [Code Root Fixup: 0.9 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 1.1 ms]
+   [Other: 25.6 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 23.4 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.6 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 0.4 ms]
+   [Eden: 164.0M(256.0M)->0.0B(320.0M) Survivors: 0.0B->16.0M Heap: 164.0M(1024.0M)->15.1M(1024.0M)]
+ [Times: user=0.06 sys=0.02, real=0.04 secs] 
+[GC concurrent-root-region-scan-start]
+[GC concurrent-root-region-scan-end, 0.0063035 secs]
+[GC concurrent-mark-start]
+[GC concurrent-mark-end, 0.0011438 secs]
+[GC remark [Finalize Marking, 0.0006320 secs] [GC ref-proc, 0.0012082 secs] [Unloading, 0.0031435 secs], 0.0058933 secs]
+ [Times: user=0.02 sys=0.01, real=0.01 secs] 
+[GC cleanup 16M->16M(1024M), 0.0025383 secs]
+ [Times: user=0.01 sys=0.00, real=0.00 secs] 
+Could not update secret: ERROR: Failed to get secret
+2018-02-26 16:33:43,662  INFO   [main] - HA solution enabled:true
+6218 [WARN] Configurator: JGRP000014: TP.loopback has been deprecated: enabled by default
+6226 [WARN] Configurator: JGRP000014: TP.discard_incompatible_packets has been deprecated: incompatible packets are discarded anyway
+6228 [WARN] Configurator: JGRP000014: TP.enable_bundling has been deprecated: will be ignored as bundling is on by default
+
+-------------------------------------------------------------------
+GMS: address=hcm-ucmdb-3263646220-nnvqq, cluster=postgresql_ucmdb, physical address=172.77.48.5:7800
+-------------------------------------------------------------------
+9399 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 1
+12400 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 1
+15402 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 1
+18403 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 1
+21405 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 1
+24405 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 1
+27407 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 1
+30409 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 1
+33409 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 1
+36411 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 1
+39412 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 1
+42413 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 1
+45414 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 1
+48415 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 1
+51432 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 2
+54433 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 2
+57434 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 2
+60435 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 2
+63436 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 2
+66437 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 2
+69438 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 2
+72439 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 2
+75440 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 2
+78441 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 2
+81442 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 2
+84443 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 2
+87444 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 2
+90445 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 2
+93454 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 3
+96455 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 3
+99456 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 3
+102458 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 3
+105458 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 3
+108459 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 3
+111461 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 3
+114462 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 3
+117463 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 3
+120464 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 3
+123465 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 3
+126466 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 3
+129466 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 3
+132468 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 3
+135483 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 4
+138484 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 4
+141485 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 4
+144486 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 4
+147487 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 4
+150488 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 4
+153489 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 4
+156490 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 4
+159491 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 4
+162492 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 4
+165493 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 4
+168494 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 4
+171496 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 4
+174497 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 4
+177515 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 5
+180516 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 5
+183517 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 5
+186518 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 5
+189519 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 5
+192520 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 5
+195522 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 5
+198523 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 5
+201525 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 5
+204526 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 5
+207527 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 5
+210528 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 5
+213529 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 5
+216530 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 5
+219545 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 6
+222546 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 6
+225546 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 6
+228547 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 6
+231548 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 6
+234550 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 6
+237551 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 6
+240552 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 6
+243553 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 6
+246554 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 6
+249555 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 6
+252556 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 6
+255557 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 6
+258558 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 6
+261571 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 7
+264572 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 7
+267573 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 7
+270574 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 7
+273575 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 7
+276576 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 7
+279577 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 7
+282578 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 7
+285579 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 7
+288580 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 7
+291581 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 7
+294582 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 7
+297583 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 7
+300584 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 7
+303601 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 8
+306602 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 8
+309604 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 8
+312605 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 8
+315605 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 8
+318606 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 8
+321607 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 8
+324609 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 8
+327610 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 8
+330611 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 8
+333612 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 8
+336613 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 8
+339614 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 8
+342615 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 8
+345630 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 9
+348631 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 9
+351632 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 9
+354633 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 9
+357634 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 9
+360635 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 9
+363636 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 9
+366637 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 9
+369637 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 9
+372638 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 9
+375639 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 9
+378640 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 9
+381641 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 9
+384642 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 9
+387656 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-9sbjd timed out (after 3000 ms), on try 10
+390657 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-28cfx timed out (after 3000 ms), on try 10
+393658 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-f8vpt timed out (after 3000 ms), on try 10
+396659 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-j2jns timed out (after 3000 ms), on try 10
+399660 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-jjl70 timed out (after 3000 ms), on try 10
+402661 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-w4h2l timed out (after 3000 ms), on try 10
+405662 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-l8d11 timed out (after 3000 ms), on try 10
+408663 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-bz63n timed out (after 3000 ms), on try 10
+411663 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-rp36w timed out (after 3000 ms), on try 10
+414664 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-wwpc6 timed out (after 3000 ms), on try 10
+417665 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ct8s0 timed out (after 3000 ms), on try 10
+420666 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-dg8f5 timed out (after 3000 ms), on try 10
+423667 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-2397063270-ddpk4 timed out (after 3000 ms), on try 10
+426668 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: JOIN(hcm-ucmdb-3263646220-nnvqq) sent to hcm-ucmdb-1318668762-0rft3 timed out (after 3000 ms), on try 10
+426668 [WARN] GMS: hcm-ucmdb-3263646220-nnvqq: too many JOIN attempts (10): becoming singleton
+[GC pause (Metadata GC Threshold) (young) (initial-mark), 0.0485858 secs]
+   [Parallel Time: 21.6 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 427368.6, Avg: 427369.1, Max: 427370.3, Diff: 1.7]
+      [Ext Root Scanning (ms): Min: 1.2, Avg: 2.7, Max: 3.7, Diff: 2.5, Sum: 21.5]
+      [Update RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Processed Buffers: Min: 0, Avg: 0.0, Max: 0, Diff: 0, Sum: 0]
+      [Scan RS (ms): Min: 0.0, Avg: 0.1, Max: 0.1, Diff: 0.1, Sum: 0.4]
+      [Code Root Scanning (ms): Min: 0.4, Avg: 4.7, Max: 14.0, Diff: 13.7, Sum: 37.5]
+      [Object Copy (ms): Min: 1.0, Avg: 10.1, Max: 15.1, Diff: 14.1, Sum: 80.7]
+      [Termination (ms): Min: 0.0, Avg: 3.3, Max: 3.8, Diff: 3.7, Sum: 26.1]
+         [Termination Attempts: Min: 1, Avg: 82.1, Max: 118, Diff: 117, Sum: 657]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.1, Diff: 0.1, Sum: 0.2]
+      [GC Worker Total (ms): Min: 19.6, Avg: 20.8, Max: 21.3, Diff: 1.7, Sum: 166.5]
+      [GC Worker End (ms): Min: 427389.9, Avg: 427389.9, Max: 427389.9, Diff: 0.0]
+   [Code Root Fixup: 1.3 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 0.9 ms]
+   [Other: 24.6 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 22.5 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.5 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 0.7 ms]
+   [Eden: 314.0M(320.0M)->0.0B(867.0M) Survivors: 16.0M->25.0M Heap: 328.6M(1024.0M)->24.5M(1024.0M)]
+ [Times: user=0.11 sys=0.03, real=0.05 secs] 
+[GC concurrent-root-region-scan-start]
+[GC concurrent-root-region-scan-end, 0.0156338 secs]
+[GC concurrent-mark-start]
+[GC concurrent-mark-end, 0.0034980 secs]
+[GC remark [Finalize Marking, 0.0009978 secs] [GC ref-proc, 0.0008352 secs] [Unloading, 0.0076793 secs], 0.0102677 secs]
+ [Times: user=0.04 sys=0.00, real=0.01 secs] 
+[GC cleanup 25M->25M(1024M), 0.0030518 secs]
+ [Times: user=0.00 sys=0.00, real=0.01 secs] 
+2018-02-26 16:40:45,897  INFO   [main] - Starting Jetty
+2018-02-26 16:40:45,956  INFO   [main] - HTTP configured on port 8080
+2018-02-26 16:40:45,968  INFO   [main] - HTTPS configured on port 8443
+2018-02-26 16:40:45,971  INFO   [main] - HTTPS with client Authentication configured on port 8444
+2018-02-26 16:40:46,152  INFO   [main] - Deployed webapp ./deploy/axis2 parentLoaderPriority=true
+2018-02-26 16:40:46,152  INFO   [main] - Deployed webapp ./deploy/cm parentLoaderPriority=true
+2018-02-26 16:40:46,153  INFO   [main] - Deployed webapp ./deploy/cp-docs parentLoaderPriority=true
+2018-02-26 16:40:46,153  INFO   [main] - Deployed webapp ./deploy/icons parentLoaderPriority=true
+2018-02-26 16:40:46,181  INFO   [main] - Deployed web archive /ucmdb/./deploy/rest-api.war parentLoaderPriority=false
+2018-02-26 16:40:46,182  INFO   [main] - Deployed web archive /ucmdb/./deploy/rest-api.war parentLoaderPriority=false
+2018-02-26 16:40:46,182  INFO   [main] - Web Archive was deployed on context path: /ucmdb-rest-api
+2018-02-26 16:40:46,183  INFO   [main] - Deployed webapp ./deploy/ucmdb parentLoaderPriority=true
+2018-02-26 16:40:46,184  INFO   [main] - Deployed webapp ./deploy/ucmdb-docs parentLoaderPriority=true
+2018-02-26 16:40:46,226  INFO   [main] - Loading extra classpath /ucmdb/./deploy/ucmdb-ui/WEB-INF/classes/struts.xml
+2018-02-26 16:40:46,226  INFO   [main] - Deployed webapp ./deploy/ucmdb-ui parentLoaderPriority=true
+2018-02-26 16:40:46,241  INFO   [main] - Deployed web archive /ucmdb/./deploy-api/ucmdb-api-8.0.war parentLoaderPriority=false
+2018-02-26 16:40:46,242  INFO   [main] - Deployed web archive /ucmdb/./deploy-api/ucmdb-api-9.0.war parentLoaderPriority=false
+2018-02-26 16:40:46,293  INFO   [main] - unrecognized component: ready. It was added with HTTP port
+2018-02-26 16:40:46,294  INFO   [main] - unrecognized component: live. It was added with HTTP port
+2018-02-26 16:40:46,295  INFO   [main] - unrecognized component: health-check. It was added with HTTP port
+2018-02-26 16:40:48,945  INFO   [main] - Jmx loader started in 2648 msec
+2018-02-26 16:40:48,945  INFO   [main] - Starting Jetty server ...
+[GC pause (G1 Evacuation Pause) (young), 0.0515770 secs]
+   [Parallel Time: 19.2 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 432998.0, Avg: 432998.2, Max: 432998.3, Diff: 0.3]
+      [Ext Root Scanning (ms): Min: 0.5, Avg: 1.4, Max: 6.3, Diff: 5.8, Sum: 11.6]
+      [Update RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Processed Buffers: Min: 0, Avg: 0.0, Max: 0, Diff: 0, Sum: 0]
+      [Scan RS (ms): Min: 0.1, Avg: 0.1, Max: 0.2, Diff: 0.2, Sum: 1.2]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 1.9, Max: 4.5, Diff: 4.5, Sum: 15.5]
+      [Object Copy (ms): Min: 12.2, Avg: 14.9, Max: 17.1, Diff: 4.9, Sum: 118.9]
+      [Termination (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.3]
+         [Termination Attempts: Min: 1, Avg: 87.9, Max: 109, Diff: 108, Sum: 703]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.3, Diff: 0.2, Sum: 1.0]
+      [GC Worker Total (ms): Min: 18.3, Avg: 18.6, Max: 18.8, Diff: 0.4, Sum: 148.5]
+      [GC Worker End (ms): Min: 433016.6, Avg: 433016.7, Max: 433016.9, Diff: 0.2]
+   [Code Root Fixup: 2.0 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 0.9 ms]
+   [Other: 29.4 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 25.8 ms]
+      [Ref Enq: 0.2 ms]
+      [Redirty Cards: 0.5 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 2.2 ms]
+   [Eden: 867.0M(867.0M)->0.0B(851.0M) Survivors: 25.0M->35.0M Heap: 891.5M(1024.0M)->34.5M(1024.0M)]
+ [Times: user=0.15 sys=0.03, real=0.05 secs] 
+[GC pause (Metadata GC Threshold) (young) (initial-mark), 0.0629644 secs]
+   [Parallel Time: 34.5 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 440152.8, Avg: 440153.7, Max: 440155.2, Diff: 2.4]
+      [Ext Root Scanning (ms): Min: 1.1, Avg: 2.2, Max: 3.8, Diff: 2.7, Sum: 18.0]
+      [Update RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Processed Buffers: Min: 0, Avg: 0.0, Max: 0, Diff: 0, Sum: 0]
+      [Scan RS (ms): Min: 0.1, Avg: 0.2, Max: 0.2, Diff: 0.1, Sum: 1.3]
+      [Code Root Scanning (ms): Min: 0.7, Avg: 4.8, Max: 11.5, Diff: 10.7, Sum: 38.4]
+      [Object Copy (ms): Min: 18.5, Avg: 25.6, Max: 30.3, Diff: 11.8, Sum: 205.1]
+      [Termination (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Termination Attempts: Min: 1, Avg: 7.1, Max: 14, Diff: 13, Sum: 57]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.2, Diff: 0.2, Sum: 0.8]
+      [GC Worker Total (ms): Min: 31.4, Avg: 33.0, Max: 33.9, Diff: 2.5, Sum: 263.6]
+      [GC Worker End (ms): Min: 440186.6, Avg: 440186.6, Max: 440186.7, Diff: 0.2]
+   [Code Root Fixup: 2.6 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 0.8 ms]
+   [Other: 25.0 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 22.2 ms]
+      [Ref Enq: 0.2 ms]
+      [Redirty Cards: 0.4 ms]
+      [Humongous Register: 0.0 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 1.5 ms]
+   [Eden: 770.0M(851.0M)->0.0B(783.0M) Survivors: 35.0M->69.0M Heap: 804.0M(1024.0M)->68.5M(1024.0M)]
+ [Times: user=0.24 sys=0.00, real=0.06 secs] 
+[GC concurrent-root-region-scan-start]
+[GC concurrent-root-region-scan-end, 0.0353657 secs]
+[GC concurrent-mark-start]
+[GC concurrent-mark-end, 0.0092254 secs]
+[GC remark [Finalize Marking, 0.0007518 secs] [GC ref-proc, 0.0007681 secs] [Unloading, 0.0089610 secs], 0.0110765 secs]
+ [Times: user=0.05 sys=0.01, real=0.01 secs] 
+[GC cleanup 70M->70M(1024M), 0.0021330 secs]
+ [Times: user=0.01 sys=0.00, real=0.00 secs] 
+DEBUG [main] (Reflections.java:185) - going to scan these urls:
+file:/ucmdb/deploy/rest-api/WEB-INF/classes/
+ INFO [main] (Reflections.java:228) - Reflections took 113 ms to scan 1 urls, producing 69 keys and 357 values 
+DEBUG [main] (Reflections.java:185) - going to scan these urls:
+file:/ucmdb/deploy/rest-api/WEB-INF/classes/
+ INFO [main] (Reflections.java:228) - Reflections took 96 ms to scan 1 urls, producing 69 keys and 357 values 
+[GC pause (G1 Evacuation Pause) (young), 0.0940096 secs]
+   [Parallel Time: 54.9 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 445700.0, Avg: 445700.4, Max: 445701.7, Diff: 1.6]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 1.3, Max: 6.5, Diff: 6.5, Sum: 10.2]
+      [Update RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Processed Buffers: Min: 0, Avg: 0.0, Max: 0, Diff: 0, Sum: 0]
+      [Scan RS (ms): Min: 0.1, Avg: 0.2, Max: 0.3, Diff: 0.2, Sum: 1.6]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 11.3, Max: 30.2, Diff: 30.2, Sum: 90.5]
+      [Object Copy (ms): Min: 21.9, Avg: 40.3, Max: 50.9, Diff: 29.0, Sum: 322.3]
+      [Termination (ms): Min: 0.0, Avg: 0.3, Max: 1.3, Diff: 1.2, Sum: 2.5]
+         [Termination Attempts: Min: 1, Avg: 244.2, Max: 361, Diff: 360, Sum: 1954]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.2, Diff: 0.2, Sum: 0.7]
+      [GC Worker Total (ms): Min: 52.2, Avg: 53.5, Max: 54.7, Diff: 2.5, Sum: 427.9]
+      [GC Worker End (ms): Min: 445753.7, Avg: 445753.9, Max: 445754.8, Diff: 1.1]
+   [Code Root Fixup: 4.5 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 0.6 ms]
+   [Other: 33.9 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 30.7 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.3 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 2.2 ms]
+   [Eden: 783.0M(783.0M)->0.0B(757.0M) Survivors: 69.0M->82.0M Heap: 851.5M(1024.0M)->82.0M(1024.0M)]
+ [Times: user=0.35 sys=0.02, real=0.10 secs] 
+2018-02-26 16:41:08,454  INFO   [main] - Jetty server started in 19 sec
+2018-02-26 16:41:23,536  INFO   [HA Heartbeat scheduler] - serverId:hcm-ucmdb-3263646220-nnvqq_1519662823667 is now the writer.
+2018-02-26 16:41:23,991  INFO   [Controller] - Starting the URM for customer: -2147483648
+[GC pause (G1 Evacuation Pause) (young), 0.1204471 secs]
+   [Parallel Time: 90.3 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 466160.5, Avg: 466161.2, Max: 466162.5, Diff: 2.0]
+      [Ext Root Scanning (ms): Min: 0.7, Avg: 5.3, Max: 19.2, Diff: 18.5, Sum: 42.5]
+      [Update RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Processed Buffers: Min: 0, Avg: 0.0, Max: 0, Diff: 0, Sum: 0]
+      [Scan RS (ms): Min: 0.1, Avg: 0.2, Max: 0.3, Diff: 0.2, Sum: 1.6]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 11.6, Max: 34.0, Diff: 34.0, Sum: 93.1]
+      [Object Copy (ms): Min: 52.2, Avg: 71.5, Max: 85.2, Diff: 33.0, Sum: 572.1]
+      [Termination (ms): Min: 0.1, Avg: 0.7, Max: 0.8, Diff: 0.7, Sum: 5.3]
+         [Termination Attempts: Min: 1, Avg: 272.1, Max: 450, Diff: 449, Sum: 2177]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.1, Diff: 0.0, Sum: 0.3]
+      [GC Worker Total (ms): Min: 88.1, Avg: 89.3, Max: 90.0, Diff: 2.0, Sum: 714.8]
+      [GC Worker End (ms): Min: 466250.5, Avg: 466250.5, Max: 466250.6, Diff: 0.0]
+   [Code Root Fixup: 5.7 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 0.7 ms]
+   [Other: 23.7 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 20.6 ms]
+      [Ref Enq: 0.2 ms]
+      [Redirty Cards: 0.5 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 1.8 ms]
+   [Eden: 757.0M(757.0M)->0.0B(734.0M) Survivors: 82.0M->88.0M Heap: 839.0M(1024.0M)->98.2M(1024.0M)]
+ [Times: user=0.46 sys=0.02, real=0.12 secs] 
+2018-02-26 16:41:24,772  INFO   [Controller] - The URM for customer: -2147483648 started in 781 msec
+2018-02-26 16:41:24,772  INFO   [Controller] - Starting the URM for customer: 1
+[GC pause (Metadata GC Threshold) (young) (initial-mark), 0.0629811 secs]
+   [Parallel Time: 55.4 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 467112.9, Avg: 467113.2, Max: 467114.9, Diff: 2.0]
+      [Ext Root Scanning (ms): Min: 0.8, Avg: 4.5, Max: 8.9, Diff: 8.1, Sum: 35.9]
+      [Update RS (ms): Min: 0.0, Avg: 0.3, Max: 1.0, Diff: 1.0, Sum: 2.4]
+         [Processed Buffers: Min: 0, Avg: 2.8, Max: 17, Diff: 17, Sum: 22]
+      [Scan RS (ms): Min: 0.0, Avg: 0.4, Max: 0.9, Diff: 0.9, Sum: 3.0]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 2.2, Max: 6.8, Diff: 6.8, Sum: 17.9]
+      [Object Copy (ms): Min: 40.0, Avg: 44.3, Max: 50.5, Diff: 10.5, Sum: 354.1]
+      [Termination (ms): Min: 0.0, Avg: 3.1, Max: 3.7, Diff: 3.7, Sum: 25.2]
+         [Termination Attempts: Min: 1, Avg: 34.6, Max: 69, Diff: 68, Sum: 277]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.1, Diff: 0.1, Sum: 0.4]
+      [GC Worker Total (ms): Min: 53.1, Avg: 54.9, Max: 55.2, Diff: 2.1, Sum: 438.9]
+      [GC Worker End (ms): Min: 467168.1, Avg: 467168.1, Max: 467168.1, Diff: 0.1]
+   [Code Root Fixup: 3.2 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 0.5 ms]
+   [Other: 3.8 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 1.8 ms]
+      [Ref Enq: 0.0 ms]
+      [Redirty Cards: 0.6 ms]
+      [Humongous Register: 0.0 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 0.6 ms]
+   [Eden: 94.0M(734.0M)->0.0B(717.0M) Survivors: 88.0M->77.0M Heap: 191.6M(1024.0M)->126.0M(1024.0M)]
+ [Times: user=0.31 sys=0.03, real=0.06 secs] 
+[GC concurrent-root-region-scan-start]
+[GC concurrent-root-region-scan-end, 0.0343142 secs]
+[GC concurrent-mark-start]
+[GC concurrent-mark-end, 0.0855231 secs]
+[GC remark [Finalize Marking, 0.0011576 secs] [GC ref-proc, 0.0019991 secs] [Unloading, 0.0155409 secs], 0.0197587 secs]
+ [Times: user=0.08 sys=0.00, real=0.02 secs] 
+[GC cleanup 131M->131M(1024M), 0.0028004 secs]
+ [Times: user=0.01 sys=0.00, real=0.01 secs] 
+[GC pause (G1 Evacuation Pause) (young) (initial-mark), 0.1081348 secs]
+   [Parallel Time: 86.2 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 470615.5, Avg: 470616.0, Max: 470616.5, Diff: 1.0]
+      [Ext Root Scanning (ms): Min: 7.4, Avg: 12.4, Max: 20.6, Diff: 13.2, Sum: 99.5]
+      [Update RS (ms): Min: 0.0, Avg: 0.9, Max: 2.1, Diff: 2.1, Sum: 7.4]
+         [Processed Buffers: Min: 0, Avg: 3.0, Max: 10, Diff: 10, Sum: 24]
+      [Scan RS (ms): Min: 0.1, Avg: 1.2, Max: 1.6, Diff: 1.5, Sum: 9.2]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 2.9, Max: 11.4, Diff: 11.4, Sum: 23.4]
+      [Object Copy (ms): Min: 51.4, Avg: 63.2, Max: 69.4, Diff: 18.0, Sum: 505.3]
+      [Termination (ms): Min: 0.0, Avg: 4.2, Max: 4.8, Diff: 4.8, Sum: 33.4]
+         [Termination Attempts: Min: 1, Avg: 32.0, Max: 56, Diff: 55, Sum: 256]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.3, Max: 2.2, Diff: 2.2, Sum: 2.7]
+      [GC Worker Total (ms): Min: 84.6, Avg: 85.1, Max: 85.6, Diff: 1.0, Sum: 680.8]
+      [GC Worker End (ms): Min: 470701.1, Avg: 470701.1, Max: 470701.1, Diff: 0.1]
+   [Code Root Fixup: 2.1 ms]
+   [Code Root Purge: 0.2 ms]
+   [Clear CT: 1.2 ms]
+   [Other: 18.5 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 14.5 ms]
+      [Ref Enq: 0.2 ms]
+      [Redirty Cards: 0.9 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 1.7 ms]
+   [Eden: 717.0M(717.0M)->0.0B(720.0M) Survivors: 77.0M->59.0M Heap: 843.0M(1024.0M)->141.5M(1024.0M)]
+ [Times: user=0.40 sys=0.04, real=0.11 secs] 
+[GC concurrent-root-region-scan-start]
+[GC concurrent-root-region-scan-end, 0.0274261 secs]
+[GC concurrent-mark-start]
+[GC concurrent-mark-end, 0.2831980 secs]
+[GC remark [Finalize Marking, 0.0113383 secs] [GC ref-proc, 0.0030403 secs] [Unloading, 0.0181529 secs], 0.0334480 secs]
+ [Times: user=0.08 sys=0.00, real=0.03 secs] 
+[GC cleanup 195M->195M(1024M), 0.0023445 secs]
+ [Times: user=0.01 sys=0.00, real=0.00 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.0395883 secs]
+   [Parallel Time: 29.1 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 474127.0, Avg: 474129.8, Max: 474139.8, Diff: 12.8]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 1.3, Max: 3.5, Diff: 3.5, Sum: 10.1]
+      [Update RS (ms): Min: 0.0, Avg: 0.7, Max: 1.4, Diff: 1.4, Sum: 5.5]
+         [Processed Buffers: Min: 0, Avg: 2.4, Max: 7, Diff: 7, Sum: 19]
+      [Scan RS (ms): Min: 0.1, Avg: 1.0, Max: 3.8, Diff: 3.7, Sum: 7.8]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 0.2, Max: 0.6, Diff: 0.6, Sum: 1.9]
+      [Object Copy (ms): Min: 14.8, Avg: 21.7, Max: 23.9, Diff: 9.1, Sum: 173.6]
+      [Termination (ms): Min: 0.0, Avg: 0.2, Max: 0.4, Diff: 0.4, Sum: 2.0]
+         [Termination Attempts: Min: 1, Avg: 1.0, Max: 1, Diff: 0, Sum: 8]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.2, Diff: 0.2, Sum: 0.6]
+      [GC Worker Total (ms): Min: 15.2, Avg: 25.2, Max: 28.0, Diff: 12.8, Sum: 201.4]
+      [GC Worker End (ms): Min: 474154.9, Avg: 474155.0, Max: 474155.1, Diff: 0.2]
+   [Code Root Fixup: 0.4 ms]
+   [Code Root Purge: 0.0 ms]
+   [Clear CT: 0.7 ms]
+   [Other: 9.3 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 7.3 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.4 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 1.0 ms]
+   [Eden: 720.0M(720.0M)->0.0B(740.0M) Survivors: 59.0M->23.0M Heap: 861.5M(1024.0M)->150.0M(1024.0M)]
+ [Times: user=0.21 sys=0.01, real=0.04 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.0410338 secs]
+   [Parallel Time: 30.6 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 477384.4, Avg: 477389.8, Max: 477394.7, Diff: 10.3]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 1.1, Max: 4.2, Diff: 4.2, Sum: 8.7]
+      [Update RS (ms): Min: 0.0, Avg: 2.8, Max: 9.5, Diff: 9.5, Sum: 22.3]
+         [Processed Buffers: Min: 0, Avg: 3.1, Max: 12, Diff: 12, Sum: 25]
+      [Scan RS (ms): Min: 0.1, Avg: 0.5, Max: 0.8, Diff: 0.7, Sum: 3.6]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 0.5, Max: 2.3, Diff: 2.3, Sum: 4.0]
+      [Object Copy (ms): Min: 13.6, Avg: 18.4, Max: 20.6, Diff: 7.0, Sum: 147.0]
+      [Termination (ms): Min: 0.0, Avg: 1.0, Max: 1.9, Diff: 1.9, Sum: 7.8]
+         [Termination Attempts: Min: 1, Avg: 15.5, Max: 26, Diff: 25, Sum: 124]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.2, Diff: 0.2, Sum: 0.6]
+      [GC Worker Total (ms): Min: 19.2, Avg: 24.2, Max: 29.5, Diff: 10.3, Sum: 194.0]
+      [GC Worker End (ms): Min: 477413.9, Avg: 477414.1, Max: 477414.8, Diff: 0.9]
+   [Code Root Fixup: 0.4 ms]
+   [Code Root Purge: 0.0 ms]
+   [Clear CT: 0.8 ms]
+   [Other: 9.3 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 6.7 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.6 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 1.3 ms]
+   [Eden: 740.0M(740.0M)->0.0B(727.0M) Survivors: 23.0M->33.0M Heap: 890.0M(1024.0M)->160.5M(1024.0M)]
+ [Times: user=0.17 sys=0.00, real=0.04 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.0266588 secs]
+   [Parallel Time: 16.9 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 479436.6, Avg: 479437.2, Max: 479439.3, Diff: 2.7]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 1.0, Max: 2.6, Diff: 2.6, Sum: 8.3]
+      [Update RS (ms): Min: 0.0, Avg: 0.5, Max: 0.9, Diff: 0.9, Sum: 4.0]
+         [Processed Buffers: Min: 0, Avg: 2.4, Max: 4, Diff: 4, Sum: 19]
+      [Scan RS (ms): Min: 0.1, Avg: 0.1, Max: 0.2, Diff: 0.2, Sum: 1.1]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 0.5, Max: 2.5, Diff: 2.5, Sum: 3.6]
+      [Object Copy (ms): Min: 11.8, Avg: 13.6, Max: 14.3, Diff: 2.4, Sum: 109.0]
+      [Termination (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.1]
+         [Termination Attempts: Min: 1, Avg: 38.2, Max: 48, Diff: 47, Sum: 306]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.3, Diff: 0.2, Sum: 1.0]
+      [GC Worker Total (ms): Min: 13.8, Avg: 15.9, Max: 16.4, Diff: 2.6, Sum: 127.1]
+      [GC Worker End (ms): Min: 479453.0, Avg: 479453.1, Max: 479453.2, Diff: 0.2]
+   [Code Root Fixup: 0.5 ms]
+   [Code Root Purge: 0.0 ms]
+   [Clear CT: 0.7 ms]
+   [Other: 8.6 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 6.7 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.4 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 0.9 ms]
+   [Eden: 727.0M(727.0M)->0.0B(719.0M) Survivors: 33.0M->37.0M Heap: 887.5M(1024.0M)->164.0M(1024.0M)]
+ [Times: user=0.13 sys=0.00, real=0.03 secs] 
+2018-02-26 16:41:38,908  INFO   [Controller] - The URM for customer: 1 started in 14136 msec
+[GC pause (G1 Evacuation Pause) (young), 0.0680710 secs]
+   [Parallel Time: 48.6 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 484769.7, Avg: 484777.0, Max: 484783.7, Diff: 14.1]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 3.8, Max: 9.2, Diff: 9.2, Sum: 30.1]
+      [Update RS (ms): Min: 0.0, Avg: 2.4, Max: 3.7, Diff: 3.7, Sum: 19.3]
+         [Processed Buffers: Min: 0, Avg: 18.6, Max: 33, Diff: 33, Sum: 149]
+      [Scan RS (ms): Min: 0.1, Avg: 0.2, Max: 0.3, Diff: 0.2, Sum: 1.3]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 2.5, Max: 9.4, Diff: 9.4, Sum: 20.4]
+      [Object Copy (ms): Min: 24.9, Avg: 31.8, Max: 34.5, Diff: 9.7, Sum: 254.4]
+      [Termination (ms): Min: 0.0, Avg: 0.3, Max: 0.3, Diff: 0.3, Sum: 2.1]
+         [Termination Attempts: Min: 1, Avg: 3.5, Max: 7, Diff: 6, Sum: 28]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.1, Diff: 0.1, Sum: 0.4]
+      [GC Worker Total (ms): Min: 34.3, Avg: 41.0, Max: 48.3, Diff: 14.0, Sum: 327.9]
+      [GC Worker End (ms): Min: 484817.9, Avg: 484817.9, Max: 484818.0, Diff: 0.1]
+   [Code Root Fixup: 0.6 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 0.8 ms]
+   [Other: 18.0 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 15.3 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.5 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.1 ms]
+      [Free CSet: 1.1 ms]
+   [Eden: 719.0M(719.0M)->0.0B(644.0M) Survivors: 37.0M->70.0M Heap: 892.1M(1024.0M)->205.5M(1024.0M)]
+ [Times: user=0.32 sys=0.00, real=0.07 secs] 
+Could not update secret: ERROR: appRole itom-itsma-config doesn't exist or don't have permission to read info from appRole itom-itsma-config
+Could not update secret: ERROR: appRole itom-itsma-config doesn't exist or don't have permission to read info from appRole itom-itsma-config
+2018-02-26 16:42:08,402  INFO   [Controller] - Customer [1] **** All components started ****
+**************************** StartUp statistics (ordered by start up time): ****************************
+	histDB                            23958 msec
+	licensing                          5240 msec
+	mapping-engine                     4954 msec
+	autodiscovery                      1463 msec
+	framework                          1453 msec
+	scheduler                          1350 msec
+	classModel                         1096 msec
+	model_topology                     1093 msec
+	report                              942 msec
+	tql_res_utils                       938 msec
+	docker                              856 msec
+	cmdb_mod_not                        818 msec
+	fcmdb-config                        393 msec
+	softwarelibrary                     255 msec
+	folders                             240 msec
+	model_transformation                229 msec
+	view                                211 msec
+	data-acquisition                    194 msec
+	authorization                       193 msec
+	packaging                           168 msec
+	correlation                         164 msec
+	cmdb_view                           161 msec
+	impact                              140 msec
+	model_statistics                    139 msec
+	state_management                    136 msec
+	reconciliation_conf                 128 msec
+	enrichment                          117 msec
+	cla_queue                            98 msec
+	model                                92 msec
+	grouping                             76 msec
+	tql_tracker                          55 msec
+	offline_tql                          51 msec
+	tql                                  43 msec
+	reconciliation                       28 msec
+	model_update                         28 msec
+	configuration                        26 msec
+	browser_resources                    25 msec
+	topology-search                      21 msec
+	generic_adapter_manager              17 msec
+	cmdb_sys_tqls                        16 msec
+	fcmdb-management                     16 msec
+	cmdb_widget_tracker                  15 msec
+	msg_sync                              8 msec
+	cla_statistics                        6 msec
+	system-health                         3 msec
+	content-install                       1 msec
+	world                                 0 msec
+
+Attempting to load ESAPI.properties via file I/O.
+Attempting to load ESAPI.properties as resource file via file I/O.
+Found in 'org.owasp.esapi.resources' directory: /ucmdb/./conf/esapi/ESAPI.properties
+Loaded 'ESAPI.properties' properties file
+Attempting to load ESAPI_validation.properties via file I/O.
+Attempting to load ESAPI_validation.properties as resource file via file I/O.
+Found in 'org.owasp.esapi.resources' directory: /ucmdb/./conf/esapi/ESAPI_validation.properties
+Loaded 'ESAPI_validation.properties' properties file
+[GC pause (G1 Evacuation Pause) (young), 0.0721438 secs]
+   [Parallel Time: 39.8 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 522825.4, Avg: 522826.7, Max: 522830.2, Diff: 4.8]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 1.9, Max: 5.1, Diff: 5.0, Sum: 15.2]
+      [Update RS (ms): Min: 0.0, Avg: 1.0, Max: 2.0, Diff: 2.0, Sum: 7.7]
+         [Processed Buffers: Min: 0, Avg: 17.4, Max: 44, Diff: 44, Sum: 139]
+      [Scan RS (ms): Min: 0.2, Avg: 0.9, Max: 1.2, Diff: 1.0, Sum: 6.8]
+      [Code Root Scanning (ms): Min: 0.1, Avg: 2.4, Max: 10.7, Diff: 10.6, Sum: 18.9]
+      [Object Copy (ms): Min: 23.4, Avg: 31.8, Max: 34.3, Diff: 10.9, Sum: 254.4]
+      [Termination (ms): Min: 0.0, Avg: 0.3, Max: 0.4, Diff: 0.4, Sum: 2.2]
+         [Termination Attempts: Min: 1, Avg: 36.9, Max: 53, Diff: 52, Sum: 295]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.1, Diff: 0.1, Sum: 0.3]
+      [GC Worker Total (ms): Min: 34.7, Avg: 38.2, Max: 39.5, Diff: 4.8, Sum: 305.5]
+      [GC Worker End (ms): Min: 522864.9, Avg: 522864.9, Max: 522865.0, Diff: 0.1]
+   [Code Root Fixup: 1.3 ms]
+   [Code Root Purge: 0.2 ms]
+   [Clear CT: 0.9 ms]
+   [Other: 29.9 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 27.6 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.3 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.2 ms]
+      [Free CSet: 1.0 ms]
+   [Eden: 644.0M(644.0M)->0.0B(595.0M) Survivors: 70.0M->78.0M Heap: 922.0M(1024.0M)->254.6M(1043.0M)]
+ [Times: user=0.29 sys=0.02, real=0.07 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.1009114 secs]
+   [Parallel Time: 62.8 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 532842.8, Avg: 532843.7, Max: 532844.8, Diff: 2.0]
+      [Ext Root Scanning (ms): Min: 7.7, Avg: 9.8, Max: 14.5, Diff: 6.7, Sum: 78.5]
+      [Update RS (ms): Min: 0.0, Avg: 1.0, Max: 1.7, Diff: 1.7, Sum: 8.1]
+         [Processed Buffers: Min: 0, Avg: 7.4, Max: 17, Diff: 17, Sum: 59]
+      [Scan RS (ms): Min: 0.3, Avg: 4.0, Max: 5.3, Diff: 5.0, Sum: 31.7]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 3.2, Max: 16.3, Diff: 16.2, Sum: 25.9]
+      [Object Copy (ms): Min: 33.9, Avg: 42.3, Max: 45.3, Diff: 11.4, Sum: 338.5]
+      [Termination (ms): Min: 0.0, Avg: 0.8, Max: 1.3, Diff: 1.3, Sum: 6.6]
+         [Termination Attempts: Min: 1, Avg: 5.6, Max: 10, Diff: 9, Sum: 45]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.1, Diff: 0.0, Sum: 0.3]
+      [GC Worker Total (ms): Min: 60.0, Avg: 61.2, Max: 62.1, Diff: 2.1, Sum: 489.7]
+      [GC Worker End (ms): Min: 532904.8, Avg: 532904.9, Max: 532905.2, Diff: 0.4]
+   [Code Root Fixup: 1.5 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 1.5 ms]
+   [Other: 35.0 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 31.4 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 1.0 ms]
+      [Humongous Register: 0.2 ms]
+      [Humongous Reclaim: 0.1 ms]
+      [Free CSet: 1.4 ms]
+   [Eden: 595.0M(595.0M)->0.0B(618.0M) Survivors: 78.0M->47.0M Heap: 850.6M(1043.0M)->263.3M(1043.0M)]
+ [Times: user=0.36 sys=0.01, real=0.10 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.0352419 secs]
+   [Parallel Time: 14.8 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 553614.5, Avg: 553614.7, Max: 553615.0, Diff: 0.5]
+      [Ext Root Scanning (ms): Min: 1.6, Avg: 2.4, Max: 4.1, Diff: 2.5, Sum: 19.0]
+      [Update RS (ms): Min: 0.6, Avg: 1.8, Max: 2.1, Diff: 1.5, Sum: 14.3]
+         [Processed Buffers: Min: 4, Avg: 10.8, Max: 18, Diff: 14, Sum: 86]
+      [Scan RS (ms): Min: 0.9, Avg: 1.5, Max: 1.8, Diff: 0.9, Sum: 12.2]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 0.5, Max: 1.4, Diff: 1.4, Sum: 4.0]
+      [Object Copy (ms): Min: 7.2, Avg: 7.7, Max: 8.2, Diff: 1.0, Sum: 61.7]
+      [Termination (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Termination Attempts: Min: 1, Avg: 7.8, Max: 14, Diff: 13, Sum: 62]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.2, Max: 0.4, Diff: 0.3, Sum: 1.4]
+      [GC Worker Total (ms): Min: 13.7, Avg: 14.1, Max: 14.4, Diff: 0.7, Sum: 112.6]
+      [GC Worker End (ms): Min: 553628.6, Avg: 553628.8, Max: 553629.0, Diff: 0.3]
+   [Code Root Fixup: 1.7 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 1.0 ms]
+   [Other: 17.6 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 14.6 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.6 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.1 ms]
+      [Free CSet: 1.3 ms]
+   [Eden: 618.0M(618.0M)->0.0B(638.0M) Survivors: 47.0M->37.0M Heap: 881.3M(1043.0M)->253.3M(1043.0M)]
+ [Times: user=0.13 sys=0.00, real=0.03 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.0315575 secs]
+   [Parallel Time: 12.0 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 658766.3, Avg: 658766.6, Max: 658767.1, Diff: 0.8]
+      [Ext Root Scanning (ms): Min: 0.4, Avg: 1.4, Max: 3.9, Diff: 3.5, Sum: 10.8]
+      [Update RS (ms): Min: 0.0, Avg: 0.9, Max: 1.3, Diff: 1.3, Sum: 7.4]
+         [Processed Buffers: Min: 0, Avg: 10.2, Max: 23, Diff: 23, Sum: 82]
+      [Scan RS (ms): Min: 0.2, Avg: 1.0, Max: 1.5, Diff: 1.3, Sum: 8.0]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 1.2, Max: 1.9, Diff: 1.9, Sum: 9.4]
+      [Object Copy (ms): Min: 6.3, Avg: 6.8, Max: 7.3, Diff: 0.9, Sum: 54.1]
+      [Termination (ms): Min: 0.0, Avg: 0.1, Max: 0.1, Diff: 0.1, Sum: 0.7]
+         [Termination Attempts: Min: 1, Avg: 10.9, Max: 16, Diff: 15, Sum: 87]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.3, Diff: 0.3, Sum: 1.2]
+      [GC Worker Total (ms): Min: 10.8, Avg: 11.5, Max: 11.9, Diff: 1.1, Sum: 91.6]
+      [GC Worker End (ms): Min: 658777.9, Avg: 658778.0, Max: 658778.2, Diff: 0.3]
+   [Code Root Fixup: 2.3 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 1.1 ms]
+   [Other: 16.1 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 13.1 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.6 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.1 ms]
+      [Free CSet: 1.5 ms]
+   [Eden: 638.0M(638.0M)->0.0B(626.0M) Survivors: 37.0M->43.0M Heap: 891.3M(1043.0M)->259.3M(1043.0M)]
+ [Times: user=0.11 sys=0.00, real=0.03 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.0395528 secs]
+   [Parallel Time: 18.9 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 705616.9, Avg: 705617.8, Max: 705620.7, Diff: 3.8]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 1.4, Max: 3.6, Diff: 3.6, Sum: 11.0]
+      [Update RS (ms): Min: 0.0, Avg: 1.0, Max: 1.8, Diff: 1.8, Sum: 8.3]
+         [Processed Buffers: Min: 0, Avg: 8.1, Max: 22, Diff: 22, Sum: 65]
+      [Scan RS (ms): Min: 0.2, Avg: 0.8, Max: 1.1, Diff: 0.9, Sum: 6.3]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 2.3, Max: 11.2, Diff: 11.2, Sum: 18.5]
+      [Object Copy (ms): Min: 0.6, Avg: 9.0, Max: 12.2, Diff: 11.6, Sum: 71.7]
+      [Termination (ms): Min: 0.0, Avg: 1.4, Max: 1.7, Diff: 1.7, Sum: 11.3]
+         [Termination Attempts: Min: 1, Avg: 15.6, Max: 23, Diff: 22, Sum: 125]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.4, Max: 1.1, Diff: 1.1, Sum: 3.5]
+      [GC Worker Total (ms): Min: 13.1, Avg: 16.3, Max: 17.9, Diff: 4.8, Sum: 130.6]
+      [GC Worker End (ms): Min: 705633.8, Avg: 705634.2, Max: 705634.9, Diff: 1.1]
+   [Code Root Fixup: 1.1 ms]
+   [Code Root Purge: 0.0 ms]
+   [Clear CT: 0.5 ms]
+   [Other: 19.0 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 17.3 ms]
+      [Ref Enq: 0.0 ms]
+      [Redirty Cards: 0.3 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.0 ms]
+      [Free CSet: 0.8 ms]
+   [Eden: 626.0M(626.0M)->0.0B(628.0M) Survivors: 43.0M->42.0M Heap: 885.3M(1043.0M)->258.3M(1043.0M)]
+ [Times: user=0.15 sys=0.01, real=0.04 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.0531030 secs]
+   [Parallel Time: 44.1 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 751343.9, Avg: 751347.5, Max: 751361.8, Diff: 17.9]
+      [Ext Root Scanning (ms): Min: 0.1, Avg: 1.4, Max: 4.0, Diff: 3.9, Sum: 11.3]
+      [Update RS (ms): Min: 0.0, Avg: 0.9, Max: 1.7, Diff: 1.7, Sum: 7.6]
+         [Processed Buffers: Min: 0, Avg: 10.8, Max: 38, Diff: 38, Sum: 86]
+      [Scan RS (ms): Min: 0.1, Avg: 3.3, Max: 4.5, Diff: 4.4, Sum: 26.1]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 0.6, Max: 1.5, Diff: 1.5, Sum: 4.8]
+      [Object Copy (ms): Min: 25.5, Avg: 33.7, Max: 35.7, Diff: 10.2, Sum: 269.3]
+      [Termination (ms): Min: 0.1, Avg: 0.3, Max: 0.5, Diff: 0.3, Sum: 2.6]
+         [Termination Attempts: Min: 1, Avg: 606.5, Max: 815, Diff: 814, Sum: 4852]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.2]
+      [GC Worker Total (ms): Min: 25.9, Avg: 40.2, Max: 43.8, Diff: 18.0, Sum: 321.9]
+      [GC Worker End (ms): Min: 751387.6, Avg: 751387.7, Max: 751387.9, Diff: 0.3]
+   [Code Root Fixup: 1.1 ms]
+   [Code Root Purge: 0.0 ms]
+   [Clear CT: 0.7 ms]
+   [Other: 7.1 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 4.8 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.4 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.1 ms]
+      [Free CSet: 1.1 ms]
+   [Eden: 628.0M(628.0M)->0.0B(556.0M) Survivors: 42.0M->75.0M Heap: 897.8M(1043.0M)->295.6M(1043.0M)]
+ [Times: user=0.28 sys=0.01, real=0.05 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.1191870 secs]
+   [Parallel Time: 104.2 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 881602.3, Avg: 881609.3, Max: 881620.0, Diff: 17.7]
+      [Ext Root Scanning (ms): Min: 0.1, Avg: 2.8, Max: 8.2, Diff: 8.1, Sum: 22.2]
+      [Update RS (ms): Min: 0.0, Avg: 6.5, Max: 26.2, Diff: 26.2, Sum: 51.8]
+         [Processed Buffers: Min: 0, Avg: 14.0, Max: 36, Diff: 36, Sum: 112]
+      [Scan RS (ms): Min: 0.1, Avg: 6.1, Max: 8.6, Diff: 8.5, Sum: 48.9]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 1.8, Max: 6.2, Diff: 6.2, Sum: 14.2]
+      [Object Copy (ms): Min: 66.9, Avg: 77.3, Max: 80.8, Diff: 13.9, Sum: 618.2]
+      [Termination (ms): Min: 1.3, Avg: 2.1, Max: 3.7, Diff: 2.5, Sum: 16.4]
+         [Termination Attempts: Min: 1, Avg: 685.2, Max: 1109, Diff: 1108, Sum: 5482]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.1, Max: 0.4, Diff: 0.3, Sum: 1.0]
+      [GC Worker Total (ms): Min: 85.8, Avg: 96.6, Max: 103.8, Diff: 18.0, Sum: 772.8]
+      [GC Worker End (ms): Min: 881705.8, Avg: 881705.9, Max: 881706.1, Diff: 0.3]
+   [Code Root Fixup: 2.5 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 1.0 ms]
+   [Other: 11.4 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 8.0 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.9 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.1 ms]
+      [Free CSet: 1.4 ms]
+   [Eden: 556.0M(556.0M)->0.0B(594.0M) Survivors: 75.0M->44.0M Heap: 851.6M(1043.0M)->289.0M(1043.0M)]
+ [Times: user=0.61 sys=0.01, real=0.12 secs] 
+[GC pause (G1 Evacuation Pause) (young), 0.1163282 secs]
+   [Parallel Time: 94.5 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 1335778.8, Avg: 1335779.4, Max: 1335781.5, Diff: 2.8]
+      [Ext Root Scanning (ms): Min: 0.0, Avg: 1.8, Max: 3.9, Diff: 3.8, Sum: 14.0]
+      [Update RS (ms): Min: 0.0, Avg: 2.4, Max: 9.0, Diff: 9.0, Sum: 19.4]
+         [Processed Buffers: Min: 0, Avg: 15.5, Max: 30, Diff: 30, Sum: 124]
+      [Scan RS (ms): Min: 0.3, Avg: 5.2, Max: 6.3, Diff: 6.0, Sum: 41.6]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 2.0, Max: 7.5, Diff: 7.5, Sum: 16.3]
+      [Object Copy (ms): Min: 68.7, Avg: 74.8, Max: 82.5, Diff: 13.8, Sum: 598.5]
+      [Termination (ms): Min: 0.3, Avg: 6.2, Max: 7.2, Diff: 6.9, Sum: 49.4]
+         [Termination Attempts: Min: 1, Avg: 396.6, Max: 621, Diff: 620, Sum: 3173]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.1, Diff: 0.0, Sum: 0.3]
+      [GC Worker Total (ms): Min: 90.3, Avg: 92.4, Max: 93.0, Diff: 2.7, Sum: 739.4]
+      [GC Worker End (ms): Min: 1335871.8, Avg: 1335871.8, Max: 1335871.9, Diff: 0.1]
+   [Code Root Fixup: 1.9 ms]
+   [Code Root Purge: 0.1 ms]
+   [Clear CT: 1.1 ms]
+   [Other: 18.8 ms]
+      [Choose CSet: 0.0 ms]
+      [Ref Proc: 16.0 ms]
+      [Ref Enq: 0.1 ms]
+      [Redirty Cards: 0.6 ms]
+      [Humongous Register: 0.1 ms]
+      [Humongous Reclaim: 0.1 ms]
+      [Free CSet: 1.3 ms]
+   [Eden: 594.0M(594.0M)->0.0B(584.0M) Survivors: 44.0M->49.0M Heap: 883.0M(1043.0M)->293.5M(1043.0M)]
+ [Times: user=0.63 sys=0.02, real=0.12 secs] 

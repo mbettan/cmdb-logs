@@ -1,0 +1,37 @@
+
+************************ Statistics from 2018-02-26 01:00:00.002 until 2018-02-26 01:15:00.004 ************************
+Operations executed: 8306
+Different operation types executed: 10
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:      10 # On: 2018-02-26 01:02:57.769 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 01:08:40.001 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 01:02:56.877 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       1 # On: 2018-02-26 01:00:36.128 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 01:00:36.078 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 01:00:36.229 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 01:00:36.026 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 01:00:36.100 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 01:00:36.246 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 01:00:36.081 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+ *** All operations statistics ***
+# Avg (ms):       8 # Max (ms):      10 # Count:     3 # Last called: 2018-02-26 01:08:40.001 # getAll [Topology_TQL]
+# Avg (ms):       0 # Max (ms):       0 # Count:    20 # Last called: 2018-02-26 01:13:17.275 # getAll [Settings_DYNAMIC_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:  6892 # Last called: 2018-02-26 01:00:37.267 # getAllByIndex [History_HIST_PARTITIONS]
+# Avg (ms):       0 # Max (ms):       1 # Count:     4 # Last called: 2018-02-26 01:13:40.072 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   317 # Last called: 2018-02-26 01:14:55.308 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   770 # Last called: 2018-02-26 01:14:55.308 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 01:00:33.712 # getAll [Auth_USER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   180 # Last called: 2018-02-26 01:14:38.067 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):       1 # Count:   113 # Last called: 2018-02-26 01:14:55.308 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       0 # Count:     6 # Last called: 2018-02-26 01:00:33.712 # getAllByIndex [UI_CI_CATEGORY_ASSIGNMENT]

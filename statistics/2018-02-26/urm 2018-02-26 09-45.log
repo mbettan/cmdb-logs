@@ -1,0 +1,34 @@
+
+************************ Statistics from 2018-02-26 09:30:00.007 until 2018-02-26 09:45:00.006 ************************
+Operations executed: 1406
+Different operation types executed: 7
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:       9 # On: 2018-02-26 09:32:57.769 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       9 # On: 2018-02-26 09:32:56.878 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 09:38:40.001 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       1 # On: 2018-02-26 09:31:17.111 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       1 # On: 2018-02-26 09:36:33.931 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       1 # On: 2018-02-26 09:37:17.119 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+# Millis:       1 # On: 2018-02-26 09:37:16.340 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+# Millis:       1 # On: 2018-02-26 09:36:53.161 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+# Millis:       1 # On: 2018-02-26 09:36:55.353 # getAll [Settings_LDAP_SETTING]
+getAll [Settings_LDAP_SETTING]
+# Millis:       1 # On: 2018-02-26 09:30:53.393 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+ *** All operations statistics ***
+# Avg (ms):       8 # Max (ms):       9 # Count:     3 # Last called: 2018-02-26 09:38:40.001 # getAll [Topology_TQL]
+# Avg (ms):       0 # Max (ms):       0 # Count:    20 # Last called: 2018-02-26 09:43:17.258 # getAll [Settings_DYNAMIC_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:   317 # Last called: 2018-02-26 09:44:55.353 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   113 # Last called: 2018-02-26 09:44:55.353 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 09:43:40.082 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   770 # Last called: 2018-02-26 09:44:55.353 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:   180 # Last called: 2018-02-26 09:44:38.601 # getAll [License_LICENSE]

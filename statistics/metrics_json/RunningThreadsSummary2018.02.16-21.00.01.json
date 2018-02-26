@@ -1,0 +1,22 @@
+[
+  {
+    "threadId": 78957,
+    "threadName": "qtp1607453282-78957",
+    "operationStack": [
+      {
+        "startTime": 1518814784976,
+        "subsystem": "Core quary task",
+        "synchronic": true,
+        "id": "40083c0d75d263c4a21b6bc198c83cf0",
+        "message": "General CMDB request",
+        "operationName": "CoreOperationGetLicenseMiscInformation",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "loggedInUser": "UISysadmin",
+        "callerApplication": "UCMDB Browser on hcm-ucmdb-browser-608055954-4t9n4: integration user,loggedInUser:{UISysadmin###UCMDB}"
+      }
+    ]
+  }
+]

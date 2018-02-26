@@ -1,0 +1,3 @@
+Type,Name,Package,Existence Status,Equality Status,Merge Strategy,Conflict Strategy,Final Strategy
+adapterCode,BSMKpiAdapter/bsm-kpi-adapter.jar,BsmKpiAdapter.zip,NEW,,,,USE_NEW
+discoveryPatterns,BSMKpiAdapter.xml,BsmKpiAdapter.zip,NEW,,,,USE_NEW

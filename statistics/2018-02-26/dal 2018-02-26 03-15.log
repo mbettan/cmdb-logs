@@ -1,0 +1,37 @@
+
+************************ Statistics from 2018-02-26 03:00:00.006 until 2018-02-26 03:15:00.006 ************************
+Operations executed: 573
+Different operation types executed: 10
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:       8 # On: 2018-02-26 03:07:47.569 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       5 # On: 2018-02-26 03:04:16.958 # select * from CUSTOMER_REGISTRATION order by ID
+null
+# Millis:       4 # On: 2018-02-26 03:06:17.567 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 03:04:17.566 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 03:09:17.568 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 03:07:17.567 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 03:05:17.567 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 03:03:02.566 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 03:01:17.565 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 03:10:17.569 # SELECT * FROM HA_WRITER for update
+null
+ *** All operations statistics ***
+# Avg (ms):       2 # Max (ms):       2 # Count:     1 # Last called: 2018-02-26 03:00:35.319 # SELECT r.result_id as result_id, r.tql_name as tql_name, r.timestamp as timestamp, r.status as status, r.ret_key as ret_key, q.qualifier as qualifier FROM tql_tracker_results r LEFT OUTER JOIN tql_tracker_qualifiers q ON r.result_id = q.result_id AND q.customer_id = r.customer_id WHERE r.customer_id = ? AND r.timestamp < ? AND r.status = 'done' ORDER BY r.timestamp desc
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 03:00:35.316 # select * from DB_CONTEXT where SCHEMA_TYPE=? and CONFIG_ID=?
+# Avg (ms):       1 # Max (ms):       8 # Count:    60 # Last called: 2018-02-26 03:14:47.571 # SELECT * FROM HA_WRITER for update
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 03:00:35.313 # select * from CUSTOMER_REGISTRATION where ID=?
+# Avg (ms):       0 # Max (ms):       5 # Count:   140 # Last called: 2018-02-26 03:14:50.088 # select * from CUSTOMER_REGISTRATION order by ID
+# Avg (ms):       0 # Max (ms):       2 # Count:    60 # Last called: 2018-02-26 03:14:47.573 # UPDATE HA_WRITER SET SERVER_ID=?,TIMESTAMP=?,SUGGESTED_SERVER_ID=?,SUGGESTION_TIMESTAMP=?
+# Avg (ms):       0 # Max (ms):       1 # Count:    60 # Last called: 2018-02-26 03:14:47.573 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)
+# Avg (ms):       0 # Max (ms):       1 # Count:    30 # Last called: 2018-02-26 03:14:35.096 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+# Avg (ms):       0 # Max (ms):       1 # Count:    80 # Last called: 2018-02-26 03:14:50.089 # select * from DB_CONTEXT
+# Avg (ms):       0 # Max (ms):       1 # Count:   140 # Last called: 2018-02-26 03:14:50.091 # select IS_ACTIVE from CUSTOMER_REGISTRATION where ID=?

@@ -1,0 +1,21 @@
+[
+  {
+    "threadId": 443,
+    "threadName": "QuartzScheduler_Worker-2",
+    "operationStack": [
+      {
+        "startTime": 1515128400005,
+        "subsystem": "Scheduler execution task",
+        "synchronic": true,
+        "id": "4016df0fb420fa4b812c05740a5da7af",
+        "message": "General CMDB request",
+        "operationName": "appilog.framework.shared.scheduler.operation.execute.impl.SchedulerOperationRunExecution",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "MAM_"
+      }
+    ]
+  }
+]

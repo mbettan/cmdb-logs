@@ -1,0 +1,20 @@
+[
+  {
+    "threadId": 345,
+    "threadName": "CmdbLifeCycleManager periodic customers detection",
+    "operationStack": [
+      {
+        "startTime": 1514149200070,
+        "subsystem": "Customer Query Management Task",
+        "synchronic": true,
+        "id": "43cd80b027e2df0cb3744a39a9df3b91",
+        "message": "General CMDB request",
+        "operationName": "CmdbCustomerQueryGetAllCustomerConfigs",
+        "customerID": {
+          "_customerID": -2147483648
+        },
+        "callerApplication": "UIServer"
+      }
+    ]
+  }
+]

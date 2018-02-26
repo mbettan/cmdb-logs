@@ -1,0 +1,66 @@
+
+************************ Statistics from 2018-02-26 16:00:00.057 until 2018-02-26 16:15:00.013 ************************
+Operations executed: 8784
+Different operation types executed: 39
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:     123 # On: 2018-02-26 16:02:31.304 # commitTransaction
+commitTransaction
+# Millis:     105 # On: 2018-02-26 16:02:32.567 # commitTransaction
+commitTransaction
+# Millis:      77 # On: 2018-02-26 16:02:32.595 # getAllByFilter [Topology_TQL]
+getAllByFilter [Topology_TQL]
+# Millis:      67 # On: 2018-02-26 16:02:31.470 # commitTransaction
+commitTransaction
+# Millis:      59 # On: 2018-02-26 16:02:30.877 # put [Settings_RESOURCE_GLOBAL_SETTING]
+put [Settings_RESOURCE_GLOBAL_SETTING]
+# Millis:      55 # On: 2018-02-26 16:02:31.766 # commitTransaction
+commitTransaction
+# Millis:      46 # On: 2018-02-26 16:02:32.111 # commitTransaction
+commitTransaction
+# Millis:      42 # On: 2018-02-26 16:02:31.902 # commitTransaction
+commitTransaction
+# Millis:      41 # On: 2018-02-26 16:02:32.280 # commitTransaction
+commitTransaction
+# Millis:      40 # On: 2018-02-26 16:02:32.200 # commitTransaction
+commitTransaction
+ *** All operations statistics ***
+# Avg (ms):      59 # Max (ms):      59 # Count:     1 # Last called: 2018-02-26 16:02:30.877 # put [Settings_RESOURCE_GLOBAL_SETTING]
+# Avg (ms):       7 # Max (ms):       9 # Count:    11 # Last called: 2018-02-26 16:12:22.208 # getAll [Topology_TQL]
+# Avg (ms):       2 # Max (ms):       5 # Count:    30 # Last called: 2018-02-26 16:02:33.083 # getAll [Topology_VIEW]
+# Avg (ms):       0 # Max (ms):       0 # Count:     6 # Last called: 2018-02-26 16:14:18.501 # getAll [Auth_LDAP_USER_MAPPING]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 16:02:33.218 # getAll [Topology_FOLDER_VIEW]
+# Avg (ms):       0 # Max (ms):       1 # Count:    54 # Last called: 2018-02-26 16:14:45.086 # getAll [Auth_USERS_GROUP]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 16:06:48.852 # getAll [Auth_REGEX]
+# Avg (ms):       0 # Max (ms):       0 # Count:    20 # Last called: 2018-02-26 16:14:45.075 # getAll [Auth_ANY_TENANT_SECURITY_DOMAIN]
+# Avg (ms):       0 # Max (ms):       1 # Count:   148 # Last called: 2018-02-26 16:14:45.086 # getAllByIndex [Auth_ROLE_ASSIGNMENT]
+# Avg (ms):       0 # Max (ms):       1 # Count:    75 # Last called: 2018-02-26 16:02:33.093 # getAll [Topology_FOLDER_TQL]
+# Avg (ms):       0 # Max (ms):       1 # Count:  4895 # Last called: 2018-02-26 16:14:48.378 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       4 # Count:    30 # Last called: 2018-02-26 16:02:33.059 # put [Topology_FOLDER_TQL]
+# Avg (ms):       0 # Max (ms):       1 # Count:   553 # Last called: 2018-02-26 16:14:59.621 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):      77 # Count:    90 # Last called: 2018-02-26 16:02:33.085 # getAllByFilter [Topology_TQL]
+# Avg (ms):       0 # Max (ms):       3 # Count:  1702 # Last called: 2018-02-26 16:14:48.378 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       0 # Count:    13 # Last called: 2018-02-26 16:02:31.011 # getAllByIndex [Packaging_DEPLOYED_RESOURCE]
+# Avg (ms):       0 # Max (ms):       4 # Count:    30 # Last called: 2018-02-26 16:02:33.060 # put [Topology_TQL]
+# Avg (ms):       0 # Max (ms):       1 # Count:    98 # Last called: 2018-02-26 16:13:56.017 # getAll [Settings_DYNAMIC_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:    15 # Last called: 2018-02-26 16:02:33.060 # putAllByForSingleType
+# Avg (ms):       0 # Max (ms):       1 # Count:    69 # Last called: 2018-02-26 16:14:45.079 # startTransaction
+# Avg (ms):       0 # Max (ms):       0 # Count:    15 # Last called: 2018-02-26 16:02:33.093 # getAll [Topology_CORRELATION_RULE]
+# Avg (ms):       0 # Max (ms):       0 # Count:     7 # Last called: 2018-02-26 16:14:45.076 # getAll [UI_USER_PREFERENCES]
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 16:01:08.934 # getAll [Auth_USER]
+# Avg (ms):       0 # Max (ms):       1 # Count:     2 # Last called: 2018-02-26 16:02:33.434 # getAll [Topology_RESOURCE_BUNDLE]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 16:02:33.320 # getAll [UI_BROWSER_WIDGET]
+# Avg (ms):       0 # Max (ms):       0 # Count:    20 # Last called: 2018-02-26 16:14:45.075 # getAll [Auth_SINGLE_TENANT_SECURITY_DOMAIN]
+# Avg (ms):       0 # Max (ms):       0 # Count:     9 # Last called: 2018-02-26 16:14:45.077 # putAllByForSingleType [UI_USER_PREFERENCES]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 16:13:23.141 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       1 # Count:    20 # Last called: 2018-02-26 16:14:45.075 # getAll [Auth_ROLE]
+# Avg (ms):       0 # Max (ms):       3 # Count:     3 # Last called: 2018-02-26 16:02:33.226 # getIncomingDependencies by type, key and cascade type [Topology_RESOURCE_BUNDLE : Topology_VIEW : UPDATE]
+# Avg (ms):       0 # Max (ms):       4 # Count:    45 # Last called: 2018-02-26 16:02:33.060 # getIncomingDependencies by type, key and cascade type [Topology_RESOURCE_BUNDLE : Topology_TQL : UPDATE]
+# Avg (ms):       0 # Max (ms):       1 # Count:    15 # Last called: 2018-02-26 16:02:33.082 # getAll [Topology_ENRICHMENT]
+# Avg (ms):       0 # Max (ms):       0 # Count:    15 # Last called: 2018-02-26 16:02:33.060 # getAllByKeysForSingleType
+# Avg (ms):       0 # Max (ms):       1 # Count:   686 # Last called: 2018-02-26 16:14:48.378 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 16:05:16.619 # getAllByIndexAndFilter [Topology_TQL_TRACKER : Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):     123 # Count:    69 # Last called: 2018-02-26 16:14:45.080 # commitTransaction
+# Avg (ms):       0 # Max (ms):       1 # Count:    18 # Last called: 2018-02-26 16:05:17.012 # getAllByFilter [UI_USER_PREFERENCES]
+# Avg (ms):       0 # Max (ms):       0 # Count:     6 # Last called: 2018-02-26 16:14:18.434 # getAll [Auth_LDAP_MAPPING]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 16:02:33.730 # getAll [UI_CATEGORY]

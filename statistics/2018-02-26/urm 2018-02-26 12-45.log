@@ -1,0 +1,34 @@
+
+************************ Statistics from 2018-02-26 12:30:00.007 until 2018-02-26 12:45:00.017 ************************
+Operations executed: 1406
+Different operation types executed: 7
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:      10 # On: 2018-02-26 12:32:56.881 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 12:38:43.790 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 12:32:57.772 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       1 # On: 2018-02-26 12:34:16.877 # getAll [Settings_LDAP_SETTING]
+getAll [Settings_LDAP_SETTING]
+# Millis:       1 # On: 2018-02-26 12:32:09.100 # getAll [Settings_LDAP_SETTING]
+getAll [Settings_LDAP_SETTING]
+# Millis:       1 # On: 2018-02-26 12:33:53.511 # getAll [Auth_TENANT]
+getAll [Auth_TENANT]
+# Millis:       1 # On: 2018-02-26 12:39:53.259 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+# Millis:       1 # On: 2018-02-26 12:34:16.313 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       1 # On: 2018-02-26 12:33:55.365 # getAll [Settings_LDAP_SETTING]
+getAll [Settings_LDAP_SETTING]
+# Millis:       1 # On: 2018-02-26 12:37:16.991 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+ *** All operations statistics ***
+# Avg (ms):       8 # Max (ms):      10 # Count:     3 # Last called: 2018-02-26 12:38:43.790 # getAll [Topology_TQL]
+# Avg (ms):       0 # Max (ms):       1 # Count:   180 # Last called: 2018-02-26 12:44:38.792 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):       1 # Count:   770 # Last called: 2018-02-26 12:44:55.365 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 12:43:43.810 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   317 # Last called: 2018-02-26 12:44:55.365 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   113 # Last called: 2018-02-26 12:44:55.365 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       0 # Count:    20 # Last called: 2018-02-26 12:43:20.242 # getAll [Settings_DYNAMIC_SETTING]

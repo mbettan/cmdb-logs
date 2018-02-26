@@ -1,0 +1,34 @@
+[
+  {
+    "threadId": 433,
+    "threadName": "RequestProcessorAsyncPool-433",
+    "operationStack": [
+      {
+        "startTime": 1517522400208,
+        "subsystem": "Tql Result Repository Map Task",
+        "synchronic": true,
+        "id": "46aade3bb621377285c6f022d0dcb5ba",
+        "message": "General CMDB request",
+        "operationName": "Tql Query: Get Result From Cache. Pattern [SAP_Old_Transports1517522400020]",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      },
+      {
+        "startTime": 1517522400208,
+        "subsystem": "Tql Result Repository Task",
+        "synchronic": true,
+        "id": "4b365e61663fc57e842ae49f8ba66751",
+        "message": "General CMDB request",
+        "operationName": "Tql Query: Get Result From Repository. Pattern [SAP_Old_Transports1517522400020]",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "CMDB"
+      }
+    ]
+  }
+]

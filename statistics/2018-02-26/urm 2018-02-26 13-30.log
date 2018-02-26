@@ -1,0 +1,34 @@
+
+************************ Statistics from 2018-02-26 13:15:00.007 until 2018-02-26 13:30:00.009 ************************
+Operations executed: 1469
+Different operation types executed: 7
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:       9 # On: 2018-02-26 13:28:43.791 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 13:17:56.881 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 13:18:43.791 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 13:17:57.772 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       1 # On: 2018-02-26 13:23:31.776 # getAll [Settings_LDAP_SETTING]
+getAll [Settings_LDAP_SETTING]
+# Millis:       1 # On: 2018-02-26 13:16:16.315 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       1 # On: 2018-02-26 13:16:30.339 # getAll [Settings_LDAP_SETTING]
+getAll [Settings_LDAP_SETTING]
+# Millis:       1 # On: 2018-02-26 13:18:25.970 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+# Millis:       1 # On: 2018-02-26 13:24:01.788 # getAll [Auth_TENANT]
+getAll [Auth_TENANT]
+# Millis:       1 # On: 2018-02-26 13:21:38.833 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+ *** All operations statistics ***
+# Avg (ms):       8 # Max (ms):       9 # Count:     4 # Last called: 2018-02-26 13:28:43.791 # getAll [Topology_TQL]
+# Avg (ms):       0 # Max (ms):       1 # Count:   332 # Last called: 2018-02-26 13:29:55.370 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       1 # Count:    20 # Last called: 2018-02-26 13:28:17.311 # getAll [Settings_DYNAMIC_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:   185 # Last called: 2018-02-26 13:29:38.842 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):       1 # Count:   116 # Last called: 2018-02-26 13:29:55.370 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       0 # Count:     4 # Last called: 2018-02-26 13:28:43.816 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   808 # Last called: 2018-02-26 13:29:55.370 # getAll [Settings_LDAP_SETTING]

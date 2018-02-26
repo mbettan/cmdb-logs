@@ -2214,3 +2214,19 @@
 2018-02-26 16:27:22,254  INFO   [RequestProcessorAsyncPool-1173] (?:?) -           Pattern Result Monitor Info was refreshed
 2018-02-26 16:27:22,254  INFO   [RequestProcessorAsyncPool-1173] (?:?) - Customer ID [1] : Pettern Total Result is 13
 2018-02-26 16:27:22,254  INFO   [RequestProcessorAsyncPool-1173] (?:?) - ************************************************************
+2018-02-26 16:55:46,740  INFO   [RequestProcessorAsyncPool-293] (?:?) - ************************************************************
+2018-02-26 16:55:46,740  INFO   [RequestProcessorAsyncPool-293] (?:?) -           Quota And Count Monitor Info was refreshed
+2018-02-26 16:55:46,740  INFO   [RequestProcessorAsyncPool-293] (?:?) - Customer ID [1]
+2018-02-26 16:55:46,740  INFO   [RequestProcessorAsyncPool-293] (?:?) - quota [quota.name.customer.model.objects], current count set to : 34 quota is : 20000000
+2018-02-26 16:55:46,740  INFO   [RequestProcessorAsyncPool-293] (?:?) - quota [quota.name.customer.tql.active], current count set to : 335 quota is : 3400
+2018-02-26 16:55:46,740  INFO   [RequestProcessorAsyncPool-293] (?:?) - server quota [quota.name.server.model.objects], current count set to : 34 quota is : 40000000
+2018-02-26 16:55:46,740  INFO   [RequestProcessorAsyncPool-293] (?:?) - server quota [quota.name.server.tql.active], current count set to : 335 quota is : 3400
+2018-02-26 16:55:46,741  INFO   [RequestProcessorAsyncPool-293] (?:?) - ************************************************************
+2018-02-26 16:55:46,749  INFO   [RequestProcessorAsyncPool-293] (?:?) - ************************************************************
+2018-02-26 16:55:46,749  INFO   [RequestProcessorAsyncPool-293] (?:?) -           Statistics Monitor Info was refreshed
+2018-02-26 16:55:46,750  INFO   [RequestProcessorAsyncPool-293] (?:?) - Customer ID [1] Statistics are : Timeout didn't occur. The Last times:Run AdHoc TQL:0	
+2018-02-26 16:55:46,750  INFO   [RequestProcessorAsyncPool-293] (?:?) - ************************************************************
+2018-02-26 16:55:46,993  INFO   [RequestProcessorAsyncPool-293] (?:?) - ************************************************************
+2018-02-26 16:55:46,993  INFO   [RequestProcessorAsyncPool-293] (?:?) -           Pattern Result Monitor Info was refreshed
+2018-02-26 16:55:46,993  INFO   [RequestProcessorAsyncPool-293] (?:?) - Customer ID [1] : Pettern Total Result is 13
+2018-02-26 16:55:46,993  INFO   [RequestProcessorAsyncPool-293] (?:?) - ************************************************************

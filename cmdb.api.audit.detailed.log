@@ -15495,3 +15495,751 @@ Request [ExecuteOperationRequest, 1374845464, Session{requestOriginator='34', se
 	operationResult: ID: 4f99e13d18b2ed85be8abc278bc1936f
 Message: Settings Management Task Response
 ----- [Total Time: 0ms ]
+2018-02-26 16:55:10,332  INFO   [UCMDB Notification Services Reregister Thread] - Request [RegisterUrmListener, 1345216117, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	urmFilter: Object of type [ResourceTypeFilter]
+	listener: Proxy[RemoteUrmListener,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.77.48.5:42348](local),objID:[74c0c418:161d2f665db:-7ff8, 6912493479671057026]]]]]
+	listenerId: 81738461-f04a-49ab-a06d-f11ca37c334b
+Request [RegisterUrmListener, 1345216117, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userIdAsString: (null)
+----- [Total Time: 0ms ]
+2018-02-26 16:55:11,591  INFO   [CmdbLifeCycleManager periodic customers detection] - Request [ServerHaInfoRequest, 1080337144, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [ServerHaInfoRequest, 1080337144, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isWriter: true
+	serverName: hcm-ucmdb-3263646220-nnvqq
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,064  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 1479035170, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1479035170, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4f62dafde666eaa4952d69d280cc1895
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,065  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 994284779, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 994284779, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4039af0d44beddbf82f9d5f2999ce99c
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,065  INFO   [qtp1848900782-370] - Request [GetLdapServersRequest, 1433739113, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetLdapServersRequest, 1433739113, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	ldapServers: [10.3.61.31]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,066  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 652427073, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 652427073, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 44515d98cb27b26cb6cf04912cd024d0
+Message: Core quary task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,066  INFO   [qtp1848900782-370] - Request [CheckMasterKeyStatusRequest, 1072122971, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 1072122971, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,067  INFO   [qtp1848900782-370] - Request [GetMatchingUser, 1117029017, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	loginName: UISysadmin
+	userRepository: (null)
+Request [GetMatchingUser, 1117029017, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	matchingUser: {UISysadmin={UISysadmin###UCMDB}}
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,068  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 2108859581, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 2108859581, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 427b96c315ec4ac0919ca88d451883c8
+Message: Core quary task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,072  INFO   [qtp1848900782-370] - Request [UserWasAuthenticatedRequest, 2109224967, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userRepositoryName: (null)
+	userName: UISysadmin
+Request [UserWasAuthenticatedRequest, 2109224967, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,073  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 765568331, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 765568331, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,074  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 1485677541, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 1485677541, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,077  INFO   [qtp1848900782-370] - Request [GetUserData, 149620110, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 149620110, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:18,078  INFO   [qtp1848900782-370] - Request [GetBestMatchingUserRepository, 1436345524, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	username: UISysadmin
+Request [GetBestMatchingUserRepository, 1436345524, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userRepository: UCMDB
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,080  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 214679666, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 214679666, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,082  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 225170407, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 225170407, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,083  INFO   [qtp1848900782-370] - Request [GetUserData, 1347150603, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1347150603, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,084  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 1715223507, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1715223507, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,085  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 56822606, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 56822606, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,086  INFO   [qtp1848900782-370] - Request [GetUserData, 1748876436, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1748876436, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,087  INFO   [qtp1848900782-370] - Request [UrmExecuteRequest, 1881971192, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 1881971192, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,088  INFO   [qtp1848900782-370] - Request [UrmExecuteRequest, 1772424866, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 1772424866, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,090  INFO   [qtp1848900782-370] - Request [GetGlobalPermittedActions, 559099165, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetGlobalPermittedActions, 559099165, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	globalPermittedActions: [RUN_IMPACT_ANALYSIS, RUN_TQL_BY_DEFINITION, ALLOW_SEARCH, GET_RELATED, ACCESS_TO_SDK, ACCESS_TO_UI, ACCESS_TO_BROWSER, ACCESS_TO_AUTHORIZED_STATE, CLASS_MODEL_MODIFIER, CREATE_CUSTOM_REPORTS, CREATE_UI_JOBS, CREATE_RECIPIENTS, CREATE_DYNAMIC_WIDGET, REMOTE_DEPLOYMENT, VIEW_HISTORY, RUN_DISCOVERY_AND_INTEGRATIONS, VIEW_DISCOVERY_STATUS_AND_ERROR, DEPLOY_PACKAGES, RUN_LEGACY_API, SETTINGS_MANAGEMENT, ADMINISTRATION, AUDITING, ARCHIVE_GOLD_MASTER_REPORT, AUTOMATION_SETUP, AUTOMATION_EXECUTION, AUTOMATION_POLICIES, POLICIES_ADMIN, JMX_FULL_ACCESS, SERVICE_MODELING]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:18,091  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 815015106, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 815015106, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 40b15deb390085bd93e9a00ac775fced
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:18,093  INFO   [qtp1848900782-370] - Request [GetPermittedActionsOnPermittedResourceInstances, 396521286, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	permittedResourceInstances: [{Type = UI_MODULE, id = navigation.item.users.and.groups}, {Type = UI_MODULE, id = navigation.item.hp.live.networks}, {Type = UI_MODULE, id = navigation.item.enrichment.manager}, {Type = UI_MODULE, id = MODE_MS_Model}, {Type = UI_MODULE, id = navigation.item.ownership.manager}, {Type = UI_MODULE, id = navigation.item.recipients.manager}, {Type = UI_MODULE, id = navigation.item.correlation.manager}, {Type = UI_MODULE, id = navigation.data.acquisition}, {Type = UI_MODULE, id = navigation.item.show.status.snapshot}, {Type = UI_MODULE, id = navigation.item.manage.discovery.resources}, {Type = UI_MODULE, id = navigation.item.modeling.studio}, {Type = UI_MODULE, id = navigation.reconciliation.priority}, {Type = UI_MODULE, id = navigation.item.ci.lifecycle}, {Type = UI_MODULE, id = navigation.item.scheduler}, {Type = UI_MODULE, id = navigation.item.software.library}, {Type = UI_MODULE, id = CATEGORY_VIEW}, {Type = UI_MODULE, id = CATEGORY_CUSTOM}, {Type = UI_MODULE, id = navigation.item.setup.discovery.probes}, {Type = UI_MODULE, id = MODE_MS_TQL}, {Type = UI_MODULE, id = navigation.item.user.profile}, {Type = UI_MODULE, id = separator}, {Type = UI_MODULE, id = navigation.item.state.manager}, {Type = UI_MODULE, id = navigation.item.itu.manager}, {Type = UI_MODULE, id = navigation.item.ci.type.manager}, {Type = UI_MODULE, id = MODE_MS_View}, {Type = UI_MODULE, id = navigation.item.resource.groups}, {Type = UI_MODULE, id = navigation.item.report.viewer}, {Type = UI_MODULE, id = navigation.item.run.discovery}, {Type = UI_MODULE, id = navigation.item.infrastructure.settings.manager}, {Type = UI_MODULE, id = navigation.item.package.manager}, {Type = UI_MODULE, id = navigation.item.tenant_management}, {Type = UI_MODULE, id = navigation.item.service.discovery}, {Type = UI_MODULE, id = navigation.item.roles.management}, {Type = UI_MODULE, id = navigation.item.ldap.manager}]
+Request [GetPermittedActionsOnPermittedResourceInstances, 396521286, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	permittedActions: Object of type [ResourcesPermittedActionsImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:18,093  INFO   [qtp1848900782-370] - Request [CheckMasterKeyStatusRequest, 1141936330, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 1141936330, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 0ms ]
+2018-02-26 16:55:18,094  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 288531544, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 288531544, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4ca0ab05718f8f5999205bcf21df005e
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:20,498  INFO   [qtp1848900782-560] - Request [ExecuteOperationRequest, 966931276, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 966931276, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4e5b252ce7990608a6e18dbdc586ad18
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,499  INFO   [qtp1848900782-560] - Request [ExecuteOperationRequest, 868798691, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 868798691, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 49ea2f70de6c34c288bfedc0978c9f0e
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,500  INFO   [qtp1848900782-560] - Request [GetLdapServersRequest, 677063261, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetLdapServersRequest, 677063261, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	ldapServers: [10.3.61.31]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:20,501  INFO   [qtp1848900782-560] - Request [ExecuteOperationRequest, 376397673, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 376397673, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 44231e7c299418d8a14c1dda119f21d5
+Message: Core quary task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:20,502  INFO   [qtp1848900782-560] - Request [CheckMasterKeyStatusRequest, 961449655, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 961449655, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 0ms ]
+2018-02-26 16:55:20,504  INFO   [qtp1848900782-560] - Request [GetMatchingUser, 1219904001, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	loginName: UISysadmin
+	userRepository: (null)
+Request [GetMatchingUser, 1219904001, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	matchingUser: {UISysadmin={UISysadmin###UCMDB}}
+----- [Total Time: 0ms ]
+2018-02-26 16:55:20,506  INFO   [qtp1848900782-560] - Request [ExecuteOperationRequest, 609146985, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 609146985, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4c7219fb7364ca41ad3d2683093fb3b5
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,511  INFO   [qtp1848900782-560] - Request [UserWasAuthenticatedRequest, 1928723281, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userRepositoryName: (null)
+	userName: UISysadmin
+Request [UserWasAuthenticatedRequest, 1928723281, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,512  INFO   [qtp1848900782-560] - Request [GetUserByLoginName, 1878176037, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 1878176037, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,513  INFO   [qtp1848900782-560] - Request [GetUserByLoginName, 114272562, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 114272562, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,515  INFO   [qtp1848900782-560] - Request [GetUserData, 1185025850, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1185025850, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,516  INFO   [qtp1848900782-560] - Request [GetBestMatchingUserRepository, 1248656735, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	username: UISysadmin
+Request [GetBestMatchingUserRepository, 1248656735, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userRepository: UCMDB
+----- [Total Time: 0ms ]
+2018-02-26 16:55:20,518  INFO   [qtp1848900782-560] - Request [GetUserByLoginName, 1420246593, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1420246593, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,519  INFO   [qtp1848900782-560] - Request [GetUserByLoginName, 1485714634, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1485714634, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,521  INFO   [qtp1848900782-560] - Request [GetUserData, 343252687, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 343252687, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:20,523  INFO   [qtp1848900782-560] - Request [GetUserByLoginName, 657465182, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 657465182, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,524  INFO   [qtp1848900782-560] - Request [GetUserByLoginName, 1966643984, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1966643984, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,526  INFO   [qtp1848900782-560] - Request [GetUserData, 1633484876, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1633484876, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:20,528  INFO   [qtp1848900782-560] - Request [UrmExecuteRequest, 426978904, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 426978904, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:20,530  INFO   [qtp1848900782-560] - Request [UrmExecuteRequest, 286208865, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 286208865, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,534  INFO   [qtp1848900782-560] - Request [GetGlobalPermittedActions, 606094247, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetGlobalPermittedActions, 606094247, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	globalPermittedActions: [RUN_IMPACT_ANALYSIS, RUN_TQL_BY_DEFINITION, ALLOW_SEARCH, GET_RELATED, ACCESS_TO_SDK, ACCESS_TO_UI, ACCESS_TO_BROWSER, ACCESS_TO_AUTHORIZED_STATE, CLASS_MODEL_MODIFIER, CREATE_CUSTOM_REPORTS, CREATE_UI_JOBS, CREATE_RECIPIENTS, CREATE_DYNAMIC_WIDGET, REMOTE_DEPLOYMENT, VIEW_HISTORY, RUN_DISCOVERY_AND_INTEGRATIONS, VIEW_DISCOVERY_STATUS_AND_ERROR, DEPLOY_PACKAGES, RUN_LEGACY_API, SETTINGS_MANAGEMENT, ADMINISTRATION, AUDITING, ARCHIVE_GOLD_MASTER_REPORT, AUTOMATION_SETUP, AUTOMATION_EXECUTION, AUTOMATION_POLICIES, POLICIES_ADMIN, JMX_FULL_ACCESS, SERVICE_MODELING]
+----- [Total Time: 3ms ]
+2018-02-26 16:55:20,535  INFO   [qtp1848900782-560] - Request [ExecuteOperationRequest, 1660619557, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1660619557, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 42002f852411147dbb3b4d025bed8d52
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:20,540  INFO   [qtp1848900782-560] - Request [GetPermittedActionsOnPermittedResourceInstances, 517527211, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	permittedResourceInstances: [{Type = UI_MODULE, id = navigation.item.users.and.groups}, {Type = UI_MODULE, id = navigation.item.hp.live.networks}, {Type = UI_MODULE, id = navigation.item.enrichment.manager}, {Type = UI_MODULE, id = MODE_MS_Model}, {Type = UI_MODULE, id = navigation.item.ownership.manager}, {Type = UI_MODULE, id = navigation.item.recipients.manager}, {Type = UI_MODULE, id = navigation.item.correlation.manager}, {Type = UI_MODULE, id = navigation.data.acquisition}, {Type = UI_MODULE, id = navigation.item.show.status.snapshot}, {Type = UI_MODULE, id = navigation.item.manage.discovery.resources}, {Type = UI_MODULE, id = navigation.item.modeling.studio}, {Type = UI_MODULE, id = navigation.reconciliation.priority}, {Type = UI_MODULE, id = navigation.item.ci.lifecycle}, {Type = UI_MODULE, id = navigation.item.scheduler}, {Type = UI_MODULE, id = navigation.item.software.library}, {Type = UI_MODULE, id = CATEGORY_VIEW}, {Type = UI_MODULE, id = CATEGORY_CUSTOM}, {Type = UI_MODULE, id = navigation.item.setup.discovery.probes}, {Type = UI_MODULE, id = MODE_MS_TQL}, {Type = UI_MODULE, id = navigation.item.user.profile}, {Type = UI_MODULE, id = separator}, {Type = UI_MODULE, id = navigation.item.state.manager}, {Type = UI_MODULE, id = navigation.item.itu.manager}, {Type = UI_MODULE, id = navigation.item.ci.type.manager}, {Type = UI_MODULE, id = MODE_MS_View}, {Type = UI_MODULE, id = navigation.item.resource.groups}, {Type = UI_MODULE, id = navigation.item.report.viewer}, {Type = UI_MODULE, id = navigation.item.run.discovery}, {Type = UI_MODULE, id = navigation.item.infrastructure.settings.manager}, {Type = UI_MODULE, id = navigation.item.package.manager}, {Type = UI_MODULE, id = navigation.item.tenant_management}, {Type = UI_MODULE, id = navigation.item.service.discovery}, {Type = UI_MODULE, id = navigation.item.roles.management}, {Type = UI_MODULE, id = navigation.item.ldap.manager}]
+Request [GetPermittedActionsOnPermittedResourceInstances, 517527211, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	permittedActions: Object of type [ResourcesPermittedActionsImpl]
+----- [Total Time: 4ms ]
+2018-02-26 16:55:20,541  INFO   [qtp1848900782-560] - Request [CheckMasterKeyStatusRequest, 1830520251, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 1830520251, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 0ms ]
+2018-02-26 16:55:20,543  INFO   [qtp1848900782-560] - Request [ExecuteOperationRequest, 704234576, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 704234576, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4bcb9d9d51e2d3d4a3a023c15e6a2f31
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,427  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 1380552739, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1380552739, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 41d95f18b0a45390a5b06fc2f7992615
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,427  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 1645391973, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1645391973, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 41fdf9db6c80729dab75008f80fb492c
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,428  INFO   [qtp1848900782-370] - Request [GetLdapServersRequest, 2048766146, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetLdapServersRequest, 2048766146, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	ldapServers: [10.3.61.31]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,429  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 1735045603, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1735045603, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 46b029fc23b809df894f6f3c47f2e94f
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,429  INFO   [qtp1848900782-370] - Request [CheckMasterKeyStatusRequest, 723220206, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 723220206, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,430  INFO   [qtp1848900782-370] - Request [GetMatchingUser, 1008158959, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	loginName: UISysadmin
+	userRepository: (null)
+Request [GetMatchingUser, 1008158959, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	matchingUser: {UISysadmin={UISysadmin###UCMDB}}
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,431  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 239080231, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 239080231, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4b0456e1f1107f2d815629c4ad029529
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,433  INFO   [qtp1848900782-370] - Request [UserWasAuthenticatedRequest, 217780335, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userRepositoryName: (null)
+	userName: UISysadmin
+Request [UserWasAuthenticatedRequest, 217780335, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,434  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 957714778, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 957714778, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,435  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 1936811524, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 1936811524, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,436  INFO   [qtp1848900782-370] - Request [GetUserData, 1158630772, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1158630772, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,437  INFO   [qtp1848900782-370] - Request [GetBestMatchingUserRepository, 1929127020, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	username: UISysadmin
+Request [GetBestMatchingUserRepository, 1929127020, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userRepository: UCMDB
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,437  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 1637500868, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1637500868, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,438  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 1826321199, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1826321199, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,440  INFO   [qtp1848900782-370] - Request [GetUserData, 321865446, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 321865446, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,441  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 843490026, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 843490026, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,441  INFO   [qtp1848900782-370] - Request [GetUserByLoginName, 784784217, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 784784217, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 0ms ]
+2018-02-26 16:55:21,442  INFO   [qtp1848900782-370] - Request [GetUserData, 561673359, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 561673359, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,444  INFO   [qtp1848900782-370] - Request [UrmExecuteRequest, 301170805, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 301170805, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:21,445  INFO   [qtp1848900782-370] - Request [UrmExecuteRequest, 916275770, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 916275770, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,447  INFO   [qtp1848900782-370] - Request [GetGlobalPermittedActions, 1255482175, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetGlobalPermittedActions, 1255482175, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	globalPermittedActions: [RUN_IMPACT_ANALYSIS, RUN_TQL_BY_DEFINITION, ALLOW_SEARCH, GET_RELATED, ACCESS_TO_SDK, ACCESS_TO_UI, ACCESS_TO_BROWSER, ACCESS_TO_AUTHORIZED_STATE, CLASS_MODEL_MODIFIER, CREATE_CUSTOM_REPORTS, CREATE_UI_JOBS, CREATE_RECIPIENTS, CREATE_DYNAMIC_WIDGET, REMOTE_DEPLOYMENT, VIEW_HISTORY, RUN_DISCOVERY_AND_INTEGRATIONS, VIEW_DISCOVERY_STATUS_AND_ERROR, DEPLOY_PACKAGES, RUN_LEGACY_API, SETTINGS_MANAGEMENT, ADMINISTRATION, AUDITING, ARCHIVE_GOLD_MASTER_REPORT, AUTOMATION_SETUP, AUTOMATION_EXECUTION, AUTOMATION_POLICIES, POLICIES_ADMIN, JMX_FULL_ACCESS, SERVICE_MODELING]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:21,448  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 1542315992, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1542315992, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 403f197718d32f829c9430d63e48ae04
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,450  INFO   [qtp1848900782-370] - Request [GetPermittedActionsOnPermittedResourceInstances, 1089630068, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	permittedResourceInstances: [{Type = UI_MODULE, id = navigation.item.users.and.groups}, {Type = UI_MODULE, id = navigation.item.hp.live.networks}, {Type = UI_MODULE, id = navigation.item.enrichment.manager}, {Type = UI_MODULE, id = MODE_MS_Model}, {Type = UI_MODULE, id = navigation.item.ownership.manager}, {Type = UI_MODULE, id = navigation.item.recipients.manager}, {Type = UI_MODULE, id = navigation.item.correlation.manager}, {Type = UI_MODULE, id = navigation.data.acquisition}, {Type = UI_MODULE, id = navigation.item.show.status.snapshot}, {Type = UI_MODULE, id = navigation.item.manage.discovery.resources}, {Type = UI_MODULE, id = navigation.item.modeling.studio}, {Type = UI_MODULE, id = navigation.reconciliation.priority}, {Type = UI_MODULE, id = navigation.item.ci.lifecycle}, {Type = UI_MODULE, id = navigation.item.scheduler}, {Type = UI_MODULE, id = navigation.item.software.library}, {Type = UI_MODULE, id = CATEGORY_VIEW}, {Type = UI_MODULE, id = CATEGORY_CUSTOM}, {Type = UI_MODULE, id = navigation.item.setup.discovery.probes}, {Type = UI_MODULE, id = MODE_MS_TQL}, {Type = UI_MODULE, id = navigation.item.user.profile}, {Type = UI_MODULE, id = separator}, {Type = UI_MODULE, id = navigation.item.state.manager}, {Type = UI_MODULE, id = navigation.item.itu.manager}, {Type = UI_MODULE, id = navigation.item.ci.type.manager}, {Type = UI_MODULE, id = MODE_MS_View}, {Type = UI_MODULE, id = navigation.item.resource.groups}, {Type = UI_MODULE, id = navigation.item.report.viewer}, {Type = UI_MODULE, id = navigation.item.run.discovery}, {Type = UI_MODULE, id = navigation.item.infrastructure.settings.manager}, {Type = UI_MODULE, id = navigation.item.package.manager}, {Type = UI_MODULE, id = navigation.item.tenant_management}, {Type = UI_MODULE, id = navigation.item.service.discovery}, {Type = UI_MODULE, id = navigation.item.roles.management}, {Type = UI_MODULE, id = navigation.item.ldap.manager}]
+Request [GetPermittedActionsOnPermittedResourceInstances, 1089630068, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	permittedActions: Object of type [ResourcesPermittedActionsImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:21,451  INFO   [qtp1848900782-370] - Request [CheckMasterKeyStatusRequest, 2024917409, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 2024917409, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 1ms ]
+2018-02-26 16:55:21,451  INFO   [qtp1848900782-370] - Request [ExecuteOperationRequest, 1060648942, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1060648942, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4ffcbfcab972b9639eea536848d7882a
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:23,747  INFO   [qtp1848900782-561] - Request [ExecuteOperationRequest, 1815578470, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1815578470, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 443b2ac73ae93a02b03fe929ac318dcf
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,748  INFO   [qtp1848900782-561] - Request [ExecuteOperationRequest, 681212518, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 681212518, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4ea0e6f64f11a8db9b6ef639e89e04cd
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,749  INFO   [qtp1848900782-561] - Request [GetLdapServersRequest, 702480736, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetLdapServersRequest, 702480736, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	ldapServers: [10.3.61.31]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,750  INFO   [qtp1848900782-561] - Request [ExecuteOperationRequest, 1525957053, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1525957053, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 45fa6620cb8935a8a95246b192093dc8
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,751  INFO   [qtp1848900782-561] - Request [CheckMasterKeyStatusRequest, 1166925771, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 1166925771, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,752  INFO   [qtp1848900782-561] - Request [GetMatchingUser, 344457755, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	loginName: UISysadmin
+	userRepository: (null)
+Request [GetMatchingUser, 344457755, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	matchingUser: {UISysadmin={UISysadmin###UCMDB}}
+----- [Total Time: 0ms ]
+2018-02-26 16:55:23,754  INFO   [qtp1848900782-561] - Request [ExecuteOperationRequest, 1820934302, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1820934302, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4a4d650ceb2ebc5c8400944d31d8d3e0
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,757  INFO   [qtp1848900782-561] - Request [UserWasAuthenticatedRequest, 1324398433, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userRepositoryName: (null)
+	userName: UISysadmin
+Request [UserWasAuthenticatedRequest, 1324398433, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+----- [Total Time: 0ms ]
+2018-02-26 16:55:23,759  INFO   [qtp1848900782-561] - Request [GetUserByLoginName, 2018029991, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 2018029991, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,760  INFO   [qtp1848900782-561] - Request [GetUserByLoginName, 2130248260, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 2130248260, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,762  INFO   [qtp1848900782-561] - Request [GetUserData, 719621776, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 719621776, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:23,762  INFO   [qtp1848900782-561] - Request [GetBestMatchingUserRepository, 2022720806, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	username: UISysadmin
+Request [GetBestMatchingUserRepository, 2022720806, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userRepository: UCMDB
+----- [Total Time: 0ms ]
+2018-02-26 16:55:23,764  INFO   [qtp1848900782-561] - Request [GetUserByLoginName, 995311673, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 995311673, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,765  INFO   [qtp1848900782-561] - Request [GetUserByLoginName, 606049794, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 606049794, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,767  INFO   [qtp1848900782-561] - Request [GetUserData, 1738290189, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1738290189, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:23,768  INFO   [qtp1848900782-561] - Request [GetUserByLoginName, 2017801525, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 2017801525, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,769  INFO   [qtp1848900782-561] - Request [GetUserByLoginName, 1226560136, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1226560136, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,770  INFO   [qtp1848900782-561] - Request [GetUserData, 811521083, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 811521083, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,772  INFO   [qtp1848900782-561] - Request [UrmExecuteRequest, 1370836895, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 1370836895, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,774  INFO   [qtp1848900782-561] - Request [UrmExecuteRequest, 741635225, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 741635225, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,777  INFO   [qtp1848900782-561] - Request [GetGlobalPermittedActions, 1198695649, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetGlobalPermittedActions, 1198695649, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	globalPermittedActions: [RUN_IMPACT_ANALYSIS, RUN_TQL_BY_DEFINITION, ALLOW_SEARCH, GET_RELATED, ACCESS_TO_SDK, ACCESS_TO_UI, ACCESS_TO_BROWSER, ACCESS_TO_AUTHORIZED_STATE, CLASS_MODEL_MODIFIER, CREATE_CUSTOM_REPORTS, CREATE_UI_JOBS, CREATE_RECIPIENTS, CREATE_DYNAMIC_WIDGET, REMOTE_DEPLOYMENT, VIEW_HISTORY, RUN_DISCOVERY_AND_INTEGRATIONS, VIEW_DISCOVERY_STATUS_AND_ERROR, DEPLOY_PACKAGES, RUN_LEGACY_API, SETTINGS_MANAGEMENT, ADMINISTRATION, AUDITING, ARCHIVE_GOLD_MASTER_REPORT, AUTOMATION_SETUP, AUTOMATION_EXECUTION, AUTOMATION_POLICIES, POLICIES_ADMIN, JMX_FULL_ACCESS, SERVICE_MODELING]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:23,778  INFO   [qtp1848900782-561] - Request [ExecuteOperationRequest, 1416430070, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1416430070, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 478b91a63ec6bacba2dba35fd21bc89d
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:23,782  INFO   [qtp1848900782-561] - Request [GetPermittedActionsOnPermittedResourceInstances, 962061754, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	permittedResourceInstances: [{Type = UI_MODULE, id = navigation.item.users.and.groups}, {Type = UI_MODULE, id = navigation.item.hp.live.networks}, {Type = UI_MODULE, id = navigation.item.enrichment.manager}, {Type = UI_MODULE, id = MODE_MS_Model}, {Type = UI_MODULE, id = navigation.item.ownership.manager}, {Type = UI_MODULE, id = navigation.item.recipients.manager}, {Type = UI_MODULE, id = navigation.item.correlation.manager}, {Type = UI_MODULE, id = navigation.data.acquisition}, {Type = UI_MODULE, id = navigation.item.show.status.snapshot}, {Type = UI_MODULE, id = navigation.item.manage.discovery.resources}, {Type = UI_MODULE, id = navigation.item.modeling.studio}, {Type = UI_MODULE, id = navigation.reconciliation.priority}, {Type = UI_MODULE, id = navigation.item.ci.lifecycle}, {Type = UI_MODULE, id = navigation.item.scheduler}, {Type = UI_MODULE, id = navigation.item.software.library}, {Type = UI_MODULE, id = CATEGORY_VIEW}, {Type = UI_MODULE, id = CATEGORY_CUSTOM}, {Type = UI_MODULE, id = navigation.item.setup.discovery.probes}, {Type = UI_MODULE, id = MODE_MS_TQL}, {Type = UI_MODULE, id = navigation.item.user.profile}, {Type = UI_MODULE, id = separator}, {Type = UI_MODULE, id = navigation.item.state.manager}, {Type = UI_MODULE, id = navigation.item.itu.manager}, {Type = UI_MODULE, id = navigation.item.ci.type.manager}, {Type = UI_MODULE, id = MODE_MS_View}, {Type = UI_MODULE, id = navigation.item.resource.groups}, {Type = UI_MODULE, id = navigation.item.report.viewer}, {Type = UI_MODULE, id = navigation.item.run.discovery}, {Type = UI_MODULE, id = navigation.item.infrastructure.settings.manager}, {Type = UI_MODULE, id = navigation.item.package.manager}, {Type = UI_MODULE, id = navigation.item.tenant_management}, {Type = UI_MODULE, id = navigation.item.service.discovery}, {Type = UI_MODULE, id = navigation.item.roles.management}, {Type = UI_MODULE, id = navigation.item.ldap.manager}]
+Request [GetPermittedActionsOnPermittedResourceInstances, 962061754, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	permittedActions: Object of type [ResourcesPermittedActionsImpl]
+----- [Total Time: 3ms ]
+2018-02-26 16:55:23,783  INFO   [qtp1848900782-561] - Request [CheckMasterKeyStatusRequest, 556240107, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 556240107, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 0ms ]
+2018-02-26 16:55:23,784  INFO   [qtp1848900782-561] - Request [ExecuteOperationRequest, 1706165011, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1706165011, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4ebb964316a36c2eaa5f1a5394c78656
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:41,632  INFO   [CmdbLifeCycleManager periodic customers detection] - Request [ServerHaInfoRequest, 2131343286, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [ServerHaInfoRequest, 2131343286, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isWriter: true
+	serverName: hcm-ucmdb-3263646220-nnvqq
+----- [Total Time: 0ms ]
+2018-02-26 16:55:48,111  INFO   [qtp1848900782-556] - Request [ExecuteOperationRequest, 340812603, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 340812603, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4f429d4a6a8bc94ebb2c78b1cb21dcca
+Message: Settings Management Task Response
+----- [Total Time: 2ms ]
+2018-02-26 16:55:48,113  INFO   [qtp1848900782-556] - Request [ExecuteOperationRequest, 1887766088, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1887766088, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 44a6e68c9c99995b9baa0b6728231709
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,114  INFO   [qtp1848900782-556] - Request [GetLdapServersRequest, 436448147, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetLdapServersRequest, 436448147, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	ldapServers: [10.3.61.31]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,116  INFO   [qtp1848900782-556] - Request [ExecuteOperationRequest, 1840133766, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1840133766, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 48d1703885668f9faebbcf8afa92041a
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,117  INFO   [qtp1848900782-556] - Request [CheckMasterKeyStatusRequest, 1388207157, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 1388207157, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,119  INFO   [qtp1848900782-556] - Request [GetMatchingUser, 1441147586, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	loginName: UISysadmin
+	userRepository: (null)
+Request [GetMatchingUser, 1441147586, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	matchingUser: {UISysadmin={UISysadmin###UCMDB}}
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,121  INFO   [qtp1848900782-556] - Request [ExecuteOperationRequest, 1231039742, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1231039742, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4af96780948b335bb6227a558adc585c
+Message: Core quary task Response
+----- [Total Time: 2ms ]
+2018-02-26 16:55:48,126  INFO   [qtp1848900782-556] - Request [UserWasAuthenticatedRequest, 1358195314, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userRepositoryName: (null)
+	userName: UISysadmin
+Request [UserWasAuthenticatedRequest, 1358195314, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,127  INFO   [qtp1848900782-556] - Request [GetUserByLoginName, 275109334, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 275109334, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,129  INFO   [qtp1848900782-556] - Request [GetUserByLoginName, 1717766326, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: (null)
+Request [GetUserByLoginName, 1717766326, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,132  INFO   [qtp1848900782-556] - Request [GetUserData, 1912316879, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1912316879, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 3ms ]
+2018-02-26 16:55:48,133  INFO   [qtp1848900782-556] - Request [GetBestMatchingUserRepository, 338186352, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	username: UISysadmin
+Request [GetBestMatchingUserRepository, 338186352, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userRepository: UCMDB
+----- [Total Time: 0ms ]
+2018-02-26 16:55:48,135  INFO   [qtp1848900782-556] - Request [GetUserByLoginName, 1817489109, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 1817489109, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,136  INFO   [qtp1848900782-556] - Request [GetUserByLoginName, 195962317, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 195962317, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,138  INFO   [qtp1848900782-556] - Request [GetUserData, 469504446, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 469504446, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,140  INFO   [qtp1848900782-556] - Request [GetUserByLoginName, 441562284, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 441562284, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,141  INFO   [qtp1848900782-556] - Request [GetUserByLoginName, 450528799, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userLoginName: UISysadmin
+	userRepository: UCMDB
+Request [GetUserByLoginName, 450528799, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,143  INFO   [qtp1848900782-556] - Request [GetUserData, 397627150, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 397627150, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:48,146  INFO   [qtp1848900782-556] - Request [UrmExecuteRequest, 953585022, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 953585022, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 3ms ]
+2018-02-26 16:55:48,149  INFO   [qtp1848900782-556] - Request [UrmExecuteRequest, 1061065393, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 1061065393, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 2ms ]
+2018-02-26 16:55:48,152  INFO   [qtp1848900782-556] - Request [GetGlobalPermittedActions, 639138844, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [GetGlobalPermittedActions, 639138844, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	globalPermittedActions: [RUN_IMPACT_ANALYSIS, RUN_TQL_BY_DEFINITION, ALLOW_SEARCH, GET_RELATED, ACCESS_TO_SDK, ACCESS_TO_UI, ACCESS_TO_BROWSER, ACCESS_TO_AUTHORIZED_STATE, CLASS_MODEL_MODIFIER, CREATE_CUSTOM_REPORTS, CREATE_UI_JOBS, CREATE_RECIPIENTS, CREATE_DYNAMIC_WIDGET, REMOTE_DEPLOYMENT, VIEW_HISTORY, RUN_DISCOVERY_AND_INTEGRATIONS, VIEW_DISCOVERY_STATUS_AND_ERROR, DEPLOY_PACKAGES, RUN_LEGACY_API, SETTINGS_MANAGEMENT, ADMINISTRATION, AUDITING, ARCHIVE_GOLD_MASTER_REPORT, AUTOMATION_SETUP, AUTOMATION_EXECUTION, AUTOMATION_POLICIES, POLICIES_ADMIN, JMX_FULL_ACCESS, SERVICE_MODELING]
+----- [Total Time: 3ms ]
+2018-02-26 16:55:48,154  INFO   [qtp1848900782-556] - Request [ExecuteOperationRequest, 380752785, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSystemParameters]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 380752785, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 496a927c6bad1bfc867cd5ff9dfd1920
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,159  INFO   [qtp1848900782-556] - Request [GetPermittedActionsOnPermittedResourceInstances, 403488953, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	permittedResourceInstances: [{Type = UI_MODULE, id = navigation.item.users.and.groups}, {Type = UI_MODULE, id = navigation.item.hp.live.networks}, {Type = UI_MODULE, id = navigation.item.enrichment.manager}, {Type = UI_MODULE, id = MODE_MS_Model}, {Type = UI_MODULE, id = navigation.item.ownership.manager}, {Type = UI_MODULE, id = navigation.item.recipients.manager}, {Type = UI_MODULE, id = navigation.item.correlation.manager}, {Type = UI_MODULE, id = navigation.data.acquisition}, {Type = UI_MODULE, id = navigation.item.show.status.snapshot}, {Type = UI_MODULE, id = navigation.item.manage.discovery.resources}, {Type = UI_MODULE, id = navigation.item.modeling.studio}, {Type = UI_MODULE, id = navigation.reconciliation.priority}, {Type = UI_MODULE, id = navigation.item.ci.lifecycle}, {Type = UI_MODULE, id = navigation.item.scheduler}, {Type = UI_MODULE, id = navigation.item.software.library}, {Type = UI_MODULE, id = CATEGORY_VIEW}, {Type = UI_MODULE, id = CATEGORY_CUSTOM}, {Type = UI_MODULE, id = navigation.item.setup.discovery.probes}, {Type = UI_MODULE, id = MODE_MS_TQL}, {Type = UI_MODULE, id = navigation.item.user.profile}, {Type = UI_MODULE, id = separator}, {Type = UI_MODULE, id = navigation.item.state.manager}, {Type = UI_MODULE, id = navigation.item.itu.manager}, {Type = UI_MODULE, id = navigation.item.ci.type.manager}, {Type = UI_MODULE, id = MODE_MS_View}, {Type = UI_MODULE, id = navigation.item.resource.groups}, {Type = UI_MODULE, id = navigation.item.report.viewer}, {Type = UI_MODULE, id = navigation.item.run.discovery}, {Type = UI_MODULE, id = navigation.item.infrastructure.settings.manager}, {Type = UI_MODULE, id = navigation.item.package.manager}, {Type = UI_MODULE, id = navigation.item.tenant_management}, {Type = UI_MODULE, id = navigation.item.service.discovery}, {Type = UI_MODULE, id = navigation.item.roles.management}, {Type = UI_MODULE, id = navigation.item.ldap.manager}]
+Request [GetPermittedActionsOnPermittedResourceInstances, 403488953, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	permittedActions: Object of type [ResourcesPermittedActionsImpl]
+----- [Total Time: 4ms ]
+2018-02-26 16:55:48,161  INFO   [qtp1848900782-556] - Request [CheckMasterKeyStatusRequest, 24348471, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [CheckMasterKeyStatusRequest, 24348471, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isSet: true
+----- [Total Time: 1ms ]
+2018-02-26 16:55:48,162  INFO   [qtp1848900782-556] - Request [ExecuteOperationRequest, 1428684817, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1428684817, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	operationResult: ID: 430b5f9148271e0d96b96b39337dca43
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+2018-02-26 16:55:53,092  INFO   [qtp1848900782-560] - Request [GetVersion, 595281377, Session{requestOriginator='hcm-ucmdb-3263646220-nnvqq_1519662823667', sessionId='47eac586fab6b922b0c89f6fb9f32b94', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='10.3.163.8', lastUsedInMillis=1519664153091}, logged in user: UISysadmin], Input:
+Request [GetVersion, 595281377, Session{requestOriginator='hcm-ucmdb-3263646220-nnvqq_1519662823667', sessionId='47eac586fab6b922b0c89f6fb9f32b94', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='10.3.163.8', lastUsedInMillis=1519664153091}, logged in user: UISysadmin], Output:
+	serverVersionString: 10.33
+	contentPackVersionAndBuild: 25.00.68
+	serverBuildString: 1067
+	productName: HPE Universal CMDB
+	hotfixInfo:  with QCCR1H119417 
+
+----- [Total Time: 1ms ]
+2018-02-26 16:55:53,887  INFO   [qtp1848900782-556] - Request [GetLicenseMiscInformation, 336709895, Session{requestOriginator='hcm-ucmdb-3263646220-nnvqq_1519662823667', sessionId='47eac586fab6b922b0c89f6fb9f32b94', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='10.3.163.8', lastUsedInMillis=1519664153104}, logged in user: UISysadmin], Input:
+Request [GetLicenseMiscInformation, 336709895, Session{requestOriginator='hcm-ucmdb-3263646220-nnvqq_1519662823667', sessionId='47eac586fab6b922b0c89f6fb9f32b94', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='10.3.163.8', lastUsedInMillis=1519664153104}, logged in user: UISysadmin], Output:
+	licenseMiscInformation: LicenseMiscInformationImpl{, areAllLicensesExpired=false, latestLicenseExpireTime=1549670399000, remainingDaysUntilLatestLicenseExpireTime=348, isAccessBlocked=false}
+----- [Total Time: 783ms ]
+2018-02-26 16:55:54,066  INFO   [qtp1848900782-556] - Request [GetConfigParams, 1642659987, Session{requestOriginator='hcm-ucmdb-3263646220-nnvqq_1519662823667', sessionId='47eac586fab6b922b0c89f6fb9f32b94', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='10.3.163.8', lastUsedInMillis=1519664153899}, logged in user: UISysadmin], Input:
+	parameterName: ucmdb_browser.customers_states
+	locale: (null)
+Request [GetConfigParams, 1642659987, Session{requestOriginator='hcm-ucmdb-3263646220-nnvqq_1519662823667', sessionId='47eac586fab6b922b0c89f6fb9f32b94', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='10.3.163.8', lastUsedInMillis=1519664153899}, logged in user: UISysadmin], Output:
+	configParams: {ucmdb_browser.customers_states=ConfigParameterImpl{name='ucmdb_browser.customers_states', value='false', parameterType=GLOBAL}}
+----- [Total Time: 166ms ]
+2018-02-26 16:56:10,333  INFO   [UCMDB Notification Services Reregister Thread] - Request [RegisterUrmListener, 1345216117, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+	urmFilter: Object of type [ResourceTypeFilter]
+	listener: Proxy[RemoteUrmListener,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.77.48.5:42348](local),objID:[74c0c418:161d2f665db:-7ff8, 6912493479671057026]]]]]
+	listenerId: 81738461-f04a-49ab-a06d-f11ca37c334b
+Request [RegisterUrmListener, 1345216117, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	userIdAsString: (null)
+----- [Total Time: 1ms ]
+2018-02-26 16:56:11,667  INFO   [CmdbLifeCycleManager periodic customers detection] - Request [ServerHaInfoRequest, 2052743247, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Input:
+Request [ServerHaInfoRequest, 2052743247, Session{requestOriginator='34', sessionId='hcm-ucmdb-3263646220-nnvqq_1519662823667', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519663329695}, logged in user: UISysadmin], Output:
+	isWriter: true
+	serverName: hcm-ucmdb-3263646220-nnvqq
+----- [Total Time: 1ms ]

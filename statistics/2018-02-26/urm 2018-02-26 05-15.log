@@ -1,0 +1,41 @@
+
+************************ Statistics from 2018-02-26 05:00:00.008 until 2018-02-26 05:15:00.002 ************************
+Operations executed: 1445
+Different operation types executed: 14
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:      16 # On: 2018-02-26 05:00:02.475 # put [License_LICENSE_SUMMARY]
+put [License_LICENSE_SUMMARY]
+# Millis:      16 # On: 2018-02-26 05:00:01.214 # put [Freemium_FIRST_IDS]
+put [Freemium_FIRST_IDS]
+# Millis:      10 # On: 2018-02-26 05:02:57.770 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       9 # On: 2018-02-26 05:08:40.001 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 05:02:56.877 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       8 # On: 2018-02-26 05:00:01.230 # put [Freemium_FIRST_IDS]
+put [Freemium_FIRST_IDS]
+# Millis:       1 # On: 2018-02-26 05:04:17.132 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       1 # On: 2018-02-26 05:09:53.164 # getAll [Settings_LDAP_SETTING]
+getAll [Settings_LDAP_SETTING]
+# Millis:       1 # On: 2018-02-26 05:00:02.453 # getAllByFilter [Discovery_ADAPTER_METADATA]
+getAllByFilter [Discovery_ADAPTER_METADATA]
+# Millis:       1 # On: 2018-02-26 05:01:23.656 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+ *** All operations statistics ***
+# Avg (ms):      16 # Max (ms):      16 # Count:     1 # Last called: 2018-02-26 05:00:02.475 # put [License_LICENSE_SUMMARY]
+# Avg (ms):      12 # Max (ms):      16 # Count:     2 # Last called: 2018-02-26 05:00:01.230 # put [Freemium_FIRST_IDS]
+# Avg (ms):       9 # Max (ms):      10 # Count:     3 # Last called: 2018-02-26 05:08:40.001 # getAll [Topology_TQL]
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 05:00:02.453 # getAllByFilter [Discovery_ADAPTER_METADATA]
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 05:00:02.454 # getAllByFilter [Discovery_JOB_METADATA]
+# Avg (ms):       0 # Max (ms):       0 # Count:     4 # Last called: 2018-02-26 05:13:40.076 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   770 # Last called: 2018-02-26 05:14:55.332 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 05:00:02.453 # list [Freemium_FIRST_IDS]
+# Avg (ms):       0 # Max (ms):       1 # Count:    20 # Last called: 2018-02-26 05:13:17.302 # getAll [Settings_DYNAMIC_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:   317 # Last called: 2018-02-26 05:14:55.332 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 05:00:02.453 # getAll [Freemium_FIRST_IDS]
+# Avg (ms):       0 # Max (ms):       1 # Count:   208 # Last called: 2018-02-26 05:14:38.315 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 05:00:02.453 # getAll [Integration_ADAPTER_CONFIG]
+# Avg (ms):       0 # Max (ms):       1 # Count:   113 # Last called: 2018-02-26 05:14:55.332 # getAll [Auth_TENANT]

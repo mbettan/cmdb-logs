@@ -1,0 +1,39 @@
+
+************************ Statistics from 2018-02-26 16:15:00.011 until 2018-02-26 16:30:00.010 ************************
+Operations executed: 452
+Different operation types executed: 12
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:    1061 # On: 2018-02-26 16:15:15.443 # SELECT * FROM HA_WRITER for update
+null
+# Millis:      16 # On: 2018-02-26 16:18:10.681 # SELECT * FROM HA_WRITER for update
+null
+# Millis:      15 # On: 2018-02-26 16:18:17.540 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+null
+# Millis:       7 # On: 2018-02-26 16:18:10.810 # select IS_ACTIVE from CUSTOMER_REGISTRATION where ID=?
+null
+# Millis:       7 # On: 2018-02-26 16:18:10.797 # select * from CUSTOMER_REGISTRATION order by ID
+null
+# Millis:       6 # On: 2018-02-26 16:15:00.561 # select * from CUSTOMER_REGISTRATION order by ID
+null
+# Millis:       5 # On: 2018-02-26 16:18:10.697 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)
+null
+# Millis:       3 # On: 2018-02-26 16:15:16.504 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)
+null
+# Millis:       3 # On: 2018-02-26 16:18:40.500 # SELECT SEQUENCE_VALUE FROM SEQUENCES WHERE SEQUENCE_KEY=? and SEQUENCE_CUSTOMER_ID=? for update
+null
+# Millis:       2 # On: 2018-02-26 16:18:10.806 # select * from DB_CONTEXT
+null
+ *** All operations statistics ***
+# Avg (ms):       7 # Max (ms):    1061 # Count:    53 # Last called: 2018-02-26 16:29:45.483 # SELECT * FROM HA_WRITER for update
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 16:18:44.304 # select * from DB_CONTEXT where SCHEMA_TYPE=? and CONFIG_ID=?
+# Avg (ms):       1 # Max (ms):       2 # Count:     2 # Last called: 2018-02-26 16:18:55.131 # SELECT MODEL_ID, REVISION FROM HA_REVISIONS WHERE MODEL_ID IN ('URM_customerId_1') for update
+# Avg (ms):       1 # Max (ms):       1 # Count:     4 # Last called: 2018-02-26 16:18:55.125 # update SEQUENCES set SEQUENCE_VALUE=? where SEQUENCE_KEY=? and SEQUENCE_CUSTOMER_ID=?
+# Avg (ms):       1 # Max (ms):       3 # Count:     4 # Last called: 2018-02-26 16:18:55.124 # SELECT SEQUENCE_VALUE FROM SEQUENCES WHERE SEQUENCE_KEY=? and SEQUENCE_CUSTOMER_ID=? for update
+# Avg (ms):       0 # Max (ms):       7 # Count:   102 # Last called: 2018-02-26 16:29:52.530 # select IS_ACTIVE from CUSTOMER_REGISTRATION where ID=?
+# Avg (ms):       0 # Max (ms):       2 # Count:    52 # Last called: 2018-02-26 16:29:41.231 # select * from DB_CONTEXT
+# Avg (ms):       0 # Max (ms):       1 # Count:    53 # Last called: 2018-02-26 16:29:45.485 # UPDATE HA_WRITER SET SERVER_ID=?,TIMESTAMP=?,SUGGESTED_SERVER_ID=?,SUGGESTION_TIMESTAMP=?
+# Avg (ms):       0 # Max (ms):       7 # Count:   102 # Last called: 2018-02-26 16:29:52.527 # select * from CUSTOMER_REGISTRATION order by ID
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 16:18:44.301 # select * from CUSTOMER_REGISTRATION where ID=?
+# Avg (ms):       0 # Max (ms):      15 # Count:    25 # Last called: 2018-02-26 16:29:47.545 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+# Avg (ms):       0 # Max (ms):       5 # Count:    53 # Last called: 2018-02-26 16:29:45.484 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)

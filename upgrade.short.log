@@ -1,0 +1,6 @@
+2018-02-21 18:17:17,882  INFO   [qtp1607453282-104918] - ---> OOTB class model changes has been found: jar:file:/ucmdb/lib/app-infra.jar!/upgrade/sp_bdm_changes.xml
+2018-02-21 18:17:17,885  INFO   [qtp1607453282-104918] - ---> Class model changes to be loaded from jar:file:/ucmdb/lib/app-infra.jar!/upgrade/sp_bdm_changes.xml
+2018-02-21 18:17:18,003  INFO   [qtp1607453282-104918] - ---> Content pack class model changes to be loaded from /ucmdb/./content/content_packs/CP_25.zip
+2018-02-26 16:18:44,236  INFO   [qtp888378046-1138] - ---> OOTB class model changes has been found: jar:file:/ucmdb/lib/app-infra.jar!/upgrade/sp_bdm_changes.xml
+2018-02-26 16:18:44,238  INFO   [qtp888378046-1138] - ---> Class model changes to be loaded from jar:file:/ucmdb/lib/app-infra.jar!/upgrade/sp_bdm_changes.xml
+2018-02-26 16:18:44,307  INFO   [qtp888378046-1138] - ---> Content pack class model changes to be loaded from /ucmdb/./content/content_packs/CP_25.zip

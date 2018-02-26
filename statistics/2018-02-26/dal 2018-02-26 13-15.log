@@ -1,0 +1,34 @@
+
+************************ Statistics from 2018-02-26 13:00:01.335 until 2018-02-26 13:15:00.008 ************************
+Operations executed: 564
+Different operation types executed: 7
+Operations average time (in millis): 119
+The 10 worst operations are:
+# Millis:   11712 # On: 2018-02-26 13:13:43.675 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+null
+# Millis:   11625 # On: 2018-02-26 13:13:43.763 # select * from CUSTOMER_REGISTRATION order by ID
+null
+# Millis:   10718 # On: 2018-02-26 13:04:46.722 # SELECT * FROM HA_WRITER for update
+null
+# Millis:    6632 # On: 2018-02-26 13:08:34.510 # select * from DB_CONTEXT
+null
+# Millis:    6072 # On: 2018-02-26 13:02:46.722 # SELECT * FROM HA_WRITER for update
+null
+# Millis:    5861 # On: 2018-02-26 13:10:37.799 # select * from CUSTOMER_REGISTRATION order by ID
+null
+# Millis:    5566 # On: 2018-02-26 13:05:26.703 # select * from CUSTOMER_REGISTRATION order by ID
+null
+# Millis:    4494 # On: 2018-02-26 13:02:43.270 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+null
+# Millis:    2461 # On: 2018-02-26 13:10:41.199 # select * from CUSTOMER_REGISTRATION order by ID
+null
+# Millis:    2128 # On: 2018-02-26 13:08:32.377 # select * from CUSTOMER_REGISTRATION order by ID
+null
+ *** All operations statistics ***
+# Avg (ms):     535 # Max (ms):   11712 # Count:    30 # Last called: 2018-02-26 13:14:43.676 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+# Avg (ms):     364 # Max (ms):   10718 # Count:    60 # Last called: 2018-02-26 13:14:53.859 # SELECT * FROM HA_WRITER for update
+# Avg (ms):     175 # Max (ms):   11625 # Count:   138 # Last called: 2018-02-26 13:14:55.432 # select * from CUSTOMER_REGISTRATION order by ID
+# Avg (ms):      71 # Max (ms):    6632 # Count:    78 # Last called: 2018-02-26 13:14:55.434 # select * from DB_CONTEXT
+# Avg (ms):       0 # Max (ms):       1 # Count:    60 # Last called: 2018-02-26 13:14:53.861 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)
+# Avg (ms):       0 # Max (ms):     540 # Count:    60 # Last called: 2018-02-26 13:14:53.862 # UPDATE HA_WRITER SET SERVER_ID=?,TIMESTAMP=?,SUGGESTED_SERVER_ID=?,SUGGESTION_TIMESTAMP=?
+# Avg (ms):       0 # Max (ms):       1 # Count:   138 # Last called: 2018-02-26 13:14:55.436 # select IS_ACTIVE from CUSTOMER_REGISTRATION where ID=?

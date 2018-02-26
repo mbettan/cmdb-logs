@@ -1,0 +1,45 @@
+
+************************ Statistics from 2018-02-26 02:15:00.008 until 2018-02-26 02:30:00.001 ************************
+Operations executed: 581
+Different operation types executed: 18
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:     102 # On: 2018-02-26 02:18:35.359 # SELECT COUNT(*) FROM MANAGED_RELATIONSHIP_1
+null
+# Millis:      28 # On: 2018-02-26 02:18:35.285 # SELECT COUNT(*) FROM USAGE_1
+null
+# Millis:      25 # On: 2018-02-26 02:18:35.316 # SELECT COUNT(*) FROM DEPENDENCY_1
+null
+# Millis:       4 # On: 2018-02-26 02:23:47.555 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 02:18:02.552 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 02:15:02.550 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 02:20:02.552 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 02:17:02.551 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 02:19:02.553 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 02:16:02.549 # SELECT * FROM HA_WRITER for update
+null
+ *** All operations statistics ***
+# Avg (ms):     102 # Max (ms):     102 # Count:     1 # Last called: 2018-02-26 02:18:35.359 # SELECT COUNT(*) FROM MANAGED_RELATIONSHIP_1
+# Avg (ms):      28 # Max (ms):      28 # Count:     1 # Last called: 2018-02-26 02:18:35.285 # SELECT COUNT(*) FROM USAGE_1
+# Avg (ms):      25 # Max (ms):      25 # Count:     1 # Last called: 2018-02-26 02:18:35.316 # SELECT COUNT(*) FROM DEPENDENCY_1
+# Avg (ms):       2 # Max (ms):       2 # Count:     1 # Last called: 2018-02-26 02:18:35.344 # SELECT COUNT(*) FROM CONTAINMENT_1
+# Avg (ms):       2 # Max (ms):       2 # Count:     1 # Last called: 2018-02-26 02:18:35.351 # SELECT COUNT(*) FROM FCMDB_CONF_AGGREGATION_1
+# Avg (ms):       2 # Max (ms):       2 # Count:     1 # Last called: 2018-02-26 02:18:35.355 # SELECT COUNT(*) FROM OWNERSHIP_1
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 02:18:35.463 # SELECT COUNT(*) FROM EXECUTION_ENVIRONMENT_1
+# Avg (ms):       1 # Max (ms):       4 # Count:    60 # Last called: 2018-02-26 02:29:47.555 # SELECT * FROM HA_WRITER for update
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 02:18:35.348 # SELECT COUNT(*) FROM COMPOSITION_1
+# Avg (ms):       1 # Max (ms):       2 # Count:    60 # Last called: 2018-02-26 02:29:47.557 # UPDATE HA_WRITER SET SERVER_ID=?,TIMESTAMP=?,SUGGESTED_SERVER_ID=?,SUGGESTION_TIMESTAMP=?
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 02:18:35.465 # SELECT COUNT(*) FROM MEMBERSHIP_1
+# Avg (ms):       0 # Max (ms):       1 # Count:    80 # Last called: 2018-02-26 02:29:48.744 # select * from DB_CONTEXT
+# Avg (ms):       0 # Max (ms):       1 # Count:   140 # Last called: 2018-02-26 02:29:49.268 # select * from CUSTOMER_REGISTRATION order by ID
+# Avg (ms):       0 # Max (ms):       1 # Count:    60 # Last called: 2018-02-26 02:29:47.556 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)
+# Avg (ms):       0 # Max (ms):       1 # Count:   140 # Last called: 2018-02-26 02:29:49.269 # select IS_ACTIVE from CUSTOMER_REGISTRATION where ID=?
+# Avg (ms):       0 # Max (ms):       1 # Count:    30 # Last called: 2018-02-26 02:29:35.091 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 02:18:35.470 # SELECT COUNT(*) FROM REALIZATION_1
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 02:18:35.468 # SELECT COUNT(*) FROM HISTORY_LINK_1

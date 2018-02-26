@@ -1,0 +1,159 @@
+{
+  "dailyRates": [
+    {
+      "date": "2018-01-04",
+      "totalTimeInHours": "0.005",
+      "totalCIsNumber": "10",
+      "rateCIsPerSecond": "0.52",
+      "dailyUsage": "0.022",
+      "totalModelTime": "0.004",
+      "totalIdentifyTime": "0",
+      "totalDataInTime": "0",
+      "averageCisPerBulk": "2",
+      "numberOfBulkPerDay": "5"
+    },
+    {
+      "date": "2018-01-05",
+      "totalTimeInHours": "0.008",
+      "totalCIsNumber": "48",
+      "rateCIsPerSecond": "1.752",
+      "dailyUsage": "0.032",
+      "totalModelTime": "0.001",
+      "totalIdentifyTime": "0.003",
+      "totalDataInTime": "0",
+      "averageCisPerBulk": "1",
+      "numberOfBulkPerDay": "27"
+    }
+  ],
+  "jobsThroughputRatesDetailed": [
+    {
+      "jobName": "UCMDB: User:{admin###UCMDB},LoggedInUser:{admin###UCMDB} Customer \u003d 1",
+      "numberOfCis": "58",
+      "totalTimeInHours": "0.013",
+      "totalTimeInSeconds": "46.63",
+      "rateCIsPerSecond": "1.244",
+      "totalModelTimeInHours": "0.004",
+      "totalIdentifyTimeInHours": "0.003",
+      "totalDataInTimeInHours": "0",
+      "numberOfBulks": "32",
+      "averageCIsPerBulk": "1",
+      "manipulation": "0",
+      "identificationQuery": "0.007",
+      "identificationMatch": "0",
+      "merge": "0",
+      "mergeQuery": "0",
+      "mergeLoa": "0",
+      "updateModelTopology": "0",
+      "updateModelPostValidation": "0",
+      "updateModelDb": "0",
+      "updateHistory": "0.004",
+      "updateLoa": "0",
+      "updateHA": "0",
+      "dataInLock": "0.005",
+      "dataInLockIdentification": "0.005",
+      "dataInLockCheck": "0"
+    }
+  ],
+  "dailyRatesPerJob": [
+    {
+      "date": "2018-01-04",
+      "jobName": "UCMDB: User:{admin###UCMDB},LoggedInUser:{admin###UCMDB} Customer \u003d 1",
+      "totalTimeInHours": "0.005",
+      "totalCIsNumber": "10",
+      "rateCIsPerSecond": "0.52",
+      "totalModelTimeInHours": "0.004",
+      "totalIdentifyTimeInHours": "0",
+      "totalDataInTimeInHours": "0",
+      "averageCisPerBulk": "2",
+      "numberOfBulksPerDay": "5"
+    },
+    {
+      "date": "2018-01-05",
+      "jobName": "UCMDB: User:{admin###UCMDB},LoggedInUser:{admin###UCMDB} Customer \u003d 1",
+      "totalTimeInHours": "0.008",
+      "totalCIsNumber": "48",
+      "rateCIsPerSecond": "1.752",
+      "totalModelTimeInHours": "0.001",
+      "totalIdentifyTimeInHours": "0.003",
+      "totalDataInTimeInHours": "0",
+      "averageCisPerBulk": "1",
+      "numberOfBulksPerDay": "27"
+    }
+  ],
+  "dailyRatesPerDataSource": [
+    {
+      "date": "2018-01-04",
+      "dataSourceName": "UCMDB-UI / UCMDB SDK",
+      "totalTimeInHours": "0.005",
+      "totalCisNumber": "10",
+      "rateCIsPerSecond": "0.52",
+      "totalModelTimeInHours": "0.004",
+      "totalIdentifyTimeInHours": "0",
+      "totalDataInTimeInHours": "0",
+      "averageCisPerBulk": "2",
+      "numberOfBulksPerDay": "5"
+    },
+    {
+      "date": "2018-01-05",
+      "dataSourceName": "UCMDB-UI / UCMDB SDK",
+      "totalTimeInHours": "0.008",
+      "totalCisNumber": "48",
+      "rateCIsPerSecond": "1.752",
+      "totalModelTimeInHours": "0.001",
+      "totalIdentifyTimeInHours": "0.003",
+      "totalDataInTimeInHours": "0",
+      "averageCisPerBulk": "1",
+      "numberOfBulksPerDay": "27"
+    }
+  ],
+  "failedBulksInfo": [],
+  "removeByIdJobsInfo": [],
+  "dailyRatesPerProbe": [
+    {
+      "date": "2018-01-04",
+      "probeName": "Not through Probe",
+      "totalTimeInHours": "0.005",
+      "totalCIsNumber": "10",
+      "rateCIsPerSecond": "0.52",
+      "totalModelTimeInHours": "0.004",
+      "totalIdentifyTimeInHours": "0",
+      "totalDataInTimeInHours": "0",
+      "averageCisPerBulk": "2",
+      "numberOfBulksPerDay": "5"
+    },
+    {
+      "date": "2018-01-05",
+      "probeName": "Not through Probe",
+      "totalTimeInHours": "0.008",
+      "totalCIsNumber": "48",
+      "rateCIsPerSecond": "1.752",
+      "totalModelTimeInHours": "0.001",
+      "totalIdentifyTimeInHours": "0.003",
+      "totalDataInTimeInHours": "0",
+      "averageCisPerBulk": "1",
+      "numberOfBulksPerDay": "27"
+    }
+  ],
+  "jobsThroughputRatesPerProbe": [
+    {
+      "probeName": "Not through Probe",
+      "numberOfCIs": "58",
+      "totalTimeInHours": "0.013",
+      "totalTimeInSeconds": "46.63",
+      "rateCIsPerSecond": "1.244",
+      "totalModelTimeInHours": "0.004",
+      "totalIdentifyTimeInHours": "0.003",
+      "totalDataInTimeInHours": "0",
+      "numberOfBulks": "32",
+      "averageCisPerBulk": "1"
+    }
+  ],
+  "generalInfo": {
+    "timeFrame": "Analyzing between timeframe 05-01-18 13:35:47 until 05-01-18 01:40:37 which is -11.919 hours",
+    "successfulDataInTimeInHours": "0.013",
+    "removeByIdTimeInHours": "0",
+    "graceTotalTimeInHours": "0",
+    "failedJobsDataInTimeInHours": "0",
+    "numberOfDataBulksIgnored": "0"
+  }
+}

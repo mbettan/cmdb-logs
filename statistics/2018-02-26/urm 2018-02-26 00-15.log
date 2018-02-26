@@ -1,0 +1,39 @@
+
+************************ Statistics from 2018-02-26 00:00:00.008 until 2018-02-26 00:15:00.002 ************************
+Operations executed: 2743
+Different operation types executed: 12
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:      11 # On: 2018-02-26 00:02:57.779 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       9 # On: 2018-02-26 00:08:40.001 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       9 # On: 2018-02-26 00:02:56.876 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       1 # On: 2018-02-26 00:00:36.023 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 00:00:36.060 # getAllByFilter [Discovery_JOB_METADATA]
+getAllByFilter [Discovery_JOB_METADATA]
+# Millis:       1 # On: 2018-02-26 00:00:35.994 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 00:00:36.011 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 00:00:35.986 # getAllByIndex [History_HIST_PARTITIONS]
+getAllByIndex [History_HIST_PARTITIONS]
+# Millis:       1 # On: 2018-02-26 00:00:36.058 # getAllByFilter [Discovery_JOB_METADATA]
+getAllByFilter [Discovery_JOB_METADATA]
+# Millis:       1 # On: 2018-02-26 00:00:36.054 # getAllByFilter [Discovery_ADAPTER_METADATA]
+getAllByFilter [Discovery_ADAPTER_METADATA]
+ *** All operations statistics ***
+# Avg (ms):       9 # Max (ms):      11 # Count:     3 # Last called: 2018-02-26 00:08:40.001 # getAll [Topology_TQL]
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 00:00:36.054 # getAllByFilter [Discovery_ADAPTER_METADATA]
+# Avg (ms):       0 # Max (ms):       1 # Count:   180 # Last called: 2018-02-26 00:14:38.004 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):       0 # Count:   317 # Last called: 2018-02-26 00:14:55.303 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       0 # Count:     4 # Last called: 2018-02-26 00:13:40.072 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       1 # Count:   770 # Last called: 2018-02-26 00:14:55.303 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:   259 # Last called: 2018-02-26 00:00:36.259 # getDetails [Discovery_JOB_METADATA]
+# Avg (ms):       0 # Max (ms):       1 # Count:   113 # Last called: 2018-02-26 00:14:55.303 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       1 # Count:   340 # Last called: 2018-02-26 00:00:36.259 # getAllByFilter [Discovery_JOB_METADATA]
+# Avg (ms):       0 # Max (ms):       1 # Count:   734 # Last called: 2018-02-26 00:00:36.028 # getAllByIndex [History_HIST_PARTITIONS]
+# Avg (ms):       0 # Max (ms):       0 # Count:     2 # Last called: 2018-02-26 00:00:36.260 # getAll [Discovery_SERVICE_DISCOVERY_ACTIVITY]
+# Avg (ms):       0 # Max (ms):       0 # Count:    20 # Last called: 2018-02-26 00:13:17.258 # getAll [Settings_DYNAMIC_SETTING]

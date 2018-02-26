@@ -1,0 +1,34 @@
+
+************************ Statistics from 2018-02-26 09:00:00.045 until 2018-02-26 09:15:00.006 ************************
+Operations executed: 1407
+Different operation types executed: 7
+Operations average time (in millis): 0
+The 10 worst operations are:
+# Millis:       9 # On: 2018-02-26 09:02:56.879 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       9 # On: 2018-02-26 09:08:40.001 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       9 # On: 2018-02-26 09:02:57.770 # getAll [Topology_TQL]
+getAll [Topology_TQL]
+# Millis:       1 # On: 2018-02-26 09:01:17.020 # getAll [License_LICENSE]
+getAll [License_LICENSE]
+# Millis:       1 # On: 2018-02-26 09:09:53.545 # getAll [Auth_TENANT]
+getAll [Auth_TENANT]
+# Millis:       1 # On: 2018-02-26 09:10:16.307 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       1 # On: 2018-02-26 09:10:16.959 # getAll [Auth_TENANT]
+getAll [Auth_TENANT]
+# Millis:       1 # On: 2018-02-26 09:01:16.317 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       0 # On: 2018-02-26 09:00:01.304 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+# Millis:       0 # On: 2018-02-26 09:00:32.768 # getAllByIndex [Auth_USER]
+getAllByIndex [Auth_USER]
+ *** All operations statistics ***
+# Avg (ms):       9 # Max (ms):       9 # Count:     3 # Last called: 2018-02-26 09:08:40.001 # getAll [Topology_TQL]
+# Avg (ms):       0 # Max (ms):       0 # Count:   770 # Last called: 2018-02-26 09:14:55.352 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:    20 # Last called: 2018-02-26 09:13:17.277 # getAll [Settings_DYNAMIC_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:   113 # Last called: 2018-02-26 09:14:55.352 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       1 # Count:   180 # Last called: 2018-02-26 09:14:38.570 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):       1 # Count:   317 # Last called: 2018-02-26 09:14:55.352 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       0 # Count:     4 # Last called: 2018-02-26 09:13:40.082 # getAll [Topology_TQL_TRACKER]

@@ -2860,3 +2860,4 @@ com.mercury.topaz.cmdb.shared.base.HARemoteServerNotResponding: Remote server [W
 2018-02-26 16:52:23,987  INFO   [UCMDB - global framework scheduler] - serverId: hcm-ucmdb-3263646220-nnvqq_1519662823667 is responding to the /ping request. We assume Jetty is up and will update the timestamp.
 2018-02-26 16:53:23,988  INFO   [UCMDB - global framework scheduler] - serverId: hcm-ucmdb-3263646220-nnvqq_1519662823667 is responding to the /ping request. We assume Jetty is up and will update the timestamp.
 2018-02-26 16:54:23,989  INFO   [UCMDB - global framework scheduler] - serverId: hcm-ucmdb-3263646220-nnvqq_1519662823667 is responding to the /ping request. We assume Jetty is up and will update the timestamp.
+2018-02-26 16:55:23,987  INFO   [UCMDB - global framework scheduler] - serverId: hcm-ucmdb-3263646220-nnvqq_1519662823667 is responding to the /ping request. We assume Jetty is up and will update the timestamp.

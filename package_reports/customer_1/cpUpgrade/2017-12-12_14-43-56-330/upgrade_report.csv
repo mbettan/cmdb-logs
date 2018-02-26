@@ -1,0 +1,9 @@
+Type,Name,Package,Existence Status,Equality Status,Merge Strategy,Conflict Strategy,Final Strategy
+adapterCode,AutomationFlowAdapter/automation-flow-adapter.jar,AutomationFlowAdapter.zip,NEW,,,,USE_NEW
+adapterCode,AutomationFlowAdapter/axis-1.4.jar,AutomationFlowAdapter.zip,NEW,,,,USE_NEW
+adapterCode,AutomationFlowAdapter/axis-jaxrpc-1.4.jar,AutomationFlowAdapter.zip,NEW,,,,USE_NEW
+adapterCode,AutomationFlowAdapter/axis-saaj-1.4.jar,AutomationFlowAdapter.zip,NEW,,,,USE_NEW
+adapterCode,AutomationFlowAdapter/axis-wsdl4j-1.5.1.jar,AutomationFlowAdapter.zip,NEW,,,,USE_NEW
+adapterCode,AutomationFlowAdapter/commons-discovery-0.2.jar,AutomationFlowAdapter.zip,NEW,,,,USE_NEW
+adapterCode,AutomationFlowAdapter/wscentralservice.client-9.0.jar,AutomationFlowAdapter.zip,NEW,,,,USE_NEW
+discoveryPatterns,AutomationFlowAdapter.xml,AutomationFlowAdapter.zip,NEW,,,,USE_NEW

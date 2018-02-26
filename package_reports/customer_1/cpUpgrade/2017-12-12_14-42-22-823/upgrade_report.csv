@@ -1,0 +1,25 @@
+Type,Name,Package,Existence Status,Equality Status,Merge Strategy,Conflict Strategy,Final Strategy
+adapterCode,EnterpriseViewAdapter/SL_plugins.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/backport-util-concurrent.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/biarengine.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/biplugins.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/boconfig.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/cecore.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/celib.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/cereports.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/cesession.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/config/bo_report_definition.xml,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/corbaidl.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/derby.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/ebus405.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/enterprise-view-adapter.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/jtools.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/logging.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/rascore.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/rebean.common.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/rebean.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/rebean.wi.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/serialization.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/wilog.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+adapterCode,EnterpriseViewAdapter/xpp3.jar,enterprise-view-adapter.zip,NEW,,,,USE_NEW
+discoveryPatterns,EnterpriseViewAdapter.xml,enterprise-view-adapter.zip,NEW,,,,USE_NEW

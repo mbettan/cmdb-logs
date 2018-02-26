@@ -1,0 +1,2 @@
+t,count,max,mean,min,stddev,p50,p75,p95,p98,p99,p999,mean_rate,m1_rate,m5_rate,m15_rate,rate_unit,duration_unit
+1519664145,15,0.001000,0.000668,0.000000,0.000471,0.001000,0.001000,0.001000,0.001000,0.001000,0.001000,0.025930,0.000225,0.448706,1.592458,calls/second,seconds

@@ -1,0 +1,122 @@
+2017-12-13 00:00:36,225  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-15 00:00:35,305  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-16 00:00:35,286  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-17 00:00:35,287  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-18 00:00:35,286  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-19 00:00:35,286  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-20 00:00:35,529  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-21 00:00:35,527  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-22 00:00:35,530  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-23 00:00:35,529  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-24 00:00:35,529  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-25 00:00:35,531  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-26 00:00:35,527  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-27 00:00:35,527  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-28 00:00:35,527  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-29 00:00:35,530  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-30 00:00:35,529  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2017-12-31 00:00:35,531  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-01 00:00:35,529  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-02 00:00:35,530  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-03 00:00:35,529  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-04 22:25:39,331  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-04 22:25:39,509  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 177
+2018-01-05 00:00:18,935  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-05 16:36:13,333  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:36:13,360  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 27
+2018-01-05 16:36:38,341  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:36:38,355  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 14
+2018-01-05 16:41:28,365  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:41:28,372  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:41:28,377  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 2. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:41:28,384  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 3. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:41:28,396  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 31
+2018-01-05 16:41:28,405  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 9
+2018-01-05 16:41:28,413  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 8
+2018-01-05 16:41:28,421  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 8
+2018-01-05 16:42:08,354  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:08,357  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:08,362  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 8
+2018-01-05 16:42:08,363  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:08,370  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 8
+2018-01-05 16:42:08,378  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 8
+2018-01-05 16:42:23,358  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:23,365  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:23,369  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 11
+2018-01-05 16:42:23,373  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:23,377  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 2. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:23,380  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 11
+2018-01-05 16:42:23,385  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 2. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:23,390  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 10
+2018-01-05 16:42:23,393  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 2. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:23,399  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 9
+2018-01-05 16:42:23,399  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 2. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:23,407  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 8
+2018-01-05 16:42:23,414  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 7
+2018-01-05 16:42:23,422  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 8
+2018-01-05 16:42:48,354  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:48,359  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 16:42:48,359  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 5
+2018-01-05 16:42:48,363  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 4
+2018-01-05 23:24:39,226  INFO   [notification_publish_task5-382] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-01-05 23:24:39,244  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 18
+2018-01-06 00:00:18,716  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-07 00:00:18,659  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-08 00:00:18,654  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-09 00:00:18,653  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-10 00:05:58,229  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-11 00:05:58,229  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-12 00:05:58,229  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-13 00:00:50,761  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-14 00:00:50,737  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-15 00:00:50,736  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-16 00:00:28,078  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-17 00:00:28,053  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-18 00:00:28,052  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-19 00:00:28,052  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-20 00:00:28,053  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-21 00:00:28,053  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-22 00:00:28,053  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-23 00:00:28,052  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-24 00:00:28,052  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-25 00:00:28,052  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-26 00:00:25,405  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-27 00:00:25,380  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-28 00:00:25,377  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-29 00:00:25,383  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-30 00:00:25,381  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-01-31 00:00:25,392  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-01 00:00:25,383  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-02 00:00:03,383  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-03 00:00:03,355  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-04 00:00:03,355  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-05 00:00:03,356  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-06 00:00:03,356  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-07 00:00:03,356  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-08 00:00:03,356  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-09 00:00:03,356  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-10 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-11 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-12 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-13 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-14 00:06:26,044  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-15 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-16 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-17 00:06:26,044  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-18 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-19 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-20 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-21 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-22 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-22 16:11:01,653  INFO   [notification_publish_task5-383] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-02-22 16:11:01,689  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 36
+2018-02-22 16:11:21,610  INFO   [notification_publish_task5-383] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-02-22 16:11:21,616  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 6
+2018-02-22 16:11:46,611  INFO   [notification_publish_task5-383] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-02-22 16:11:46,614  INFO   [notification_publish_task5-383] - [DISPATCH] Adding dispatch task to queue. New queue size: 1. Task: Undispatch Trigger CIs. Job: , num of objects:1
+2018-02-22 16:11:46,622  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 11
+2018-02-22 16:11:46,629  INFO   [TasksDispatchingThread] - [DISPATCH] END DISPATCH TIME: 7
+2018-02-23 00:06:26,043  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-24 00:00:36,074  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-25 00:00:36,055  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]
+2018-02-26 00:00:36,055  INFO   [UCMDB - scheduler for customer 1, id name: Default Client] - Live Discovery will exclude adapter [null]

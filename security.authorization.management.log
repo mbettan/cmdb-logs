@@ -10062,3 +10062,23 @@ com.hp.ucmdb.api.classmodel.ClassDoesNotExistException: Class cloud_subscription
 2018-02-26 16:55:18,071  INFO   [qtp1848900782-370] - On user repository server: UCMDB the user: UISysadmin authentication result is: true. Operation took: 0 milliseconds.
 2018-02-26 16:55:18,071  INFO   [qtp1848900782-370] - The user from repository server: UCMDB named: UISysadmin was synchronized on UCMDB. Operation took: 0 milliseconds.
 2018-02-26 16:55:18,071  INFO   [qtp1848900782-370] - User : UISysadmin authentication has: passed on user repository: UCMDB. Caller application name: UCMDB-UI,loggedInUser:{UISysadmin###UCMDB}
+2018-02-26 16:55:20,508  INFO   [qtp1848900782-560] - Authenticate user : UISysadmin. No user repository specified. Flow  isInteractive: true, isLdapAuthenticationInNonInteractiveFlowEnabled: true
+2018-02-26 16:55:20,508  INFO   [qtp1848900782-560] - No user repository server was specified. The user: UISysadmin will try to authenticate on the first user repository where he is found.
+2018-02-26 16:55:20,509  INFO   [qtp1848900782-560] - On user repository server: UCMDB the user: UISysadmin authentication result is: true. Operation took: 0 milliseconds.
+2018-02-26 16:55:20,509  INFO   [qtp1848900782-560] - The user from repository server: UCMDB named: UISysadmin was synchronized on UCMDB. Operation took: 0 milliseconds.
+2018-02-26 16:55:20,509  INFO   [qtp1848900782-560] - User : UISysadmin authentication has: passed on user repository: UCMDB. Caller application name: UCMDB-UI,loggedInUser:{UISysadmin###UCMDB}
+2018-02-26 16:55:21,432  INFO   [qtp1848900782-370] - Authenticate user : UISysadmin. No user repository specified. Flow  isInteractive: true, isLdapAuthenticationInNonInteractiveFlowEnabled: true
+2018-02-26 16:55:21,432  INFO   [qtp1848900782-370] - No user repository server was specified. The user: UISysadmin will try to authenticate on the first user repository where he is found.
+2018-02-26 16:55:21,432  INFO   [qtp1848900782-370] - On user repository server: UCMDB the user: UISysadmin authentication result is: true. Operation took: 0 milliseconds.
+2018-02-26 16:55:21,433  INFO   [qtp1848900782-370] - The user from repository server: UCMDB named: UISysadmin was synchronized on UCMDB. Operation took: 1 milliseconds.
+2018-02-26 16:55:21,433  INFO   [qtp1848900782-370] - User : UISysadmin authentication has: passed on user repository: UCMDB. Caller application name: UCMDB-UI,loggedInUser:{UISysadmin###UCMDB}
+2018-02-26 16:55:23,755  INFO   [qtp1848900782-561] - Authenticate user : UISysadmin. No user repository specified. Flow  isInteractive: true, isLdapAuthenticationInNonInteractiveFlowEnabled: true
+2018-02-26 16:55:23,756  INFO   [qtp1848900782-561] - No user repository server was specified. The user: UISysadmin will try to authenticate on the first user repository where he is found.
+2018-02-26 16:55:23,756  INFO   [qtp1848900782-561] - On user repository server: UCMDB the user: UISysadmin authentication result is: true. Operation took: 0 milliseconds.
+2018-02-26 16:55:23,756  INFO   [qtp1848900782-561] - The user from repository server: UCMDB named: UISysadmin was synchronized on UCMDB. Operation took: 0 milliseconds.
+2018-02-26 16:55:23,756  INFO   [qtp1848900782-561] - User : UISysadmin authentication has: passed on user repository: UCMDB. Caller application name: UCMDB-UI,loggedInUser:{UISysadmin###UCMDB}
+2018-02-26 16:55:48,123  INFO   [qtp1848900782-556] - Authenticate user : UISysadmin. No user repository specified. Flow  isInteractive: true, isLdapAuthenticationInNonInteractiveFlowEnabled: true
+2018-02-26 16:55:48,123  INFO   [qtp1848900782-556] - No user repository server was specified. The user: UISysadmin will try to authenticate on the first user repository where he is found.
+2018-02-26 16:55:48,124  INFO   [qtp1848900782-556] - On user repository server: UCMDB the user: UISysadmin authentication result is: true. Operation took: 0 milliseconds.
+2018-02-26 16:55:48,124  INFO   [qtp1848900782-556] - The user from repository server: UCMDB named: UISysadmin was synchronized on UCMDB. Operation took: 0 milliseconds.
+2018-02-26 16:55:48,124  INFO   [qtp1848900782-556] - User : UISysadmin authentication has: passed on user repository: UCMDB. Caller application name: UCMDB-UI,loggedInUser:{UISysadmin###UCMDB}

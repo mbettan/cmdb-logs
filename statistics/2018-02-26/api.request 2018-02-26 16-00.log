@@ -1,0 +1,85 @@
+
+************************ Statistics from 2018-02-26 15:57:33.025 until 2018-02-26 16:00:00.010 ************************
+Operations executed: 28
+Different operation types executed: 6
+Operations average time (in millis): 1
+The 10 worst operations are:
+# Millis:      39 # On: 2018-02-26 15:58:43.923 # ExecuteOperationRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [ExecuteOperationRequest, 1558482222, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationSetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 1558482222, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4f77007efd14e05fb6bbae8212213828
+Message: Settings Management Task Response
+----- [Total Time: 39ms ]
+# Millis:      13 # On: 2018-02-26 15:58:43.768 # GetUser [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [GetUser, 264201238, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUser, 264201238, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	user: Object of type [UserImpl]
+----- [Total Time: 13ms ]
+# Millis:       6 # On: 2018-02-26 15:58:43.782 # GetUserData [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [GetUserData, 1056030347, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	userId: {UISysadmin###UCMDB}
+Request [GetUserData, 1056030347, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	userDataResponse: Object of type [GetUserDataResponseImpl]
+----- [Total Time: 6ms ]
+# Millis:       5 # On: 2018-02-26 15:58:43.879 # RegisterUrmListener [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [RegisterUrmListener, 299852500, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	urmFilter: Object of type [ResourceTypeFilter]
+	listener: Proxy[RemoteUrmListener,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.77.16.10:38765](local),objID:[-d64a238:161d2ce9290:-7ff8, -7073635841784612263]]]]]
+	listenerId: 194ec9a0-68d5-4843-98e3-b29ced7d717a
+Request [RegisterUrmListener, 299852500, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	userIdAsString: (null)
+----- [Total Time: 5ms ]
+# Millis:       3 # On: 2018-02-26 15:58:43.906 # UrmExecuteRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [UrmExecuteRequest, 822220458, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	instructions: Object of type [UrmInstructionsImpl]
+Request [UrmExecuteRequest, 822220458, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	results: Object of type [UrmExecutionResultsImpl]
+----- [Total Time: 3ms ]
+# Millis:       2 # On: 2018-02-26 15:59:43.879 # RegisterUrmListener [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [RegisterUrmListener, 299852500, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	urmFilter: Object of type [ResourceTypeFilter]
+	listener: Proxy[RemoteUrmListener,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.77.16.10:38765](local),objID:[-d64a238:161d2ce9290:-7ff8, -7073635841784612263]]]]]
+	listenerId: 194ec9a0-68d5-4843-98e3-b29ced7d717a
+Request [RegisterUrmListener, 299852500, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	userIdAsString: (null)
+----- [Total Time: 1ms ]
+# Millis:       1 # On: 2018-02-26 15:59:15.061 # ServerHaInfoRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [ServerHaInfoRequest, 686400635, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+Request [ServerHaInfoRequest, 686400635, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	isWriter: true
+	serverName: hcm-ucmdb-1318668762-0rft3
+----- [Total Time: 1ms ]
+# Millis:       1 # On: 2018-02-26 15:58:43.887 # ExecuteOperationRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [ExecuteOperationRequest, 462097320, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreOperationSPGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 462097320, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4023ef4fdf4db0e78f447bf9367f49bd
+Message: Core quary task Response
+----- [Total Time: 1ms ]
+# Millis:       1 # On: 2018-02-26 15:58:43.922 # ExecuteOperationRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [ExecuteOperationRequest, 562149467, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 562149467, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4aaee492d96b7903aa1d6297c1dcfd95
+Message: Settings Management Task Response
+----- [Total Time: 0ms ]
+# Millis:       1 # On: 2018-02-26 15:58:43.915 # ExecuteOperationRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+Request [ExecuteOperationRequest, 2042337061, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Input:
+	operationToRun: Object of type [CoreGlobalOperationGetSetting]
+	isAsynchronous: false
+Request [ExecuteOperationRequest, 2042337061, Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}, logged in user: UISysadmin], Output:
+	operationResult: ID: 4d747db08e235cdc834b7d2e96f573c4
+Message: Settings Management Task Response
+----- [Total Time: 1ms ]
+ *** All operations statistics ***
+# Avg (ms):      13 # Max (ms):      13 # Count:     1 # Last called: 2018-02-26 15:58:43.768 # GetUser [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+# Avg (ms):       6 # Max (ms):       6 # Count:     1 # Last called: 2018-02-26 15:58:43.782 # GetUserData [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+# Avg (ms):       3 # Max (ms):       3 # Count:     1 # Last called: 2018-02-26 15:58:43.906 # UrmExecuteRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+# Avg (ms):       3 # Max (ms):       5 # Count:     2 # Last called: 2018-02-26 15:59:43.879 # RegisterUrmListener [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+# Avg (ms):       1 # Max (ms):      39 # Count:    20 # Last called: 2018-02-26 15:58:43.923 # ExecuteOperationRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]
+# Avg (ms):       0 # Max (ms):       1 # Count:     3 # Last called: 2018-02-26 15:59:45.078 # ServerHaInfoRequest [Session{requestOriginator='39', sessionId='hcm-ucmdb-1318668762-0rft3_1519660210784', userId='{UISysadmin###UCMDB}', tenantname='null', customerId=1, id name: Default Client, clientAddr='local', lastUsedInMillis=1519660723688}]

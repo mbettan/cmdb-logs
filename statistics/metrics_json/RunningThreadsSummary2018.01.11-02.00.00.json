@@ -1,0 +1,34 @@
+[
+  {
+    "threadId": 34897,
+    "threadName": "RequestProcessorAsyncPool-34897",
+    "operationStack": [
+      {
+        "startTime": 1515636000002,
+        "subsystem": "Model Update Task",
+        "synchronic": true,
+        "id": "412fe4d0ec08c89baf565b13093b5b91",
+        "message": "General CMDB request",
+        "operationName": "ModelQueryGetAgingCIsCount",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "Periodic task keyAgingTask"
+      },
+      {
+        "startTime": 1515636000002,
+        "subsystem": "Model Update Task",
+        "synchronic": false,
+        "id": "4801f0f27312a5b2a67f68d7d81295e3",
+        "message": "General CMDB request",
+        "operationName": "Aging",
+        "customerID": {
+          "_customerID": 1,
+          "_customerName": "Default Client"
+        },
+        "callerApplication": "Periodic task keyAgingTask"
+      }
+    ]
+  }
+]

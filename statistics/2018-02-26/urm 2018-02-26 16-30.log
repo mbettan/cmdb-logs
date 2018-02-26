@@ -1,0 +1,64 @@
+
+************************ Statistics from 2018-02-26 16:15:00.014 until 2018-02-26 16:30:00.008 ************************
+Operations executed: 27212
+Different operation types executed: 37
+Operations average time (in millis): 1
+The 10 worst operations are:
+# Millis:   13334 # On: 2018-02-26 16:16:56.014 # commitTransaction
+commitTransaction
+# Millis:   10017 # On: 2018-02-26 16:16:49.321 # commitTransaction
+commitTransaction
+# Millis:   10013 # On: 2018-02-26 16:16:39.291 # commitTransaction
+commitTransaction
+# Millis:   10008 # On: 2018-02-26 16:17:19.622 # commitTransaction
+commitTransaction
+# Millis:   10006 # On: 2018-02-26 16:17:09.366 # commitTransaction
+commitTransaction
+# Millis:      36 # On: 2018-02-26 16:23:37.996 # getAllByFilter [Topology_TQL]
+getAllByFilter [Topology_TQL]
+# Millis:      29 # On: 2018-02-26 16:18:40.497 # commitTransaction
+commitTransaction
+# Millis:      22 # On: 2018-02-26 16:18:55.114 # commitTransaction
+commitTransaction
+# Millis:      12 # On: 2018-02-26 16:28:37.961 # getAllByFilter [Topology_TQL]
+getAllByFilter [Topology_TQL]
+# Millis:      12 # On: 2018-02-26 16:18:31.162 # getAllByFilter [Topology_TQL]
+getAllByFilter [Topology_TQL]
+ *** All operations statistics ***
+# Avg (ms):     516 # Max (ms):   13334 # Count:    99 # Last called: 2018-02-26 16:29:46.489 # commitTransaction
+# Avg (ms):      20 # Max (ms):      36 # Count:     3 # Last called: 2018-02-26 16:28:37.961 # getAllByFilter [Topology_TQL]
+# Avg (ms):       7 # Max (ms):       8 # Count:     5 # Last called: 2018-02-26 16:28:23.153 # getAll [Topology_TQL]
+# Avg (ms):       2 # Max (ms):       2 # Count:     3 # Last called: 2018-02-26 16:28:38.416 # getAllByKeysForSingleType [Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW]
+# Avg (ms):       1 # Max (ms):       1 # Count:     1 # Last called: 2018-02-26 16:18:52.763 # getAllByFilter [Discovery_ADAPTER_METADATA]
+# Avg (ms):       1 # Max (ms):       3 # Count:     9 # Last called: 2018-02-26 16:28:39.126 # getAll [Topology_VIEW]
+# Avg (ms):       0 # Max (ms):       0 # Count:    49 # Last called: 2018-02-26 16:29:45.549 # getAll [Auth_USERS_GROUP]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 16:28:39.175 # getAll [Topology_ENRICHMENT_BUSINESS_VIEW]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 16:28:39.184 # getAll [UI_UI_JOB]
+# Avg (ms):       0 # Max (ms):       1 # Count:    10 # Last called: 2018-02-26 16:28:38.159 # getAll [Topology_FOLDER_CORRELATION]
+# Avg (ms):       0 # Max (ms):       0 # Count:    39 # Last called: 2018-02-26 16:18:33.487 # getAllByFilter [UI_CUSTOM_REPORT]
+# Avg (ms):       0 # Max (ms):       0 # Count:    21 # Last called: 2018-02-26 16:29:46.489 # putAllByForSingleType [UI_USER_PREFERENCES]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 16:28:38.420 # getAllByKeysForSingleType
+# Avg (ms):       0 # Max (ms):       1 # Count:    14 # Last called: 2018-02-26 16:29:44.048 # getAll [Topology_RESOURCE_BUNDLE]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 16:18:52.767 # getAllByFilter [Discovery_JOB_METADATA]
+# Avg (ms):       0 # Max (ms):       0 # Count:     4 # Last called: 2018-02-26 16:28:23.141 # getAll [Topology_TQL_TRACKER]
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 16:28:38.420 # getAllByKeysForSingleType [Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW, Topology_VIEW]
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 16:18:44.305 # getAll [Settings_STATE_CUSTOMER_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:     8 # Last called: 2018-02-26 16:17:29.630 # rollbackTransaction
+# Avg (ms):       0 # Max (ms):       0 # Count:     3 # Last called: 2018-02-26 16:28:39.183 # getAll [UI_RECIPIENT]
+# Avg (ms):       0 # Max (ms):       1 # Count:    28 # Last called: 2018-02-26 16:29:44.047 # getAll [Topology_FOLDER_VIEW]
+# Avg (ms):       0 # Max (ms):       1 # Count: 18490 # Last called: 2018-02-26 16:29:45.549 # getAllByIndex [Auth_ROLE_ASSIGNMENT]
+# Avg (ms):       0 # Max (ms):       0 # Count:    36 # Last called: 2018-02-26 16:29:45.549 # getAll [Auth_SINGLE_TENANT_SECURITY_DOMAIN]
+# Avg (ms):       0 # Max (ms):       1 # Count:  1794 # Last called: 2018-02-26 16:29:46.488 # getAllByIndex [Auth_USER]
+# Avg (ms):       0 # Max (ms):       1 # Count:  3870 # Last called: 2018-02-26 16:29:46.488 # getAll [Settings_LDAP_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:    36 # Last called: 2018-02-26 16:29:45.549 # getAll [Auth_ANY_TENANT_SECURITY_DOMAIN]
+# Avg (ms):       0 # Max (ms):       1 # Count:    36 # Last called: 2018-02-26 16:29:45.549 # getAll [Auth_ROLE]
+# Avg (ms):       0 # Max (ms):       0 # Count:     4 # Last called: 2018-02-26 16:16:56.151 # getAll [Settings_DYNAMIC_SETTING]
+# Avg (ms):       0 # Max (ms):       1 # Count:    99 # Last called: 2018-02-26 16:29:46.488 # startTransaction
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 16:18:16.033 # getAllByFilter [UI_USER_PREFERENCES]
+# Avg (ms):       0 # Max (ms):       1 # Count:   302 # Last called: 2018-02-26 16:29:59.642 # getAll [License_LICENSE]
+# Avg (ms):       0 # Max (ms):       0 # Count:     6 # Last called: 2018-02-26 16:28:39.140 # getAll [Topology_CORRELATION_RULE]
+# Avg (ms):       0 # Max (ms):       1 # Count:  1471 # Last called: 2018-02-26 16:29:46.488 # getAll [Auth_TENANT]
+# Avg (ms):       0 # Max (ms):       1 # Count:    13 # Last called: 2018-02-26 16:28:38.963 # getAll [Topology_FOLDER_TQL]
+# Avg (ms):       0 # Max (ms):       1 # Count:   733 # Last called: 2018-02-26 16:18:33.284 # getIncomingDependencies by type, key and cascade type [Topology_RESOURCE_BUNDLE : Topology_TQL : UPDATE]
+# Avg (ms):       0 # Max (ms):       0 # Count:     1 # Last called: 2018-02-26 16:18:44.306 # getAll [Settings_RESOURCE_GLOBAL_SETTING]
+# Avg (ms):       0 # Max (ms):       0 # Count:     8 # Last called: 2018-02-26 16:17:19.621 # getAll [UI_USER_PREFERENCES]

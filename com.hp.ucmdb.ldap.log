@@ -1,0 +1,2 @@
+2018-02-21 19:12:20,020  INFO   [qtp1607453282-105156] - The LDAP URL ldap://10.3.61.31:389/DC=hybridit,dc=hpecic,dc=net??sub meets the requirements
+2018-02-21 19:36:27,406  INFO   [qtp1607453282-109941] - The LDAP URL ldap://10.3.61.31:389/DC=hybridit,dc=hpecic,dc=net??sub meets the requirements

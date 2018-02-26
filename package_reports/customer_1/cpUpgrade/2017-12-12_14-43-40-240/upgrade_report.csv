@@ -1,0 +1,5 @@
+Type,Name,Package,Existence Status,Equality Status,Merge Strategy,Conflict Strategy,Final Strategy
+adapterCode,ALMAdapter/alm-adapter.jar,ALMAdapter.zip,NEW,,,,USE_NEW
+adapterCode,ALMAdapter/sample.attribute.mappings.properties,ALMAdapter.zip,NEW,,,,USE_NEW
+adapterCode,ALMAdapter/sample.severity.mappings.properties,ALMAdapter.zip,NEW,,,,USE_NEW
+discoveryPatterns,ALMAdapter.xml,ALMAdapter.zip,NEW,,,,USE_NEW

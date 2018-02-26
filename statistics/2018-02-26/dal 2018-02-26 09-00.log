@@ -1,0 +1,34 @@
+
+************************ Statistics from 2018-02-26 08:45:00.019 until 2018-02-26 09:00:00.001 ************************
+Operations executed: 570
+Different operation types executed: 7
+Operations average time (in millis): 2
+The 10 worst operations are:
+# Millis:    1379 # On: 2018-02-26 08:46:13.226 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+null
+# Millis:     318 # On: 2018-02-26 08:45:13.225 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+null
+# Millis:     115 # On: 2018-02-26 08:45:47.675 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       4 # On: 2018-02-26 08:54:17.677 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 08:45:17.675 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 08:48:17.675 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 08:46:02.676 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 08:49:17.675 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 08:47:17.674 # SELECT * FROM HA_WRITER for update
+null
+# Millis:       3 # On: 2018-02-26 08:46:17.674 # SELECT * FROM HA_WRITER for update
+null
+ *** All operations statistics ***
+# Avg (ms):      50 # Max (ms):    1379 # Count:    30 # Last called: 2018-02-26 08:59:43.226 # SELECT VERSION FROM CONTENT_PACKS ORDER BY VERSION ASC
+# Avg (ms):       1 # Max (ms):     115 # Count:    60 # Last called: 2018-02-26 08:59:47.677 # SELECT * FROM HA_WRITER for update
+# Avg (ms):       0 # Max (ms):       3 # Count:    80 # Last called: 2018-02-26 08:59:31.290 # select * from DB_CONTEXT
+# Avg (ms):       0 # Max (ms):       3 # Count:    60 # Last called: 2018-02-26 08:59:47.679 # UPDATE HA_WRITER SET SERVER_ID=?,TIMESTAMP=?,SUGGESTED_SERVER_ID=?,SUGGESTION_TIMESTAMP=?
+# Avg (ms):       0 # Max (ms):       2 # Count:    60 # Last called: 2018-02-26 08:59:47.679 # SELECT ((EXTRACT(EPOCH FROM now())) :: bigint)
+# Avg (ms):       0 # Max (ms):       1 # Count:   140 # Last called: 2018-02-26 08:59:49.380 # select * from CUSTOMER_REGISTRATION order by ID
+# Avg (ms):       0 # Max (ms):       1 # Count:   140 # Last called: 2018-02-26 08:59:49.381 # select IS_ACTIVE from CUSTOMER_REGISTRATION where ID=?

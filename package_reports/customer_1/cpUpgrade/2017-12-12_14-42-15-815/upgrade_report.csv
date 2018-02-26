@@ -1,0 +1,2 @@
+Type,Name,Package,Existence Status,Equality Status,Merge Strategy,Conflict Strategy,Final Strategy
+dynamicSettings,dynamicSettings.xml,dynamicSettings.zip,NEW,,,,USE_NEW
